@@ -13,4 +13,8 @@
 
 **Etapas do Projeto**:
 
-1- Obtenção de uma base de dados do ENEM que pode ficar disponível offline; uso da API do ENEM a partir de opensource para verificação de possibilidade: https://docs.enem.dev/introduction
+1- Obtenção de uma base de dados de diferentes vestibulares (propositalmente limitada)
+2- Análise das dificuldades das questões
+3- Criação do modelo de aprendizado de máquina para análise de outras questões
+4- Obtenção de novo conjunto de dados
+5- Aplicação do modelo de aprendizado para classificação das questões
