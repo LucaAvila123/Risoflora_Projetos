@@ -11,4 +11,4 @@
 
 ***Acompanhamento***
 
-Ferramenta para envio automático de mensagens, usando pywhatkit: 2h
+Ferramenta para envio automático de mensagens, usando pywhatkit: tempo gasto: 2h15 em 01/03/2026
