@@ -12,4 +12,5 @@
 
 
 **Etapas do Projeto**:
+
 1- Obtenção de uma base de dados do ENEM que pode ficar disponível offline; uso da API do ENEM a partir de opensource para verificação de possibilidade: https://docs.enem.dev/introduction
