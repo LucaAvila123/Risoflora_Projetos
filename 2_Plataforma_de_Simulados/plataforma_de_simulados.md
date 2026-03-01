@@ -14,6 +14,7 @@
 **Etapas do Projeto**:
 
 1- Importação de questões para uma base de dados de diferentes vestibulares (propositalmente limitada)
+  - Questões importadas desde o ENEM 2018; Extração de imagens está com problema (necessário resolver questões do código) - horas gastas em 28/02/2026: 1h30 
 
 2- Análise das dificuldades das questões
 
