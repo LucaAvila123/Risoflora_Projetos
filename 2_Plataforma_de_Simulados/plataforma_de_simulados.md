@@ -13,7 +13,7 @@
 
 **Etapas do Projeto**:
 
-1- Obtenção de uma base de dados de diferentes vestibulares (propositalmente limitada)
+1- Importação de questões para uma base de dados de diferentes vestibulares (propositalmente limitada)
 2- Análise das dificuldades das questões
 3- Criação do modelo de aprendizado de máquina para análise de outras questões
 4- Obtenção de novo conjunto de dados
