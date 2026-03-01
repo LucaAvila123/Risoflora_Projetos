@@ -10,5 +10,7 @@
 
 ***Carga horária prevista***: 40h
 
+***Acompanhamento***
+
 1- Obtenção da base de dados
   - Arquivos JSON extraídos das provas do ENEM de 2018 a 2025; extração de imagens ainda está com problema; horário gasto: 1h30 em 28/02/2026

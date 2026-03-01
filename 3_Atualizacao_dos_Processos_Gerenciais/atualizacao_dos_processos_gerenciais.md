@@ -8,3 +8,9 @@
 **Requisitos**: a base de dados (tornados sigilosos) dos estudantes do cursinho, um resumo de todos os processos gerenciais para saber como incrementá-los e acesso aos documentos de planejamento
 
 **Carga horária prevista**: 20 horas
+
+***Acompanhamento***
+
+Recomendação de ferramenta: Meta Business Suite para automatização de mensagens via WhatsApp; precisaria acessar essa ferramenta a partir da conta oficial do projeto para poder acessar WhatsApp nisso; vou testar no WhatsApp Web pessoal certas coisas
+
+Ferramenta para envio automático de mensagens (tempo usado): 2h

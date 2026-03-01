@@ -9,3 +9,6 @@
 **Requisitos**: um cadastro geral de usuários com senha; uma plataforma segura de submissões de textos e arquivos; um repositório/banco de dados dos envios do fórum; uma guia de busca textual
 
 **Carga horária prevista**: 40h
+
+***Acompanhamento***
+

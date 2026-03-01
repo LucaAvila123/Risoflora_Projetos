@@ -1,0 +1,17 @@
+version: '3'
+services:
+  chromium:
+    image: lscr.io/linuxserver/chromium:latest
+    container_name: chromium
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Etc/UTC
+      - CHROME_CLI=https://www.linuxserver.io/ #optional
+    volumes:
+      - /path/to/chromium/config:/config # Modify the host path
+    ports:
+      - 3000:3000
+      - 3001:3001
+    shm_size: "1gb" # Required for proper browser function
+    restart: unless-stopped
