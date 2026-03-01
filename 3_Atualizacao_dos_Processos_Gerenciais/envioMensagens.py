@@ -8,12 +8,12 @@ import csv
 with open('./3_Atualizacao_dos_Processos_Gerenciais/cronograma.csv', mode='r', encoding='utf-8') as arquivo:
     leitor = csv.reader(arquivo)
     
-    # Pular o cabeçalho, se necessário
+    # Pular o cabeçalho, é necessário
     next(leitor)
     
     # Percorrer cada linha
     for linha in leitor:
-        # A linha é tratada como uma lista
+        # Cada linha é tratada como uma lista de strings
         # Nome,Numero,Disciplina,Data,Horario
         # Formato de Numero: ++55XXYYYYYYYYY, sendo XX o DDD e Y o numero de fato; vai funcionar se tiver WhatsApp
         # print(linha[0], linha[1], linha[2], linha[3], linha[4]) # Acessando colunas pelo índice
@@ -28,5 +28,8 @@ with open('./3_Atualizacao_dos_Processos_Gerenciais/cronograma.csv', mode='r', e
         minuto = int(hora_e_minuto[1])
         print(hora, minuto)
         # não gostei do envio de mensagens cronometradas nativo da biblioteca pywhatkit
-        # talvez dê problema futuramente com o tempo para fechamento de aba e envio de mensagens, sendo um desafio para compreensão
-        kit.sendwhatmsg_instantly(phone_no=numero, message=mensagem, tab_close=True, close_time=2)
+        # talvez dê problema futuramente com o tempo para fechamento de aba e envio de mensagens, sendo um desafio para o funcionamento pleno
+        try:
+            kit.sendwhatmsg_instantly(phone_no=numero, message=mensagem, tab_close=True, close_time=2)
+        except Exception as e:
+            print(f"Problema {e} no nome de {nome}")
