@@ -11,6 +11,4 @@
 
 ***Acompanhamento***
 
-Recomendação de ferramenta: Meta Business Suite para automatização de mensagens via WhatsApp; precisaria acessar essa ferramenta a partir da conta oficial do projeto para poder acessar WhatsApp nisso; vou testar no WhatsApp Web pessoal certas coisas
-
-Ferramenta para envio automático de mensagens (tempo usado): 2h
+Ferramenta para envio automático de mensagens, usando pywhatkit: 2h
