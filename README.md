@@ -1,5 +1,5 @@
 # Risoflora_Projetos
-Repositório online de projetos de Computação como soluções tecnológicas para operações cotidianas do Cursinho Popular Risoflora, de Maria Ortiz, visando ser extensão universitária
+Repositório online de projetos de Computação como soluções tecnológicas para operações cotidianas do Cursinho Popular Risoflora, de Maria Ortiz, visando ser extensão universitária.
 São propostos três projetos diferentes, cada um com seus requisitos,  justificativas,  propostas, cliente, carga horária prevista para desenvolvimento e entregas
 
 ***1 - Fórum de Dúvidas*** 
