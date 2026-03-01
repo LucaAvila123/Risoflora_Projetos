@@ -12,8 +12,7 @@ Plataforma digital para criação de simulados para vestibular para serem feitos
 Automatização geral dos processos de gestão do cursinho popular e seus principais trâmites
 
 **Tempo gasto total no Projeto de Extensão**
-- Introdução aos monitores: 4h
-- Elaboração das determinações dos projetos: 30min
+- Compreensão do Modelo de negócio: 4h30
 - Projeto 1:
 - Projeto 2:
 - Projeto 3:
