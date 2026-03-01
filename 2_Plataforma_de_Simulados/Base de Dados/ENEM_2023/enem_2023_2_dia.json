@@ -1,0 +1,1194 @@
+{
+    "prova": "ENEM 2023",
+    "questoes": [
+        {
+            "numero": 91,
+            "pagina": 2,
+            "enunciado": "Na tirinha de Mauricio de Sousa, os personagens Cebolinha e Cascão fazem uma brincadeira utilizando duas latas \ne um barbante. Ao perceberem que o som pode ser transmitido através do barbante, resolvem alterar o comprimento do  \nbarbante para ficar cada vez mais extenso. As demais condições permaneceram inalteradas durante a brincadeira.\nSOUSA, M. Disponível em: www.monica.com.br. Acesso em: 2 out. 2012 (adaptado).\nNa prática, à medida que se aumenta o comprimento do barbante, ocorre a redução de qual característica da onda sonora?",
+            "alternativas": {
+                "A": "A\t Altura.",
+                "B": "B\t Período.",
+                "C": "C\t Amplitude.",
+                "D": "D\t Velocidade.",
+                "E": "E\t Comprimento de onda."
+            },
+            "imagens": [
+                "pag2_img0.png"
+            ]
+        },
+        {
+            "numero": 92,
+            "pagina": 2,
+            "enunciado": "Informações digitais — dados — são gravadas em discos ópticos, como CD e DVD, na forma de cavidades \nmicroscópicas. A gravação e a leitura óptica dessas informações são realizadas por um laser (fonte de luz monocromática). \nQuanto menores as dimensões dessas cavidades, mais dados são armazenados na mesma área do disco. O fator limitante \npara a leitura de dados é o espalhamento da luz pelo efeito de difração, fenômeno que ocorre quando a luz atravessa um \nobstáculo com dimensões da ordem de seu comprimento de onda. Essa limitação motivou o desenvolvimento de lasers \ncom emissão em menores comprimentos de onda, possibilitando armazenar e ler dados em cavidades cada vez menores.\nEm qual região espectral se situa o comprimento de onda do laser que otimiza o armazenamento e a leitura de dados \nem discos de uma mesma área?",
+            "alternativas": {
+                "A": "A\t Violeta.",
+                "B": "B\t Azul.",
+                "C": "C\t Verde.",
+                "D": "D\t Vermelho.",
+                "E": "E\t Infravermelho."
+            },
+            "imagens": [
+                "pag2_img0.png"
+            ]
+        },
+        {
+            "numero": 93,
+            "pagina": 2,
+            "enunciado": "O bluetooth é uma tecnologia de comunicação sem fio, de curto alcance, presente em diferentes dispositivos \neletrônicos de consumo. Ela permite que aparelhos eletrônicos diferentes se conectem e troquem dados entre \nsi. No padrão bluetooth, denominado de Classe 2, as antenas transmitem sinais de potência igual a 2,4 mW e \npossibilitam conectar dois dispositivos distanciados até 10 m. Considere que essas antenas se comportam como \nfontes puntiformes que emitem ondas eletromagnéticas esféricas e que a intensidade do sinal é calculada pela \npotência por unidade de área. Considere 3 como valor aproximado para π.\nPara que o sinal de bluetooth seja detectado pelas antenas, o valor mínimo de sua intensidade, em W\nm2 , é mais \npróximo de",
+            "alternativas": {
+                "A": "A\t 2,0 × 10–6.",
+                "B": "B\t 2,0 × 10–5.",
+                "C": "C\t 2,4 × 10–5.",
+                "D": "D\t 2,4 × 10–3.",
+                "E": "E\t 2,4 × 10–1. *020125AM2*"
+            },
+            "imagens": [
+                "pag2_img0.png"
+            ]
+        },
+        {
+            "numero": 94,
+            "pagina": 3,
+            "enunciado": "Os solos amazônicos, ricos em silicato, não são apropriados para o cultivo por serem incapazes de reter nutrientes. \nContudo, descobertas arqueológicas têm demonstrado que os antigos habitantes da Amazônia dominavam a técnica \nde preparo de um insumo agrícola natural, denominado terra preta. Esse insumo era constituído principalmente  \nde uma espécie de biocarvão (biochar) obtido da queima de matéria orgânica, como troncos de árvores, pedaços de \nossos e esterco, capaz de manter um solo fértil por anos.\nAdmite-se que o efeito do biocarvão na fertilização do solo estava, em parte, relacionado à presença de grupos \norgânicos do tipo carboxilato em sua superfície, carregados negativamente (—COO−). Esses grupos atraem íons \npositivos necessários como nutrientes, tais quais os provenientes do potássio (K), do cálcio (Ca) e do magnésio (Mg), \nalém de micronutrientes, como zinco (Zn) e ferro (Fe). Essa ligação no solo fertilizado é predominantemente iônica, \nconforme ilustra a figura, em que Mn+ representa os cátions metálicos. De acordo com a escala de Pauling, a \neletronegatividade do elemento oxigênio é igual a 3,44.\nMn+\nO\nO–\nO\nO– Mn+\nSolo com biocarvão\nSolo fertilizado\nO quadro apresenta os valores de eletronegatividade desses cinco elementos metálicos.\nElemento metálico\nEletronegatividade\nK\n0,82\nCa\n1,00\nMg\n1,31\nZn\n1,65\nFe\n1,83\nMICHALOVIC, M. Ancient Soil Chemists of the Amazon. ChemMatters, fev. 2009 (adaptado).\nO cátion que resultará em uma interação de maior caráter iônico com o ânion carboxilato será aquele proveniente  \ndo elemento",
+            "alternativas": {
+                "A": "A\t potássio.",
+                "B": "B\t cálcio.",
+                "C": "C\t magnésio.",
+                "D": "D\t zinco.",
+                "E": "E\t ferro."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 95,
+            "pagina": 3,
+            "enunciado": "Em uma indústria alimentícia, para produção de doce de leite, utiliza-se um tacho de parede oca com uma entrada \npara vapor de água a 120 °C  e uma saída para água líquida em equilíbrio com o vapor a 100 °C. Ao passar pela parte \noca do tacho, o vapor de água transforma-se em líquido, liberando energia. A parede transfere essa energia para o \ninterior do tacho, resultando na evaporação de água e consequente concentração do produto.\nNo processo de concentração do produto, é utilizada energia proveniente",
+            "alternativas": {
+                "A": "A\t somente do calor latente de vaporização.",
+                "B": "B\t somente do calor latente de condensação.",
+                "C": "C\t do calor sensível e do calor latente de vaporização.",
+                "D": "D\t do calor sensível e do calor latente de condensação.",
+                "E": "E\t do calor latente de condensação e do calor latente de vaporização. *020125AM3*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 96,
+            "pagina": 4,
+            "enunciado": "",
+            "alternativas": {
+                "A": "A\t I.",
+                "B": "B\t II.",
+                "C": "C\t III.",
+                "D": "D\t IV.",
+                "E": "E\t V."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 97,
+            "pagina": 4,
+            "enunciado": "De acordo com a Constituição Federal, é competência \ndos municípios o gerenciamento dos serviços de limpeza e \ncoleta dos resíduos urbanos (lixo). No entanto, há relatos \nde que parte desse lixo acaba sendo incinerado, liberando \nsubstâncias tóxicas para o ambiente e causando acidentes \npor explosões, principalmente quando ocorre a incineração \nde frascos de aerossóis (por exemplo: desodorantes, \ninseticidas e repelentes). A temperatura elevada provoca \na vaporização de todo o conteúdo dentro desse tipo de \nfrasco, aumentando a pressão em seu interior até culminar \nna explosão da embalagem.\nZVEIBIL, V. Z. et al. Cartilha de limpeza urbana. Disponível em: \nwww.ibam.org.br. Acesso em: 6 jul. 2015 (adaptado).\nSuponha um frasco metálico de um aerossol de \ncapacidade igual a 100 mL, contendo 0,1 mol de produtos \ngasosos à temperatura de 650 °C, no momento da explosão.\nConsidere: R = 0,082 L atm\nmol K\n⋅\n⋅",
+            "alternativas": {
+                "A": "A\t 756.",
+                "B": "B\t 533.",
+                "C": "C\t 76.",
+                "D": "D\t 53.",
+                "E": "E\t 13."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 98,
+            "pagina": 4,
+            "enunciado": "O circuito com três lâmpadas incandescentes idênticas, \nrepresentado na figura, consiste em uma associação mista \nde resistores. Cada lâmpada (L 1, L2 e L3) é associada, \nem paralelo, a um resistor de resistência R, formando um \nconjunto. Esses conjuntos são associados em série, tendo \ntodas as lâmpadas o mesmo brilho quando ligadas à fonte \nde energia. Após vários dias em uso, apenas a lâmpada L2 \nqueima, enquanto as demais permanecem acesas.\nFonte de\nenergia\nR\nL³\nR\nR\nL²\nL¹\nEm relação à situação em que todas as lâmpadas \nfuncionam, após a queima de L2, os brilhos das \nlâmpadas serão",
+            "alternativas": {
+                "A": "A\t os mesmos.",
+                "B": "B\t mais intensos.",
+                "C": "C\t menos intensos.",
+                "D": "D\t menos intenso para L 1 e o mesmo para L3.",
+                "E": "E\t mais intenso para L 1 e menos intenso para L3.   *020125AM4*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 99,
+            "pagina": 5,
+            "enunciado": "",
+            "alternativas": {
+                "A": "A\t estimulação de leucócitos induzida pela capa lipídica  contendo RNAm.",
+                "B": "B\t atuação do RNAm como sequestrador do vírus para  o meio extracelular.",
+                "C": "C\t tradução do RNAm em proteína viral, desencadeando  a resposta antigênica.",
+                "D": "D\t competição entre o RNAm vacinal e o RNA viral pelos  sítios dos ribossomos.",
+                "E": "E\t incorporação do RNAm viral ao genoma do hospedeiro,  gerando novo fenótipo."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 100,
+            "pagina": 5,
+            "enunciado": "Na fertilização in vitro, espermatozoides são adicionados \naos gametas femininos retirados de uma mulher. Após o \nperíodo de incubação, a fecundação é favorecida pela ação \nde enzimas. Em um procedimento realizado, observou-se \nque nenhum dos gametas femininos foi fertilizado e, \nposteriormente, verificou-se que havia sido adicionado, \nequivocadamente, um coquetel de inibidores das enzimas do \nacrossomo, no lugar de um dos nutrientes constituintes do \nmeio de cultura.\nO coquetel de inibidores impediu o(a)",
+            "alternativas": {
+                "A": "A\t formação do pronúcleo masculino.",
+                "B": "B\t início da divisão mitótica do zigoto.",
+                "C": "C\t término da segunda divisão meiótica do ovócito.",
+                "D": "D\t passagem do espermatozoide pela corona radiata e  zona pelúcida.",
+                "E": "E\t fusão das membranas plasmáticas do ovócito e do  espermatozoide."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 101,
+            "pagina": 5,
+            "enunciado": "O fogão por indução funciona a partir do surgimento \nde uma corrente elétrica induzida no fundo da panela, \ncom consequente transformação de energia elétrica \nem calor por efeito Joule. A principal vantagem desses \nfogões é a eficiência energética, que é substancialmente \nmaior que a dos fogões convencionais.",
+            "alternativas": {
+                "A": "A\t radiação.",
+                "B": "B\t condução.",
+                "C": "C\t campo elétrico variável.",
+                "D": "D\t campo magnético variável.",
+                "E": "E\t ressonância eletromagnética."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 102,
+            "pagina": 5,
+            "enunciado": "Uma academia decide trocar gradualmente seus \naparelhos de musculação. Agora, os frequentadores \nque utilizam os aparelhos do tipo 1 podem também \nutilizar os aparelhos do tipo 2, representados na figura, \npara elevar cargas correspondentes às massas M1 e M2, \ncom velocidade constante. A fim de que o exercício seja \nrealizado com a mesma força F, os usuários devem ser \norientados a respeito da relação entre as cargas nos dois \ntipos de aparelhos, já que as polias fixas apenas mudam a \ndireção das forças, enquanto a polia móvel divide as forças.\nEm ambos os aparelhos, considere as cordas \ninextensíveis, as massas das polias e das cordas desprezíveis \ne que não há dissipação de energia.\nF\nF\nM1\nM2\nAparelho do tipo 2\nAparelho do tipo 1\nPara essa academia, qual deve ser a razão M\nM\n2\n1\n informada \naos usuários?",
+            "alternativas": {
+                "A": "A\t 1 4",
+                "B": "B\t 1 2",
+                "C": "C\t 1",
+                "D": "D\t 2",
+                "E": "E\t 4 *020125AM5*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 103,
+            "pagina": 6,
+            "enunciado": "Um garoto comprou vários abacates na feira, mas \ndescobriu que eles não estavam maduros o suficiente \npara serem consumidos. Sua mãe recomendou que \nele colocasse os abacates em um recipiente fechado, \npois isso aceleraria seu amadurecimento. Com certa \ndúvida, o garoto realizou esta experiência: colocou \nalguns abacates no recipiente e deixou os demais em \numa fruteira aberta. Surpreendendo-se, ele percebeu \nque os frutos que estavam no recipiente fechado \namadureceram mais rapidamente.",
+            "alternativas": {
+                "A": "A\t acúmulo de gás etileno.",
+                "B": "B\t redução da umidade do ar.",
+                "C": "C\t aumento da concentração de CO2.",
+                "D": "D\t diminuição da intensidade luminosa.",
+                "E": "E\t isolamento do contato com O2 atmosférico."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 104,
+            "pagina": 6,
+            "enunciado": "Há muito tempo são conhecidas espécies de \nlesmas-do-mar com uma capacidade ímpar: guardar \nparte da maquinaria das células das algas que \nconsomem — os cloroplastos — e mantê-los funcionais \ndentro das suas próprias células, obtendo assim \nparte do seu alimento. Investigadores portugueses \ndescobriram que essas lesmas-do-mar podem ser \nmais eficientes nesse processo do que as próprias \nalgas que consomem.\nDisponível em: www.cienciahoje.pt. Acesso em: 10 fev. 2015 (adaptado).\nEssa adaptação confere a esse organismo a capacidade \nde obter primariamente",
+            "alternativas": {
+                "A": "A\t ácidos nucleicos.",
+                "B": "B\t carboidratos.",
+                "C": "C\t proteínas.",
+                "D": "D\t vitaminas.",
+                "E": "E\t lipídios."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 105,
+            "pagina": 6,
+            "enunciado": "",
+            "alternativas": {
+                "A": "A\t Urina.",
+                "B": "B\t Saliva.",
+                "C": "C\t Fezes.",
+                "D": "D\t Sangue.",
+                "E": "E\t Secreção ocular."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 106,
+            "pagina": 6,
+            "enunciado": "Um professor lança uma esfera verticalmente para \ncima, a qual retorna, depois de alguns segundos, ao ponto \nde lançamento. Em seguida, lista em um quadro todas as \npossibilidades para as grandezas cinemáticas.\nGrandeza cinemática\nMódulo\nSentido\nVelocidade\nv ≠ 0\nPara cima\nPara baixo\nv = 0\nIndefi nido*\nAceleração\na ≠ 0\nPara cima\nPara baixo\na = 0\nIndefi nido*\n*Grandezas com módulo nulo não têm sentido definido.\nEle solicita aos alunos que analisem as grandezas \ncinemáticas no instante em que a esfera atinge a altura \nmáxima, escolhendo uma combinação para os módulos \ne sentidos da velocidade e da aceleração.",
+            "alternativas": {
+                "A": "A\t v = 0 e a ≠ 0 para cima.",
+                "B": "B\t v ≠ 0 para cima e a = 0.",
+                "C": "C\t v = 0 e a ≠ 0 para baixo.",
+                "D": "D\t v ≠ 0 para cima e a ≠ 0 para cima.",
+                "E": "E\t v ≠ 0 para baixo e a ≠ 0 para baixo. *020125AM6*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 107,
+            "pagina": 7,
+            "enunciado": "Muitas mulheres sofrem com desconfortos nos dias \nque antecedem a menstruação, a chamada tensão \npré-menstrual. Entre outros sintomas, podem ocorrer \nalterações de humor. Atualmente, acredita-se que os \nsintomas são resultado da queda na concentração do \nneurotransmissor serotonina, que, por sua vez, está \nrelacionado com a diminuição na produção dos hormônios \novarianos estrógeno e progesterona, observada nessa \nfase do ciclo feminino.\nDIMMOCK, P. W. et al. Efficacy of Selective Serotonin-Reuptake Inhibitors in Premenstrual \nSyndrome: a Systematic Review. The Lancet, n. 9 236, 2000 (adaptado).",
+            "alternativas": {
+                "A": "A\t regressão do corpo lúteo ovariano.",
+                "B": "B\t diminuição na produção de ocitocina.",
+                "C": "C\t liberação do gameta feminino na ovulação.",
+                "D": "D\t aumento nos níveis dos hormônios LH e FSH.",
+                "E": "E\t elevação nos níveis sorológicos de adrenalina."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 108,
+            "pagina": 7,
+            "enunciado": "As cetonas fazem parte de famílias olfativas encontradas \nem muitos alimentos. A molécula de hexan-3-ona é um \nexemplo desses compostos voláteis responsáveis pelo \naroma, podendo ser obtida por processos energéticos \nrealizados em meio ácido, na presença de oxidantes como \no permanganato de potássio.\nPara se produzir esse composto volátil em laboratório, \ndeve-se oxidar a molécula de",
+            "alternativas": {
+                "A": "A\t hexanal.",
+                "B": "B\t hexan-1-ol.",
+                "C": "C\t hexan-3-ol.",
+                "D": "D\t hex-1-en-1-ol.",
+                "E": "E\t ácido hexanoico."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 109,
+            "pagina": 7,
+            "enunciado": "Durante a evolução das plantas, ocorreu uma transição \ndo ambiente aquático para o ambiente terrestre graças ao \nsurgimento de algumas estruturas que as tornaram \nindependentes da água. Esse fato permitiu maior dispersão \ndesse grupo de seres vivos, sendo possível observá-los \nem diferentes ambientes na atualidade.\nQual estrutura possibilitou a independência da água para \na fecundação dos seres vivos citados acima?",
+            "alternativas": {
+                "A": "A\t Fruto.",
+                "B": "B\t Esporo.",
+                "C": "C\t Semente.",
+                "D": "D\t Tubo polínico.",
+                "E": "E\t Vaso condutor."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 110,
+            "pagina": 7,
+            "enunciado": "O vidro contendo alumínio em sua composição é \num excelente material para acondicionar medicamentos \ne suplementos, porque pode ser esterilizado por \naquecimento. No entanto, quando o medicamento \nou suplemento contém substâncias que se ligam \nfortemente ao íon desse metal, a dissolução do \nalumínio é promovida em função do deslocamento \ndo equilíbrio químico estabelecido entre a espécie \nimobilizada no vidro e a espécie em solução. Por essa \nrazão, recomenda-se que suplementos de nutrição de \nrecém-nascidos contendo gluconato de cálcio sejam \nacondicionados em embalagens plásticas, e não nesse \ntipo de vidro.\nAtualização da recomendação da Sociedade Portuguesa de Neonatologia. \nDisponível em: www.spneonatologia.pt. Acesso em: 22 out. 2021 (adaptado).\nCaso esse suplemento seja acondicionado em embalagem \ndesse tipo de vidro, o risco de contaminação por alumínio \nserá maior se o(a)",
+            "alternativas": {
+                "A": "A\t vidro do frasco for translúcido.",
+                "B": "B\t concentração de gluconato de cálcio for alta.",
+                "C": "C\t frasco de vidro apresentar uma maior espessura.",
+                "D": "D\t vidro for previamente esterilizado em altas  temperaturas.",
+                "E": "E\t reação do alumínio com gluconato de cálcio for  endotérmica."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 111,
+            "pagina": 7,
+            "enunciado": "Barbatimão é o nome popular de uma árvore cuja \ncasca é utilizada para fins medicinais. Essa casca é \nconstituída principalmente de dois tecidos vegetais: \nperiderme e floema. A extração da casca tem levado à \nmorte muitos indivíduos dessa espécie, quando o corte \nretira um anel completo ao longo da circunferência do \ntronco. Aqueles que têm parte da casca retirada sem \ncompletar essa circunferência podem sobreviver.",
+            "alternativas": {
+                "A": "A\t fotossíntese.",
+                "B": "B\t transpiração.",
+                "C": "C\t troca de gases.",
+                "D": "D\t formação de brotos.",
+                "E": "E\t nutrição das raízes.   *020125AM7*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 112,
+            "pagina": 8,
+            "enunciado": "O descarte de detergentes comuns nos esgotos \ndomésticos ocasiona a formação de uma camada \nde espuma que impede a entrada de oxigênio na \nágua. Os microrganismos que vivem nessas águas \nnão são capazes de quebrar moléculas ramificadas, \nocorrendo assim um desequilíbrio ambiental nos rios.",
+            "alternativas": {
+                "A": "A\t Retirar a parte polar da molécula.",
+                "B": "B\t Eliminar as insaturações do anel aromático.",
+                "C": "C\t Trocar o grupo aniônico por um grupo neutro.",
+                "D": "D\t Alterar o grupo aniônico por um grupo catiônico.",
+                "E": "E\t Modificar a cadeia carbônica para cadeia normal."
+            },
+            "imagens": [
+                "pag8_img0.png",
+                "pag8_img1.png"
+            ]
+        },
+        {
+            "numero": 113,
+            "pagina": 8,
+            "enunciado": "Avaliação de substâncias genotóxicas\nO ensaio de micronúcleos é um teste de avaliação de \ngenotoxicidade que associa a presença de micronúcleos \n(pequenos núcleos que aparecem próximo aos núcleos \ndas células) com lesões genéticas. Os micronúcleos são \nfragmentos de DNA encapsulados, provenientes do fuso \nmitótico durante a divisão celular.\nDIAS, V. M. Micronúcleos em células tumorais: biologia e implicações \npara a tumorigênese. Dissertação de Mestrado. USP, 2006 (adaptado).\nOs micronúcleos se originam dos(as)",
+            "alternativas": {
+                "A": "A\t nucléolos.",
+                "B": "B\t lisossomos.",
+                "C": "C\t ribossomos.",
+                "D": "D\t mitocôndrias.",
+                "E": "E\t cromossomos."
+            },
+            "imagens": [
+                "pag8_img0.png",
+                "pag8_img1.png"
+            ]
+        },
+        {
+            "numero": 114,
+            "pagina": 8,
+            "enunciado": "O petróleo é uma matéria-prima muito valiosa \ne métodos geofísicos são úteis na sua prospecção. \nÉ possível identificar a composição de materiais \nestratificados medindo-se a velocidade de propagação \ndo som (onda mecânica) através deles. Considere que \numa camada de 450 m de um líquido se encontra presa \nno subsolo entre duas camadas rochosas, conforme o \nesquema. Um pulso acústico (que gera uma vibração \nmecânica) é emitido a partir da superfície do solo, onde \nsão posteriormente recebidas duas vibrações refletidas \n(ecos). A primeira corresponde à reflexão do pulso na \ninterface superior do líquido com a camada rochosa.",
+            "alternativas": {
+                "A": "A\t 270.",
+                "B": "B\t 540.",
+                "C": "C\t 818.",
+                "D": "D\t 1 500.",
+                "E": "E\t 1 800.   *020125AM8*"
+            },
+            "imagens": [
+                "pag8_img0.png",
+                "pag8_img1.png"
+            ]
+        },
+        {
+            "numero": 115,
+            "pagina": 9,
+            "enunciado": "É comum em viagens de avião sermos solicitados a \ndesligar aparelhos cujo funcionamento envolva a emissão \nou a recepção de ondas eletromagnéticas, como celulares.",
+            "alternativas": {
+                "A": "A\t forem ambas audíveis.",
+                "B": "B\t tiverem a mesma potência.",
+                "C": "C\t tiverem a mesma frequência.",
+                "D": "D\t tiverem a mesma intensidade.",
+                "E": "E\t propagarem-se com velocidades diferentes."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 116,
+            "pagina": 9,
+            "enunciado": "O Aldrin é um inseticida agrícola organoclorado \nsintético de baixa polaridade, cuja estrutura molecular \nsimétrica, de fórmula C12H8Cl6, está representada na \nfigura. Introduzido na agricultura a partir da década de \n1950, esse composto apresenta alta persistência no meio \nambiente e acumulação nos organismos, sendo danoso \npara a saúde. \nAldrin\nCl\nCl\nCl\nCl\nCl\nCl\nC\nH\nH\nC\nVIEGAS JÚNIOR, C. Terpenos com atividade inseticida: uma alternativa para \no controle químico de insetos. Química Nova, v. 26, n. 3, 2003 (adaptado).\nUm pesquisador coletou fluidos biológicos de indivíduos \nde uma população contaminada por esse inseticida agrícola. \nEle analisou amostras de saliva, sangue, lágrima, urina e \nleite quanto à presença dessa substância.\nEm qual dos fluidos o pesquisador provavelmente encontrou \na maior concentração dessa substância?",
+            "alternativas": {
+                "C": "C\t Lágrima, em razão da concentração de sais.",
+                "A": "A\t Saliva, por consequência da atividade de enzimas.",
+                "B": "B\t Sangue, em função das hemácias e leucócitos.",
+                "D": "D\t Urina, pela presença de moléculas de ureia.",
+                "E": "E\t Leite, por causa do alto teor de gorduras."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 117,
+            "pagina": 9,
+            "enunciado": "Uma cafeteria adotou copos fabricados a partir \nde uma composição de 50% de plástico reciclado não \nbiodegradável e 50% de casca de café. O copo é reutilizável \ne retornável, pois o material, semelhante a uma cerâmica, \nsuporta a lavagem. Embora ele seja comercializado por \num preço considerado alto quando comparado ao de um \ncopo de plástico descartável, essa cafeteria possibilita aos \nclientes retornarem o copo sujo e levarem o café quente \nservido em outro copo já limpo e higienizado. O material \ndesse copo oferece também o conforto de não esquentar \nna parte externa.\nCafeteria adota copo reutilizável feito com casca de café. Disponível em:  \nwww.gazetadopovo.com.br. Acesso em: 5 dez. 2019 (adaptado).\nQuais duas vantagens esse copo apresenta em \ncomparação ao copo descartável?",
+            "alternativas": {
+                "A": "A\t Ter a durabilidade de uma cerâmica e ser totalmente  biodegradável.",
+                "B": "B\t Ser tão durável quanto uma cerâmica e ter alta  condutividade térmica.",
+                "C": "C\t Ser um mau condutor térmico e aumentar o resíduo  biodegradável na natureza.",
+                "D": "D\t Ter baixa condutividade térmica e reduzir o resíduo  não biodegradável na natureza.",
+                "E": "E\t Ter alta condutividade térmica e possibilitar a  degradação do material no meio ambiente."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 118,
+            "pagina": 9,
+            "enunciado": "O consumo exagerado de refrigerantes é preocupante, \npois contribui para o aumento de casos de obesidade e \ndiabetes. Considere dois refrigerantes enlatados, um \ncomum e um diet, e que ambos possuam a mesma \nquantidade de aditivos, exceto pela presença de \naçúcar. O refrigerante comum contém basicamente \nágua carbonatada e grande quantidade de açúcar;  \njá o refrigerante diet tem água carbonatada e adoçantes, \ncujas massas são muito pequenas.\nCAVAGIS, A. D. M.; PEREIRA, E. A.; OLIVEIRA, L. C. Um método simples para avaliar o teor \nde sacarose e CO2 em refrigerantes. Química Nova na Escola, n. 3, ago. 2014 (adaptado).\nEntre as duas versões apresentadas, o refrigerante \ncomum possui",
+            "alternativas": {
+                "A": "A\t maior densidade.",
+                "B": "B\t menor viscosidade.",
+                "C": "C\t maior volume de gás dissolvido.",
+                "D": "D\t menor massa de solutos dissolvidos.",
+                "E": "E\t maior temperatura de congelamento.   *020125AM9*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 119,
+            "pagina": 10,
+            "enunciado": "O manual de um automóvel alerta sobre os cuidados em relação à pressão do ar no interior dos pneus. \nRecomenda-se que a pressão seja verificada com os pneus frios (à temperatura ambiente). Um motorista, \ndesatento a essa informação, realizou uma viagem longa sobre o asfalto quente e, em seguida, verificou que a \npressão P0 no interior dos pneus não era a recomendada pelo fabricante. Na ocasião, a temperatura dos pneus \nera T0. Após um longo período em repouso, os pneus do carro atingiram a temperatura ambiente T. Durante o \nresfriamento, não há alteração no volume dos pneus e na quantidade de ar no seu interior. Considere o ar dos \npneus um gás perfeito (também denominado gás ideal).\nDurante o processo de resfriamento, os valores de pressão em relação à temperatura (P × T) são representados \npelo gráfico:",
+            "alternativas": {
+                "A": "P (Pa) P0 T0 T (K) T",
+                "B": "P0 T0 T P (Pa) T (K)",
+                "C": "P0 T0 T T (K) P (Pa)",
+                "D": "T0 T T (K) P (Pa) P0",
+                "E": "P0 T0 T T (K) P (Pa) *020125AM10*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 120,
+            "pagina": 11,
+            "enunciado": "Pais com síndrome de Down",
+            "alternativas": {
+                "A": "A\t todos normais.",
+                "B": "B\t todos tetrassômicos.",
+                "C": "C\t apenas normais ou tetrassômicos.",
+                "D": "D\t apenas trissômicos ou tetrassômicos.",
+                "E": "E\t normais, trissômicos ou tetrassômicos."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 121,
+            "pagina": 11,
+            "enunciado": "Para que uma molécula dê origem a um medicamento de administração oral, além de apresentar atividade \nfarmacológica, deve ser capaz de atingir o local de ação. Para tanto, essa molécula não deve se degradar no estômago \n(onde o meio é fortemente ácido e há várias enzimas que reagem mediante catálise ácida), deve ser capaz de atravessar \nas membranas celulares e ser solúvel no plasma sanguíneo (sistema aquoso). Para os fármacos cujas estruturas são \nformadas por cadeias carbônicas longas contendo pelo menos um grupamento amino, um recurso tecnológico empregado \né sua conversão no cloridrato correspondente. Essa conversão é representada, de forma genérica, pela equação química:\nR3N + HCl \n (R3NH)+Cl–\nO aumento da eficiência de circulação do fármaco no sangue, promovido por essa conversão, deve-se ao incremento \nde seu(sua)",
+            "alternativas": {
+                "A": "A\t basicidade.",
+                "B": "B\t lipofilicidade.",
+                "C": "C\t caráter iônico.",
+                "D": "D\t cadeia carbônica.",
+                "E": "E\t estado de oxidação."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 122,
+            "pagina": 11,
+            "enunciado": "Toxicidade do cianeto",
+            "alternativas": {
+                "A": "A\t ATP.",
+                "B": "B\t água.",
+                "C": "C\t NADH.",
+                "D": "D\t dióxido de carbono.",
+                "E": "E\t citocromo c oxidase. *020125AM11*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 123,
+            "pagina": 12,
+            "enunciado": "O número de abelhas encontra-se em declínio em \nvárias regiões do mundo, inclusive no Brasil, sendo \nque vários fatores contribuem para o colapso de suas \ncolmeias. Nos Estados Unidos, bombas de sementes \nde espécies vegetais nativas têm sido utilizadas para \ncombater o desaparecimento desses insetos. Elas são \npequenas bolinhas recheadas com sementes, adubo e \nargila. Quando são arremessadas e ficam expostas ao \nsol e à chuva, germinam até mesmo em solo pouco fértil.\nDARAYA, V. Disponível em: http://planetasustentavel.abril.com.br. \nAcesso em: 2 fev. 2015 (adaptado).\nEsse método contribui para a preservação das abelhas \nporque",
+            "alternativas": {
+                "A": "A\t reduz sua predação.",
+                "B": "B\t reduz o uso de pesticidas.",
+                "C": "C\t reduz a competição por abrigo.",
+                "D": "D\t aumenta a oferta de alimento.",
+                "E": "E\t aumenta os locais de reprodução."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 124,
+            "pagina": 12,
+            "enunciado": "Os mais antigos cozinhavam o feijão na panela de ferro a \nfim de acabar com a palidez de seus filhos. Alguns chegavam \naté a colocar um prego enferrujado nesse cozimento para \nliberar o ferro contido nele. Sabe-se que esse elemento \npode ser encontrado na sua forma metálica ou iônica, \nsendo essencial para a manutenção da vida humana.\nAs estratégias citadas eram utilizadas com o objetivo de",
+            "alternativas": {
+                "A": "A\t tratar a diarreia.",
+                "B": "B\t prevenir a anemia.",
+                "C": "C\t evitar as verminoses.",
+                "D": "D\t remediar o raquitismo.",
+                "E": "E\t combater a febre amarela."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 125,
+            "pagina": 12,
+            "enunciado": "",
+            "alternativas": {
+                "A": "A\t Formar resíduos facilmente recicláveis.",
+                "B": "B\t Promover o aumento do desmatamento.",
+                "C": "C\t Contribuir para a produção de chuva ácida.",
+                "D": "D\t Emitir gases tóxicos que são lançados no ambiente.",
+                "E": "E\t Produzir calor sem o consumo de combustíveis fósseis."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 126,
+            "pagina": 12,
+            "enunciado": "Em uma indústria, o controle da dureza da água é \nimportante quando ela é utilizada em caldeiras, uma vez \nque sais pouco solúveis, formados a partir de sulfatos e \ncarbonatos, podem acumular-se no interior das tubulações, \ncausando obstruções. Para avaliar a água utilizada nessa \nindústria, foram realizados testes de qualidade que \nconsideraram os seguintes parâmetros:\nTeste\nParâmetro medido\n1\nCálcio\n2\nCloreto\n3\nTurbidez\n4\nColiformes totais\n5\nSólidos sedimentáveis\nQual teste deve ser considerado para controlar a \nformação desse tipo de obstrução de tubulações?",
+            "alternativas": {
+                "A": "A\t 1",
+                "B": "B\t 2",
+                "C": "C\t 3",
+                "D": "D\t 4",
+                "E": "E\t 5"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 127,
+            "pagina": 12,
+            "enunciado": "As aves apresentam dois tipos de músculos em seus \ncorpos: vermelhos e brancos. Aves migratórias como garças, \ngansos e patos selvagens têm os músculos vermelhos bem \ndesenvolvidos, com ampla rede de vasos sanguíneos.\nNas viagens por grandes distâncias, tais músculos são \nfundamentais, pois favorecem o(a)",
+            "alternativas": {
+                "A": "A\t execução de manobras.",
+                "B": "B\t metabolismo corpóreo elevado.",
+                "C": "C\t manutenção da aerodinâmica.",
+                "D": "D\t deslocamento a grandes velocidades.",
+                "E": "E\t capacidade de voo em grandes altitudes."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 128,
+            "pagina": 12,
+            "enunciado": "Existe no comércio um produto antimofo constituído por \numa embalagem com tampa perfurada contendo cloreto \nde cálcio anidro, CaCl2. Uma vez aberto o lacre, essa \nsubstância absorve a umidade ambiente, transformando-se \nem cloreto de cálcio di-hidratado, CaCl2⋅ 2H2O. \nConsidere a massa molar da água igual a 18 g mol−1, e a \nmassa molar do cloreto de cálcio anidro igual a 111 g mol−1.\nNa hidratação da substância presente no antimofo, o \nganho percentual, em massa, é mais próximo de",
+            "alternativas": {
+                "A": "A\t 14%",
+                "B": "B\t 16%",
+                "C": "C\t 24%",
+                "D": "D\t 32%",
+                "E": "E\t 75% *020125AM12*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 129,
+            "pagina": 13,
+            "enunciado": "Um assistente de laboratório precisou descartar sete frascos contendo solução de nitrato de mercúrio(I) que não \nforam utilizados em uma aula prática. Cada frasco continha 5,25 g de Hg2(NO3)2 dissolvidos em água. Temendo a \ntoxidez do mercúrio e sabendo que o Hg2Cl2 tem solubilidade muito baixa, o assistente optou por retirar o mercúrio da \nsolução por precipitação com cloreto de sódio (NaCl), conforme a equação química:\nHg2(NO3)2 (aq) + 2 NaCl (aq) \n Hg2Cl2 (s) + 2 NaNO3 (aq)\nNa dúvida sobre a massa de NaCl a ser utilizada, o assistente aumentou gradativamente a quantidade adicionada \nem cada frasco, como apresentado no quadro.\nFrasco\nI\nII\nIII\nIV\nV\nVI\nVII\nMassa de NaCl \nem grama (g)\n0,2\n0,4\n0,6\n0,8\n1,0\n1,2\n1,4\nO produto obtido em cada experimento foi filtrado, secado e teve sua massa aferida. O assistente organizou os \nresultados na forma de um gráfico que correlaciona a massa de NaCl adicionada com a massa de Hg2Cl2 obtida em \ncada frasco. A massa molar do Hg2(NO3)2 é 525 g mol–1, a do NaCl é 58 g mol–1 e a do Hg2Cl2 é 472 g mol–1.\nQual foi o gráfico obtido pelo assistente de laboratório?",
+            "alternativas": {
+                "A": "5 6 7 4 3 2 1 0 0,0 0,2 0,4 0,6 0,8 1,0 1,2 1,4 Massa de Hg2Cl2 (g) Massa de NaCI (g)",
+                "B": "5 6 7 4 3 2 1 0 0,0 0,2 0,4 0,6 0,8 1,0 1,2 1,4 Massa de Hg2Cl2 (g) Massa de NaCI (g)",
+                "C": "5 6 7 4 3 2 1 0 0,0 0,2 0,4 0,6 0,8 1,0 1,2 1,4 Massa de Hg2Cl2 (g) Massa de NaCI (g)",
+                "D": "D  5 6 7 4 3 2 1 0 0,0 0,2 0,4 0,6 0,8 1,0 1,2 1,4 Massa de Hg2Cl2 (g) Massa de NaCI (g)",
+                "E": "5 6 7 4 3 2 1 0 0,0 0,2 0,4 0,6 0,8 1,0 1,2 1,4 Massa de Hg2Cl2 (g) Massa de NaCI (g) *020125AM13*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 130,
+            "pagina": 14,
+            "enunciado": "Uma equipe de segurança do transporte de uma empresa \navalia o comportamento das tensões que aparecem em duas \ncordas, 1 e 2, usadas para prender uma carga de massa  \nM = 200 kg na carroceria, conforme a ilustração. Quando o \ncaminhão parte do repouso, sua aceleração é constante \ne igual a 3 m/s2 e, quando ele é freado bruscamente, sua \nfrenagem é constante e igual a 5 m/s2. Em ambas as \nsituações, a carga encontra-se na iminência de movimento, \ne o sentido do movimento do caminhão está indicado na \nfigura. O coeficiente de atrito estático entre a caixa e o \nassoalho da carroceria é igual a 0,2. Considere a aceleração \nda gravidade igual a 10 m/s2, as tensões iniciais nas cordas \niguais a zero e as duas cordas ideais.\n1\n2\nM\nV\nNas situações de aceleração e frenagem do caminhão, \nas tensões nas cordas 1 e 2, em newton, serão",
+            "alternativas": {
+                "A": "A\t aceleração: T1 = 0 e T2 = 200; frenagem: T1 = 600 e  T2 = 0.",
+                "B": "B\t aceleração: T1 = 0 e T2 = 200; frenagem: T1 = 1 400 e  T2 = 0.",
+                "C": "C\t aceleração: T1 = 0 e T2 = 600; frenagem: T1 = 600 e  T2 = 0.",
+                "D": "D\t aceleração: T1 = 560 e T2 = 0; frenagem: T1 = 0 e  T2 = 960.",
+                "E": "E\t aceleração: T1 = 640 e T2 = 0; frenagem: T1 = 0 e  T2 = 1 040."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 131,
+            "pagina": 14,
+            "enunciado": "",
+            "alternativas": {
+                "A": "A\t digeridos por enzimas.",
+                "B": "B\t acumulados nos tecidos.",
+                "C": "C\t eliminados pelos estômatos.",
+                "D": "D\t metabolizados por glândulas.",
+                "E": "E\t utilizados como fonte energética."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 132,
+            "pagina": 14,
+            "enunciado": "O ciclo do nitrogênio é composto por várias etapas, \nconforme a figura, sendo cada uma desempenhada por \num grupo específico de microrganismos.\nGás nitrogênio\nAmônia\nDetritos\nNitrito\nNitrato\n1\n2\n3\n4\n5\nSe o grupo dos microrganismos decompositores fosse \nexterminado, qual etapa não ocorreria?",
+            "alternativas": {
+                "A": "A\t 1",
+                "B": "B\t 2",
+                "C": "C\t 3",
+                "D": "D\t 4",
+                "E": "E\t 5"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 133,
+            "pagina": 14,
+            "enunciado": "Os raios cósmicos são fontes de radiação ionizante \npotencialmente perigosas para o organismo humano. \nPara quantificar a dose de radiação recebida, utiliza-se \no sievert (Sv), definido como a unidade de energia \nrecebida por unidade de massa. A exposição à radiação \nproveniente de raios cósmicos aumenta com a altitude,  \no que pode representar um problema para as tripulações \nde aeronaves. Recentemente, foram realizadas medições \nacuradas das doses de radiação ionizante para voos entre \nRio de Janeiro e Roma. Os resultados têm indicado que a \ndose média de radiação recebida na fase de cruzeiro (que \ngeralmente representa 80% do tempo total de voo) desse \ntrecho intercontinental é 2 μSv/h. As normas internacionais \nda aviação civil limitam em 1 000 horas por ano o tempo \nde trabalho para as tripulações que atuem em voos \nintercontinentais. Considere que a dose de radiação ionizante \npara uma radiografia torácica é estimada em 0,2 mSv.\nRUAS, A. C. O tripulante de aeronaves e a radiação ionizante. \nSão Paulo: Edição do Autor, 2019 (adaptado).",
+            "alternativas": {
+                "A": "A\t 8",
+                "B": "B\t 10",
+                "C": "C\t 80",
+                "D": "D\t 100",
+                "E": "E\t 1 000 *020125AM14*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 134,
+            "pagina": 15,
+            "enunciado": "Entre os medicamentos mais comuns consumidos para o alívio da dor está o ibuprofeno, um composto quiral \ncom ação anti-inflamatória e efeito analgésico, que é comercializado como fármaco opticamente puro, ou seja, sem \na mistura com outro isômero óptico. A fórmula estrutural plana do ibuprofeno é:\nO\nOH\nIbuprofeno\nAlém do ibuprofeno, destacam-se também os princípios ativos a seguir, presentes em outros medicamentos para \no alívio da dor:\nN\nH\nO\nFenacetina \nO\nO−\nDiclofenaco sódico\nNH\nCl\nCl\nNa+\nDipirona sódica\nO−Na+\nO\nO\nS\nN\nO\nN\nN\nParacetamol\nHO\nO\nO\nO\nH\nOH\nN+ Br −\nButilbrometo de escopolamina\nN\nH\nO\nO\nO princípio ativo que apresenta o mesmo tipo de isomeria espacial que o ibuprofeno é o(a)",
+            "alternativas": {
+                "A": "A\t fenacetina.",
+                "B": "B\t paracetamol.",
+                "C": "C\t dipirona sódica.",
+                "D": "D\t diclofenaco sódico.",
+                "E": "E\t butilbrometo de escopolamina."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 135,
+            "pagina": 15,
+            "enunciado": "Uma concessionária é responsável por um trecho de 480 quilômetros de uma rodovia. Nesse trecho, foram \nconstruídas 10 praças de pedágio, onde funcionários recebem os pagamentos nas cabines de cobrança. Também \nexiste o serviço automático, em que os veículos providos de um dispositivo passam por uma cancela, que se abre \nautomaticamente, evitando filas e diminuindo o tempo de viagem. Segundo a concessionária, o tempo médio para \nefetuar a passagem em uma cabine é de 3 minutos, e as velocidades máximas permitidas na rodovia são 100 km/h, \npara veículos leves, e 80 km/h, para veículos de grande porte.\nConsidere um carro e um caminhão viajando, ambos com velocidades constantes e iguais às máximas permitidas, \ne que somente o caminhão tenha o serviço automático de cobrança.\nComparado ao caminhão, quantos minutos a menos o carro leva para percorrer toda a rodovia?",
+            "alternativas": {
+                "A": "A\t 30",
+                "B": "B\t 42",
+                "C": "C\t 72",
+                "D": "D\t 288",
+                "E": "E\t 360 *020125AM15*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 136,
+            "pagina": 16,
+            "enunciado": "Alguns estudos comprovam que os carboidratos \nfornecem energia ao corpo, preservam as proteínas \nestruturais dos músculos durante a prática de atividade \nfísica e ainda dão força para o cérebro coordenar os \nmovimentos, o que de fato tem impacto positivo no \ndesenvolvimento do praticante. O ideal é consumir 1 grama \nde carboidrato para cada minuto de caminhada.\nCIRINO, C. Boa pergunta: consumir carboidratos antes dos exercícios melhora o \ndesempenho do atleta? Revista Saúde! É Vital, n. 330, nov. 2010 (adaptado).\nUm casal realizará diariamente 30 minutos de caminhada, \ningerindo, antes dessa atividade, a quantidade ideal de \ncarboidratos recomendada. Para ter o consumo ideal apenas \npor meio do consumo de pão de fôrma integral, o casal planeja \ngarantir o suprimento de pães para um período de 30 dias \nininterruptos. Sabe-se que cada pacote desse pão vem com 18 \nfatias, e que cada uma delas tem 15 gramas de carboidratos.",
+            "alternativas": {
+                "A": "A\t 1.",
+                "B": "B\t 4.",
+                "C": "C\t 6.",
+                "D": "D\t 7.",
+                "E": "E\t 8."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 137,
+            "pagina": 16,
+            "enunciado": "O mastro de uma bandeira foi instalado \nperpendicularmente ao solo em uma região plana. \nDevido aos fortes ventos, três cabos de aço, de mesmo \ncomprimento, serão instalados para dar sustentação ao \nmastro. Cada cabo de aço ficará perfeitamente esticado, \ncom uma extremidade num ponto P do mastro, a uma \naltura h do solo, e a outra extremidade, num ponto no \nchão, como mostra a figura.\nh\nP\nα\nα\nα\nOs cabos de aço formam um ângulo a com o plano \ndo chão.\nPor medida de segurança, há apenas três opções de \ninstalação:\n•\t opção I: h = 11 m e a = 30°\n•\t opção II: h = 12 m e a = 45°\n•\t opção III: h = 18 m e a = 60°",
+            "alternativas": {
+                "A": "A\t  22 3 3",
+                "B": "B\t  11 2",
+                "C": "C\t  12 2",
+                "D": "D\t  12 3",
+                "E": "E\t  22"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 138,
+            "pagina": 16,
+            "enunciado": "Um controlador de voo dispõe de um instrumento que \ndescreve a altitude de uma aeronave em voo, em função \nda distância em solo. Essa distância em solo é a medida na \nhorizontal entre o ponto de origem do voo até o ponto que \nrepresenta a projeção ortogonal da posição da aeronave, \nem voo, no solo. Essas duas grandezas são dadas numa \nmesma unidade de medida.",
+            "alternativas": {
+                "A": "A\t 1 : 5.",
+                "B": "B\t 1 : 11.",
+                "C": "C\t 1 : 55.",
+                "D": "D\t 1 : 5 000.",
+                "E": "E\t 1 : 500 000. *020125AM16*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 139,
+            "pagina": 17,
+            "enunciado": "Uma pessoa pratica quatro atividades físicas — caminhar, correr, andar de bicicleta e jogar futebol — como parte \nde seu programa de emagrecimento. Essas atividades são praticadas semanalmente de acordo com o quadro, que \napresenta o número de horas diárias por atividade.\nDias da semana\nCaminhar Correr\nAndar de bicicleta\nJogar futebol\nSegunda-feira\n1,0\n0,5\n0,0\n2,0\nTerça-feira\n0,5\n1,0\n0,5\n1,0\nQuarta-feira\n0,0\n1,5\n1,0\n0,5\nQuinta-feira\n0,0\n2,0\n0,0\n0,0\nSexta-feira\n0,0\n0,5\n0,0\n2,5\nEla deseja comemorar seu aniversário e escolhe o dia da semana em que o gasto calórico com as atividades \nfísicas praticadas for o maior. Para tanto, considera que os valores dos gastos calóricos das atividades por hora (cal/h) \nsão os seguintes:\nAtividade física\nCaminhar \nCorrer\nAndar de bicicleta \nJogar futebol\nGasto calórico (cal/h)\n248\n764\n356\n492\nO dia da semana em que será comemorado o aniversário é",
+            "alternativas": {
+                "A": "A\t segunda-feira.",
+                "B": "B\t terça-feira.",
+                "C": "C\t quarta-feira.",
+                "D": "D\t quinta-feira.",
+                "E": "E\t sexta-feira."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 140,
+            "pagina": 17,
+            "enunciado": "",
+            "alternativas": {
+                "A": "A\t (5,0 ; 5,5).",
+                "B": "B\t (8,0 ; 8,5).",
+                "C": "C\t (11,5 ; 12,5).",
+                "D": "D\t (19,5 ; 20,5).",
+                "E": "E\t (3,5 ; 4,0). *020125AM17*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 141,
+            "pagina": 18,
+            "enunciado": "O calendário maia apresenta duas contagens \nsimultâneas de anos, o chamado ano Tzolkim, composto \npor 260 dias e que determinava o calendário religioso,  \ne o ano Haab, composto por 365 dias e que determinava o \ncalendário agrícola. Um historiador encontrou evidências \nde que gerações de uma mesma família governaram certa \ncomunidade maia pelo período de 20 ciclos, sendo cada \nciclo formado por 52 anos Haab.\nDisponível em: www.suapesquisa.com. Acesso em: 20 ago. 2014.\nDe acordo com as informações fornecidas, durante \nquantos anos Tzolkim aquela comunidade maia foi \ngovernada por tal família?",
+            "alternativas": {
+                "A": "A\t 741",
+                "B": "B\t 1 040",
+                "C": "C\t 1 460",
+                "D": "D\t 2 100",
+                "E": "E\t 5 200"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 142,
+            "pagina": 18,
+            "enunciado": "Sejam a, b e c as medidas dos lados de um triângulo \nretângulo, tendo a como medida da hipotenusa. Esses \nvalores a, b e c são, respectivamente, os diâmetros dos \ncírculos C1, C2 e C3, como apresentados na figura.\nCírculo C1\nCírculo C2\nCírculo C3\nc\na\nb\nObserve que essa construção assegura, pelo teorema \nde Pitágoras, que área (C1) = área (C2) + área (C3).\nUm professor de matemática era conhecedor dessa \nconstrução e, confraternizando com dois amigos em uma \npizzaria onde são vendidas pizzas somente em formato \nde círculo, lançou um desafio: mesmo sem usar um \ninstrumento de medição, poderia afirmar com certeza se \na área do círculo correspondente à pizza que ele pedisse \nera maior, igual ou menor do que a soma das áreas das \npizzas dos dois amigos. Assim, foram pedidas três pizzas. \nO professor as dividiu ao meio e formou um triângulo com \nos diâmetros das pizzas, conforme indicado na figura.\nMeia pizza do amigo 2\nMeia pizza do\namigo 1\nMeia pizza do professor\nde matemática\nα",
+            "alternativas": {
+                "A": "A\t 0° < a < 90°",
+                "B": "B\t a = 90°",
+                "C": "C\t 90° < a < 180°",
+                "D": "D\t a = 180°",
+                "E": "E\t 180° < a < 360°"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 143,
+            "pagina": 18,
+            "enunciado": "Entre maratonistas, um parâmetro utilizado é o de \neconomia de corrida (EC). O valor desse parâmetro é \ncalculado pela razão entre o consumo de oxigênio, em \nmililitro (mL) por minuto (min), e a massa, em quilograma (kg), \ndo atleta correndo a uma velocidade constante.\nDisponível em: www.treinamentoonline.com.br. Acesso em: 23 out. 2019 (adaptado).\nUm maratonista, visando melhorar sua performance, \nauxiliado por um médico, mensura o seu consumo de \noxigênio por minuto a velocidade constante. Com base \nnesse consumo e na massa do atleta, o médico calcula \no EC do atleta.",
+            "alternativas": {
+                "A": "A\t   min mL kg ⋅",
+                "B": "B\t   mL min kg ⋅",
+                "C": "C\t  min mL kg ⋅",
+                "D": "D\t  min kg mL ⋅",
+                "E": "E\t  mL kg min ⋅ *020125AM18*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 144,
+            "pagina": 19,
+            "enunciado": "O gerente de uma fábrica pretende comparar a evolução das vendas de dois produtos similares (I e II). Para isso, \npassou a verificar o número de unidades vendidas de cada um desses produtos em cada mês. Os resultados dessa \nverificação, para os meses de abril a junho, são apresentados na tabela. \nProduto\nVendas\nem abril\n(unidade)\nVendas\nem maio\n(unidade)\nVendas\nem junho\n(unidade)\nl\n80\n90\n100\nll\n190\n170\n150\nO gerente estava decidido a cessar a produção do produto II no mês seguinte àquele em que as vendas do \nproduto I superassem as do produto II.\nSuponha que a variação na quantidade de unidades vendidas dos produtos I e II se manteve, mês a mês, como \nno período representado na tabela.\nEm qual mês o produto II parou de ser produzido?",
+            "alternativas": {
+                "A": "A\t Junho.",
+                "B": "B\t Julho.",
+                "C": "C\t Agosto.",
+                "D": "D\t Setembro.",
+                "E": "E\t Outubro."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 145,
+            "pagina": 19,
+            "enunciado": "Uma empresa de transporte faz regularmente um levantamento do número de viagens realizadas durante o dia \npor todos os 160 motoristas cadastrados em seu aplicativo. Em um certo dia, foi gerado um relatório, por meio de um \ngráfico de barras, no qual se relacionaram a quantidade de motoristas com a quantidade de viagens realizadas até \naquele instante do dia.\nQuantidade de viagens realizadas\nQuantidade de motoristas\n0\n5\n10\n15\n20\n25\n30\n35\n40\n45\n50\n55\n7\n6\n4\n3\n2\n1\n5\nComparando os valores da média, da mediana e da moda da distribuição das quantidades de viagens realizadas \npelos motoristas cadastrados nessa empresa, obtém-se",
+            "alternativas": {
+                "A": "A\t mediana = média < moda.",
+                "B": "B\t mediana = moda < média.",
+                "C": "C\t mediana < média < moda.",
+                "D": "D\t moda < média < mediana.",
+                "E": "E\t moda < mediana < média. *020125AM19*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 148,
+            "pagina": 20,
+            "enunciado": "O triângulo da figura é denominado triângulo mágico. \nNos círculos, escrevem-se os números de 1 a 6, sem \nrepetição, com um número em cada círculo. O objetivo é \ndistribuir os números de forma que as somas dos números \nem cada lado do triângulo sejam iguais.\nConsidere que os números colocados nos vértices \ndo triângulo estejam em progressão aritmética de razão \nigual a 2.\nNas condições propostas, quais as possíveis soluções \npara as somas dos números que formam os lados do \ntriângulo?",
+            "alternativas": {
+                "A": "A\t Há somente uma solução possível, e as somas em  cada lado do triângulo são iguais a 7.",
+                "B": "B\t Há somente uma solução possível, e as somas em  cada lado do triângulo são iguais a 9.",
+                "C": "C\t Há somente duas soluções possíveis, uma em que  as somas em cada lado do triângulo são iguais a 7 e  outra em que as somas são iguais a 9.",
+                "D": "D\t Há somente duas soluções possíveis, uma em que  as somas em cada lado do triângulo são iguais a 9 e  outra em que as somas são iguais a 12.",
+                "E": "E\t Há somente duas soluções possíveis, uma em que  as somas em cada lado do triângulo são iguais a 10 e  outra em que as somas são iguais a 11."
+            },
+            "imagens": [
+                "pag20_img0.png"
+            ]
+        },
+        {
+            "numero": 146,
+            "pagina": 20,
+            "enunciado": "",
+            "alternativas": {
+                "A": "A\t 0,3",
+                "B": "B\t 0,5",
+                "C": "C\t 0,9",
+                "D": "D\t 1,8",
+                "E": "E\t 2,7"
+            },
+            "imagens": [
+                "pag20_img0.png"
+            ]
+        },
+        {
+            "numero": 147,
+            "pagina": 20,
+            "enunciado": "Num certo momento de um jogo digital, a tela \napresenta a imagem representada na figura. O ponto Q1 \nrepresenta a posição de um jogador que está com a bola, \nos pontos Q2, Q3, Q4, Q5 e Q6 também indicam posições \nde jogadores da mesma equipe, e os pontos A e B indicam \nos dois pés da trave mais próxima deles. No momento da \npartida retratado, o jogador Q1 tem a posse da bola, que \nserá passada para um dos outros jogadores das posições \nQn, n ∈ {2, 3, 4, 5, 6}, cujo ângulo AQ B\nn\n tenha a mesma \nmedida do ângulo \nAQ B\n1 .\n*020125AM20*",
+            "alternativas": {},
+            "imagens": []
+        },
+        {
+            "numero": 149,
+            "pagina": 21,
+            "enunciado": "No alojamento de uma universidade, há alguns quartos com o padrão superior ao dos demais. Um desses quartos \nficou disponível, e muitos estudantes se candidataram para morar no local. Para escolher quem ficará com o quarto, \num sorteio será realizado. Para esse sorteio, cartões individuais com os nomes de todos os estudantes inscritos serão \ndepositados em uma urna, sendo que, para cada estudante de primeiro ano, será depositado um único cartão com \nseu nome; para cada estudante de segundo ano, dois cartões com seu nome; e, para cada estudante de terceiro ano, \ntrês cartões com seu nome. Foram inscritos 200 estudantes de primeiro ano, 150 de segundo ano e 100 de terceiro \nano. Todos os cartões têm a mesma probabilidade de serem sorteados.\nQual a probabilidade de o vencedor do sorteio ser um estudante de terceiro ano?",
+            "alternativas": {
+                "A": "A\t  1 2",
+                "B": "B\t  1 3",
+                "C": "C\t  1 8",
+                "D": "D\t  2 9",
+                "E": "E\t  3 8"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 150,
+            "pagina": 21,
+            "enunciado": "",
+            "alternativas": {
+                "A": "A\t 50",
+                "B": "B\t 60",
+                "C": "C\t 80",
+                "D": "D\t 140",
+                "E": "E\t 150"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 151,
+            "pagina": 21,
+            "enunciado": "Em janeiro do ano passado, a direção de uma fábrica abriu uma creche para os filhos de seus funcionários, com \n10 salas, cada uma com capacidade para atender 10 crianças a cada ano. As vagas são sorteadas entre os filhos \ndos funcionários inscritos, enquanto os não contemplados pelo sorteio formam uma lista de espera. No ano passado, \na lista de espera teve 400 nomes e, neste ano, esse número cresceu 10%.",
+            "alternativas": {
+                "A": "A\t 10.",
+                "B": "B\t 11.",
+                "C": "C\t 13.",
+                "D": "D\t 30.",
+                "E": "E\t 33. *020125AM21*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 152,
+            "pagina": 22,
+            "enunciado": "Os números figurados pentagonais provavelmente \nforam introduzidos pelos pitagóricos por volta do \nséculo V a.C. As figuras ilustram como obter os seis \nprimeiros deles, sendo os demais obtidos seguindo o \nmesmo padrão geométrico.\n22\n12\n5\n1\n35\n51\nO oitavo número pentagonal é",
+            "alternativas": {
+                "A": "A\t 59.",
+                "B": "B\t 83.",
+                "C": "C\t 86.",
+                "D": "D\t 89.",
+                "E": "E\t 92."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 153,
+            "pagina": 22,
+            "enunciado": "",
+            "alternativas": {
+                "A": "figura ilustra uma roda-gigante no exato instante em  que a cadeira onde se encontra a pessoa P está no ponto  mais alto dessa roda-gigante. P Solo Com o passar do tempo, à medida que a roda-gigante  gira, com velocidade angular constante e no sentido  horário, a altura da cadeira onde se encontra a pessoa P,  em relação ao solo, vai se alterando. *020125AM22*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 154,
+            "pagina": 23,
+            "enunciado": "Um professor, para promover a aprendizagem dos \nestudantes em estatística, propôs uma atividade. O objetivo \nera verificar o percentual de estudantes com massa corporal \nabaixo da média e altura acima da média de um grupo de \nestudantes. Para isso, usando uma balança e uma fita \nmétrica, avaliou uma amostra de dez estudantes, anotando as \nmedidas observadas. O gráfico apresenta a massa corporal, \nem quilograma, e a altura, em metro, obtidas na atividade.\nMassa corporal e altura de estudantes\nAltura (m)\nMassa corporal (kg)\n0\n1,8\n1,75\n1,7\n1,65\n1,6\n1,55\n1,5\n1,45\n20\n40\n60\n80\n100\n120\n140\nApós a coleta dos dados, os estudantes calcularam a \nmédia dos valores obtidos, referentes à massa corporal \ne à altura, obtendo, respectivamente, 80 kg e 1,65 m.\nQual é o percentual de estudantes dessa amostra com \nmassa corporal abaixo da média e altura acima da média?",
+            "alternativas": {
+                "A": "A\t 10",
+                "B": "B\t 20",
+                "C": "C\t 30",
+                "D": "D\t 50",
+                "E": "E\t 70"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 155,
+            "pagina": 23,
+            "enunciado": "Um pescador tem um custo fixo diário de R$ 900,00 \ncom combustível, iscas, manutenção de seu barco e outras \npequenas despesas. Ele vende cada quilograma de peixe por \nR$ 5,00. Sua meta é obter um lucro mínimo de R$ 800,00  \npor dia. Sozinho, ele consegue, ao final de um dia de trabalho, \npescar 180 kg de peixe, o que é suficiente apenas para cobrir o \ncusto fixo diário. Portanto, precisa contratar ajudantes, pagando \npara cada um R$ 250,00 por dia de trabalho. Além desse valor, \n4% da receita obtida pela venda de peixe é repartida igualmente \nentre os ajudantes. Considerando o tamanho de seu barco, ele \npode contratar até 5 ajudantes. Ele sabe que com um ajudante \na pesca diária é de 300 kg e que, a partir do segundo \najudante contratado, aumenta-se em 100 kg a quantidade de \npeixe pescada por ajudante em um dia de trabalho.",
+            "alternativas": {
+                "A": "A\t 1.",
+                "B": "B\t 2.",
+                "C": "C\t 3.",
+                "D": "D\t 4.",
+                "E": "E\t 5."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 156,
+            "pagina": 23,
+            "enunciado": "Um agricultor é informado sobre um método de proteção \npara sua lavoura que consiste em inserir larvas específicas, \nde rápida reprodução. A reprodução dessas larvas faz com \nque sua população multiplique-se por 10 a cada 3 dias e, \npara evitar eventuais desequilíbrios, é possível cessar essa \nreprodução aplicando-se um produto X. O agricultor decide \niniciar esse método com 100 larvas e dispõe de 5 litros do \nproduto X, cuja aplicação recomendada é de exatamente \n1 litro para cada população de 200 000 larvas. A quantidade \ntotal do produto X de que ele dispõe deverá ser aplicada \nde uma única vez.\nQuantos dias após iniciado esse método o agricultor \ndeverá aplicar o produto X?",
+            "alternativas": {
+                "A": "A\t 2",
+                "B": "B\t 4",
+                "C": "C\t 6",
+                "D": "D\t 12",
+                "E": "E\t 18"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 157,
+            "pagina": 23,
+            "enunciado": "Ao realizar o cadastro em um aplicativo de investimentos, \nfoi solicitado ao usuário que criasse uma senha, sendo \npermitido o uso somente dos seguintes caracteres:\n•\t algarismos de 0 a 9;\n•\t 26 letras minúsculas do alfabeto;\n•\t 26 letras maiúsculas do alfabeto;\n•\t 6 caracteres especiais !, @, #, $, , &.\nTrês tipos de estruturas para senha foram apresentadas \nao usuário:\n•\t tipo I: formada por quaisquer quatro caracteres \ndistintos, escolhidos dentre os permitidos;\n•\t tipo II: formada por cinco caracteres distintos, \niniciando por três letras, seguidas por um algarismo \ne, ao final, um caractere especial;\n•\t tipo III: formada por seis caracteres distintos, iniciando \npor duas letras, seguidas por dois algarismos e, ao \nfinal, dois caracteres especiais.\nConsidere p1, p2 e p3 as probabilidades de se \ndescobrirem ao acaso, na primeira tentativa, as senhas \ndos tipos I, II e III, respectivamente.\nNessas condições, o tipo de senha que apresenta a \nmenor probabilidade de ser descoberta ao acaso, na \nprimeira tentativa, é o",
+            "alternativas": {
+                "A": "A\t tipo I, pois p1 < p2 < p3.",
+                "B": "B\t tipo I, pois tem menor quantidade de caracteres.",
+                "C": "C\t tipo II, pois tem maior quantidade de letras.",
+                "D": "D\t tipo III, pois p3 < p2 < p1.",
+                "E": "E\t tipo III, pois tem maior quantidade de caracteres. *020125AM23*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 158,
+            "pagina": 24,
+            "enunciado": "Em um colégio público, a admissão no primeiro ano se \ndá por sorteio. Neste ano há 55 candidatos, cujas inscrições \nsão numeradas de 01 a 55. O sorteio de cada número de \ninscrição será realizado em etapas, utilizando-se duas \nurnas. Da primeira urna será sorteada uma bola, dentre \nbolas numeradas de 0 a 9, que representará o algarismo \ndas unidades do número de inscrição a ser sorteado e, em \nseguida, da segunda urna, será sorteada uma bola para \nrepresentar o algarismo das dezenas desse número. Depois \ndo primeiro sorteio, e antes de se sortear o algarismo das \ndezenas, as bolas que estarão presentes na segunda \nurna serão apenas aquelas cujos números formam, com o \nalgarismo já sorteado, um número de 01 a 55.\nAs probabilidades de os candidatos de inscrição número \n50 e 02 serem sorteados são, respectivamente,",
+            "alternativas": {
+                "A": "A\t  1 50 1 60 e",
+                "B": "B\t  1 50 1 50 e",
+                "C": "C\t  1 50 1 10 e",
+                "D": "D\t  1 55 1 54 e",
+                "E": "E\t   1 100 1 100 e"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 159,
+            "pagina": 24,
+            "enunciado": "O esquema mostra como a intensidade luminosa \ndecresce com o aumento da profundidade em um rio, \nsendo L0 a intensidade na sua superfície.\n0 m\nL0\n1 m\n3\n2 L0\n2 m\n9\n4 L0\n3 m\n27\n8 L0\nIntensidade luminosa\nProfundidade\nConsidere que a intensidade luminosa diminui, a cada \nmetro acrescido na profundidade, segundo o mesmo \npadrão do esquema.",
+            "alternativas": {
+                "A": "A\t  1 9 L 0",
+                "B": "B\t  16 27 L 0",
+                "C": "C\t  32 243 L 0",
+                "D": "D\t  64 729 L 0",
+                "E": "E\t  128 2187   0 L"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 160,
+            "pagina": 24,
+            "enunciado": "Analisando as vendas de uma empresa, o gerente \nconcluiu que o montante diário arrecadado, em milhar de real, \npoderia ser calculado pela expressão V x\nx\nx\n\u001f \u001e \u001d\n\u001c\n\u001b\n2\n4\n10\n105, \nem que os valores de x representam os dias do mês, \nvariando de 1 a 30.\nUm dos fatores para avaliar o desempenho mensal \nda empresa é verificar qual é o menor montante diário V0 \narrecadado ao longo do mês e classificar o desempenho \nconforme as categorias apresentadas a seguir, em que as \nquantidades estão expressas em milhar de real.\n•\t Ótimo: V0 ≥ 24\n•\t Bom: 20 ≤ V0 < 24\n•\t Normal: 10 ≤ V0 < 20\n•\t Ruim: 4 ≤ V0 < 10\n•\t Péssimo: V0 < 4\nNo caso analisado, qual seria a classificação do \ndesempenho da empresa?",
+            "alternativas": {
+                "A": "A\t Ótimo.",
+                "B": "B\t Bom.",
+                "C": "C\t Normal.",
+                "D": "D\t Ruim.",
+                "E": "E\t Péssimo. *020125AM24*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 161,
+            "pagina": 25,
+            "enunciado": "Dirigir após ingerir bebidas alcoólicas é uma atitude \nextremamente perigosa, uma vez que, a partir da primeira \ndose, a pessoa já começa a ter perda de sensibilidade \nde movimentos e de reflexos. Apesar de a eliminação e \nabsorção do álcool depender de cada pessoa e de como \no organismo consegue metabolizar a substância, ao final \nda primeira hora após a ingestão, a concentração de álcool \n(C) no sangue corresponde a aproximadamente 90% da \nquantidade (q) de álcool ingerida, e a eliminação total \ndessa concentração pode demorar até 12 horas.\nDisponível em: http://g1.globo.com. Acesso em: 1 dez. 2018 (adaptado).\nNessas condições, ao final da primeira hora após a ingestão \nda quantidade q de álcool, a concentração C dessa \nsubstância no sangue é expressa algebricamente por",
+            "alternativas": {
+                "A": "A\t C = 0,9q",
+                "B": "B\t C = 0,1q",
+                "C": "C\t C = 1 − 0,1q",
+                "D": "D\t C = 1 − 0,9q",
+                "E": "E\t C = q − 10"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 162,
+            "pagina": 25,
+            "enunciado": "Um investidor iniciante observou o gráfico que \napresenta a evolução dos valores de duas criptomoedas",
+            "alternativas": {
+                "A": "A\t 3",
+                "B": "B\t 4",
+                "C": "C\t 6",
+                "D": "D\t 7",
+                "E": "E\t 9"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 163,
+            "pagina": 25,
+            "enunciado": "",
+            "alternativas": {
+                "A": "A\t I.",
+                "B": "B\t II.",
+                "C": "C\t III.",
+                "D": "D\t IV.",
+                "E": "E\t V. *020125AM25*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 164,
+            "pagina": 26,
+            "enunciado": "Um artista plástico esculpe uma escultura a partir \nde um bloco de madeira de lei, em etapas. Inicialmente, \nesculpe um cone reto com 36 cm de altura e diâmetro da \nbase medindo 18 cm. Em seguida, remove desse cone um \ncone menor, cujo diâmetro da base mede 6 cm, obtendo, \nassim, um tronco de cone, conforme ilustrado na figura.\n6 cm\n36 cm\n18 cm\nEm seguida, perfura esse tronco de cone, removendo \num cilindro reto, de diâmetro 6 cm, cujo eixo de simetria é o \nmesmo do cone original. Dessa forma, ao final, a escultura \ntem a forma de um tronco de cone com uma perfuração \ncilíndrica de base a base.\nO tipo de madeira utilizada para produzir essa escultura \ntem massa igual a 0,6 g por centímetro cúbico de volume. \nUtilize 3 como aproximação para π.\nQual é a massa, em grama, dessa escultura?",
+            "alternativas": {
+                "A": "A\t 1 198,8",
+                "B": "B\t 1 296,0",
+                "C": "C\t 1 360,8",
+                "D": "D\t 4 665,6",
+                "E": "E\t 4 860,0"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 165,
+            "pagina": 26,
+            "enunciado": "Os 100 funcionários de uma empresa estão \ndistribuídos em dois setores: Produção e Administração. \nOs funcionários de um mesmo setor recebem salários \ncom valores iguais. O quadro apresenta a quantidade de \nfuncionários por setor e seus respectivos salários.\nSetor\nQuantidade de \nfuncionários\nSalário \n(em real)\nProdução\n75\n2 000,00\nAdministração\n25\n7 000,00",
+            "alternativas": {
+                "A": "A\t 2 000,00.",
+                "B": "B\t 2 500,00.",
+                "C": "C\t 3 250,00.",
+                "D": "D\t 4 500,00.",
+                "E": "E\t 9 000,00."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 166,
+            "pagina": 26,
+            "enunciado": "Visando atrair mais clientes, o gerente de uma loja \nanunciou uma promoção em que cada cliente que realizar \numa compra pode ganhar um voucher para ser usado \nem sua próxima compra. Para ganhar seu voucher,  \no cliente precisa retirar, ao acaso, uma bolinha de dentro \nde cada uma das duas urnas A e B disponibilizadas pelo \ngerente, nas quais há apenas bolinhas pretas e brancas. \nAtualmente, a probabilidade de se escolher, ao acaso,  \numa bolinha preta na urna A é igual a 20% e a probabilidade \nde se escolher uma bolinha preta na urna B é 25%. \nGanha o voucher o cliente que retirar duas bolinhas pretas, \numa de cada urna.\nCom o passar dos dias, o gerente percebeu que, para a \npromoção ser viável aos negócios, era preciso alterar \na probabilidade de acerto do cliente sem alterar a regra \nda promoção. Para isso, resolveu alterar a quantidade de \nbolinhas brancas na urna B de forma que a probabilidade \nde um cliente ganhar o voucher passasse a ser menor ou \nigual a 1%. Sabe-se que a urna B tem 4 bolinhas pretas e \nque, em ambas as urnas, todas as bolinhas têm a mesma \nprobabilidade de serem retiradas.\nQual é o número mínimo de bolinhas brancas que o \ngerente deve adicionar à urna B?",
+            "alternativas": {
+                "A": "A\t 20",
+                "B": "B\t 60",
+                "C": "C\t 64",
+                "D": "D\t 68",
+                "E": "E\t 80 *020125AM26*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 167,
+            "pagina": 27,
+            "enunciado": "Estudantes trabalhando com robótica criaram uma \n“torneira inteligente” que automatiza sua abertura e seu \nfechamento durante a limpeza das mãos. A tecnologia \nfunciona da seguinte forma: ao se colocarem as mãos \nsob a torneira, ela libera água durante 3 segundos para \nque a pessoa possa molhá-las. Em seguida, interrompe o \nfornecimento de água por 5 segundos, enquanto a pessoa \nensaboa suas mãos, e finaliza o ciclo liberando água para \no enxágue por mais 3 segundos. Considere o tempo ( t ), \nem segundo, contado a partir do instante em que se inicia \no ciclo. A vazão de água nessa torneira é constante.\nUm esboço de gráfico que descreve o volume de água \nacumulado, em litro, liberado por essa torneira durante um \nciclo de lavagem das mãos, em função do tempo ( t ), em \nsegundo, é",
+            "alternativas": {
+                "A": "A\t   0 1 2 3 4 5 6 7 8 9 10 11 12 t (s) Volume de água (L)",
+                "B": "B\t   0 1 2 3 4 5 6 7 8 9 10 11 12 Volume de água (L) t (s)",
+                "C": "C\t   0 1 2 3 4 5 6 7 8 9 10 11 12 Volume de água (L) t (s)",
+                "D": "D\t   0 1 2 3 4 5 6 7 8 9 10 11 12 Volume de água (L) t (s)",
+                "E": "E\t   0 1 2 3 4 5 6 7 8 9 10 11 12 t (s) Volume de água (L)"
+            },
+            "imagens": [
+                "pag27_img0.png"
+            ]
+        },
+        {
+            "numero": 168,
+            "pagina": 27,
+            "enunciado": "As características culturais variam de povo para povo. \nHá notícias de um povo que possuía formas de contar \ndiferentes das nossas, como indicado no quadrinho a seguir.\nSegundo o padrão de contagem indicado na figura, as \nrepresentações dos numerais cinco e sete, nessa cultura, \ndevem ser, respectivamente,",
+            "alternativas": {
+                "A": "A\t okosa urapum urapum urapum e okosa okosa urapum  urapum urapum.",
+                "B": "B\t okosa okosa urapum e okosa okosa okosa okosa urapum.",
+                "C": "C\t okosa okosa urapum e okosa okosa okosa urapum.",
+                "D": "D\t okosa urapum urapum e okosa urapum okosa urapum  urapum.",
+                "E": "E\t okosa okosa urapum e okosa okosa okosa okosa."
+            },
+            "imagens": [
+                "pag27_img0.png"
+            ]
+        },
+        {
+            "numero": 169,
+            "pagina": 27,
+            "enunciado": "Um tipo de semente necessita de bastante água nos \ndois primeiros meses após o plantio. Um produtor pretende \nestabelecer o melhor momento para o plantio desse tipo de \nsemente, nos meses de outubro a março. Após consultar \na previsão do índice mensal de precipitação de chuva \n(ImPC) da região onde ocorrerá o plantio, para o período \nchuvoso de 2020 - 2021, ele obteve os seguintes dados:\n•\t outubro/2020: ImPC = 250 mm;\n•\t novembro/2020: ImPC = 150 mm;\n•\t dezembro/2020: ImPC = 200 mm;\n•\t janeiro/2021: ImPC = 450 mm;\n•\t fevereiro/2021: ImPC = 100 mm;\n•\t março/2021: ImPC = 200 mm.\nCom base nessas previsões, ele precisa escolher \ndois meses consecutivos em que a média mensal de \nprecipitação seja a maior possível.\nNo início de qual desses meses o produtor deverá plantar \nesse tipo de semente?",
+            "alternativas": {
+                "A": "A\t Outubro.",
+                "B": "B\t Novembro.",
+                "C": "C\t Dezembro.",
+                "D": "D\t Janeiro.",
+                "E": "E\t Fevereiro. *020125AM27*"
+            },
+            "imagens": [
+                "pag27_img0.png"
+            ]
+        },
+        {
+            "numero": 170,
+            "pagina": 28,
+            "enunciado": "Uma loja vende seus produtos de duas formas:  \nà vista ou financiado em três parcelas mensais iguais. \nPara definir o valor dessas parcelas nas vendas \nfinanciadas, a loja aumenta em 20% o valor do produto \nà vista e divide esse novo valor por 3. A primeira parcela \ndeve ser paga no ato da compra, e as duas últimas, \nem 30 e 60 dias após a compra.\nUm cliente da loja decidiu comprar, de forma financiada, \num produto cujo valor à vista é R$ 1 500,00.\nUtilize 5,29 como aproximação para \n28.",
+            "alternativas": {
+                "A": "A\t 6,7%",
+                "B": "B\t 10%",
+                "C": "C\t 20%",
+                "D": "D\t 21,5%",
+                "E": "E\t 23,3%"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 171,
+            "pagina": 28,
+            "enunciado": "Para concretar a laje de sua residência, uma pessoa \ncontratou uma construtora. Tal empresa informa que o \npreço y do concreto bombeado é composto de duas \npartes: uma fixa, chamada de taxa de bombeamento, \ne uma variável, que depende do volume x de concreto \nutilizado. Sabe-se que a taxa de bombeamento custa \nR$ 500,00 e que o metro cúbico do concreto bombeado \né de R$ 250,00.",
+            "alternativas": {
+                "A": "A\t y = 250x",
+                "B": "B\t y = 500x",
+                "C": "C\t y = 750x",
+                "D": "D\t y = 250x + 500",
+                "E": "E\t y = 500x + 250"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 172,
+            "pagina": 28,
+            "enunciado": "Uma empresa de segurança domiciliar oferece o serviço \nde patrulha noturna, no qual vigilantes em motocicletas \nfazem o monitoramento periódico de residências.",
+            "alternativas": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D",
+                "E": "E\t   *020125AM28*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 173,
+            "pagina": 29,
+            "enunciado": "Um supermercado conta com cinco caixas disponíveis \npara pagamento. Foram instaladas telas que apresentam  \no tempo médio gasto por cada caixa para iniciar e finalizar o \natendimento de cada cliente, e o número de pessoas \npresentes na fila de cada caixa em tempo real. Um cliente, \nna hora de passar sua compra, sabendo que cada um \ndos cinco caixas iniciará um novo atendimento naquele \nmomento, pretende gastar o menor tempo possível de \nespera na fila. Ele observa que as telas apresentavam as \ninformações a seguir.\n•\t Caixa I: atendimento 12 minutos, 5 pessoas na fila.\n•\t Caixa II: atendimento 6 minutos, 9 pessoas na fila.\n•\t Caixa III: atendimento 5 minutos, 6 pessoas na fila.\n•\t Caixa IV: atendimento 15 minutos, 2 pessoas na fila.\n•\t Caixa V: atendimento 9 minutos, 3 pessoas na fila.\nPara alcançar seu objetivo, o cliente deverá escolher o caixa",
+            "alternativas": {
+                "A": "A\t I.",
+                "B": "B\t II.",
+                "C": "C\t III.",
+                "D": "D\t IV.",
+                "E": "E\t V."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 174,
+            "pagina": 29,
+            "enunciado": "As figuras pintadas no quadro da sala de estar de \numa residência representam as silhuetas de parte das \ntorres de um castelo e, ao fundo, a de uma lua cheia.",
+            "alternativas": {
+                "A": "A\t cone.",
+                "B": "B\t setor circular.",
+                "C": "C\t segmento circular.",
+                "D": "D\t triângulo isósceles.",
+                "E": "E\t arco de circunferência."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 175,
+            "pagina": 29,
+            "enunciado": "Na planta baixa de um clube, a piscina é representada \npor um quadrado cuja área real mede 400 m². Ao redor \ndessa piscina, será construída uma calçada, de largura \nconstante igual a 5 m.\nCalçada\nPiscina\n5 m\n5 m\n5 m\n5 m\nQual é a medida da área, em metro quadrado, ocupada \npela calçada?",
+            "alternativas": {
+                "A": "A\t 1 000",
+                "B": "B\t 900",
+                "C": "C\t 600",
+                "D": "D\t 500",
+                "E": "E\t 400"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 176,
+            "pagina": 29,
+            "enunciado": "Uma pessoa caminha por 30 minutos e utiliza um \naplicativo instalado em seu celular para monitorar a \nvariação da intensidade do sinal de internet recebido \npelo aparelho durante o deslocamento. Chegando ao seu \ndestino, o aplicativo forneceu este gráfico:\nIntensidade do sinal de internet\nTempo (min)\n0\n2\n4\n6\n8\n10 12 14\n16\n18 20\n22 24\n26 28 30\nPor quantos minutos, durante essa caminhada, o celular \ndessa pessoa ficou sem receber sinal de internet?",
+            "alternativas": {
+                "A": "A\t 6",
+                "B": "B\t 8",
+                "C": "C\t 10",
+                "D": "D\t 14",
+                "E": "E\t 24 *020125AM29*"
+            },
+            "imagens": []
+        },
+        {
+            "numero": 177,
+            "pagina": 30,
+            "enunciado": "O gráfico expõe alguns números da gripe A-H1N1. Entre as categorias que estão em processo de imunização, \numa já está completamente imunizada, a dos trabalhadores da saúde.\nAdultos entre 20 e 29 anos\n0,0%\nCrianças de 6 meses a 2 anos\nGestantes\nDoentes crônicos\nIndígenas\n10,0% 20,0%\n30,0% 40,0% 50,0% 60,0% 70,0% 80,0% 90,0% 100,0%\nTrabalhadores da saúde\nNúmeros da campanha contra a gripe A-H1N1\nÉpoca, 26 abr. 2010 (adaptado).\nDe acordo com o gráfico, entre as demais categorias, a que está mais exposta ao vírus da gripe A-H1N1 é a \ncategoria de",
+            "alternativas": {
+                "A": "A\t indígenas.",
+                "B": "B\t gestantes.",
+                "C": "C\t doentes crônicos.",
+                "D": "D\t adultos entre 20 e 29 anos.",
+                "E": "E\t crianças de 6 meses a 2 anos."
+            },
+            "imagens": [
+                "pag30_img0.png"
+            ]
+        },
+        {
+            "numero": 178,
+            "pagina": 30,
+            "enunciado": "",
+            "alternativas": {
+                "A": "A\t 1,20.",
+                "B": "B\t 1,35.",
+                "C": "C\t 1,65.",
+                "D": "D\t 1,80.",
+                "E": "E\t 1,95. *020125AM30*"
+            },
+            "imagens": [
+                "pag30_img0.png"
+            ]
+        },
+        {
+            "numero": 179,
+            "pagina": 31,
+            "enunciado": "Uma pessoa comprou um ingresso para o cinema em cuja entrada está afixado um mapa com a representação \nbidimensional do posicionamento das poltronas, conforme a figura. Essa pessoa, após consultar o mapa, começou \na subir uma das escadas e parou na posição indicada pela estrela, direcionada para o norte. Ela conferiu seu bilhete \ne observou que, para encontrar sua poltrona, deveria partir do ponto onde estava, continuar subindo a escada na \ndireção norte por mais quatro fileiras e olhar à sua direita, e sua poltrona será a terceira.\nFileiras\nEscada\nEscada\nPoltrona\nPosições\nTela\nEntrada",
+            "alternativas": {
+                "A": "A\t A6.",
+                "C": "C\t H6.",
+                "E": "E\t I6.",
+                "B": "B\t H1.",
+                "D": "D\t I1."
+            },
+            "imagens": []
+        },
+        {
+            "numero": 180,
+            "pagina": 31,
+            "enunciado": "O metrô de um município oferece dois tipos de tíquetes com colorações diferentes, azul e vermelha, sendo vendidos \nem cartelas, cada qual com nove tíquetes da mesma cor e mesmo valor unitário. Duas cartelas de tíquetes azuis e \numa cartela de tíquetes vermelhos são vendidas por R$ 32,40. Sabe-se que o preço de um tíquete azul menos o preço \nde um tíquete vermelho é igual ao preço de um tíquete vermelho mais cinco centavos.\nQual o preço, em real, de uma cartela de tíquetes vermelhos?",
+            "alternativas": {
+                "A": "A\t 4,68",
+                "B": "B\t 6,30",
+                "C": "C\t 9,30",
+                "D": "D\t 10,50",
+                "E": "E\t 10,65  *020125AM31*"
+            },
+            "imagens": []
+        }
+    ]
+}
