@@ -14,6 +14,8 @@ with open('./3_Atualizacao_dos_Processos_Gerenciais/cronograma.csv', mode='r', e
     # Percorrer cada linha
     for linha in leitor:
         # A linha é tratada como uma lista
+        # Nome,Numero,Disciplina,Data,Horario
+        # Formato de Numero: ++55XXYYYYYYYYY, sendo XX o DDD e Y o numero de fato; vai funcionar se tiver WhatsApp
         # print(linha[0], linha[1], linha[2], linha[3], linha[4]) # Acessando colunas pelo índice
         nome = linha[0]
         numero = linha[1]
