@@ -11,7 +11,7 @@ def elemento_existe(driver, by, seletor):
     except NoSuchElementException:
         return False
 
-def first_test_script():
+def first_test_script(numero_nota_fiscal):
     # Create an instance of the Chrome WebDriver
     # you can use other browsers too
     driver = webdriver.Chrome()
@@ -37,4 +37,5 @@ def first_test_script():
 
 
 if     __name__ == "__main__":
-    first_test_script()
+    nota_fiscal = input("Insira numero da nota Fiscal no formato apropriado: ")
+    first_test_script(nota_fiscal)
