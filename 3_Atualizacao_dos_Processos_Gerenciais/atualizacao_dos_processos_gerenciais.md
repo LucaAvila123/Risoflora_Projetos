@@ -12,3 +12,4 @@
 ***Acompanhamento***
 
 Ferramenta para envio automático de mensagens, usando pywhatkit: tempo gasto: 2h15 em 01/03/2026
+Ferramenta para checagem de notas fiscais eletrônicas, usando selenium: tempo gasto: 1h em 02/03/2026
