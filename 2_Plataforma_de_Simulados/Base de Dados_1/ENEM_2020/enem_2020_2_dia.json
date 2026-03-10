@@ -488,7 +488,9 @@
                 "D": "Movimentação de elétrons entre a calça e os pelos do gato.",
                 "E": "Repulsão entre partículas elétricas da calça e dos pelos do gato."
             },
-            "imagens": [],
+            "imagens": [
+                "pag12_img0.png"
+            ],
             "gabarito": "D"
         },
         {
@@ -502,7 +504,9 @@
                 "D": "são degradados em um tempo bastante menor que os convencionais.",
                 "E": "apresentam propriedades mecânicas semelhantes aos convencionais."
             },
-            "imagens": [],
+            "imagens": [
+                "pag12_img0.png"
+            ],
             "gabarito": "D"
         },
         {
@@ -654,7 +658,14 @@
                 "B": "E",
                 "C": ""
             },
-            "imagens": [],
+            "imagens": [
+                "pag17_img0.png",
+                "pag17_img1.png",
+                "pag17_img2.png",
+                "pag17_img3.png",
+                "pag17_img4.png",
+                "pag17_img5.png"
+            ],
             "gabarito": "E"
         },
         {
@@ -766,7 +777,9 @@
                 "D": "y = 1,125x",
                 "E": "y = x"
             },
-            "imagens": [],
+            "imagens": [
+                "pag20_img0.png"
+            ],
             "gabarito": "A"
         },
         {
@@ -780,7 +793,9 @@
                 "D": "Às terças, quartas e sextas-feiras.",
                 "E": "Às terças e quartas-feiras e aos sábados."
             },
-            "imagens": [],
+            "imagens": [
+                "pag20_img0.png"
+            ],
             "gabarito": "C"
         },
         {
@@ -794,7 +809,9 @@
                 "D": "1,0 × 10 − 6",
                 "E": "1,0 × 10 − 7"
             },
-            "imagens": [],
+            "imagens": [
+                "pag20_img0.png"
+            ],
             "gabarito": "C"
         },
         {
@@ -808,7 +825,9 @@
                 "D": "63",
                 "E": "90"
             },
-            "imagens": [],
+            "imagens": [
+                "pag21_img0.png"
+            ],
             "gabarito": "D"
         },
         {
@@ -822,7 +841,9 @@
                 "D": "42 26",
                 "E": "42 16"
             },
-            "imagens": [],
+            "imagens": [
+                "pag21_img0.png"
+            ],
             "gabarito": "A"
         },
         {
@@ -960,7 +981,10 @@
                 "B": "E",
                 "C": ""
             },
-            "imagens": [],
+            "imagens": [
+                "pag25_img0.png",
+                "pag25_img1.png"
+            ],
             "gabarito": "B"
         },
         {
@@ -974,7 +998,10 @@
                 "D": "IV.",
                 "E": "V."
             },
-            "imagens": [],
+            "imagens": [
+                "pag25_img0.png",
+                "pag25_img1.png"
+            ],
             "gabarito": "A"
         },
         {
@@ -988,7 +1015,10 @@
                 "D": "267",
                 "E": "93"
             },
-            "imagens": [],
+            "imagens": [
+                "pag25_img0.png",
+                "pag25_img1.png"
+            ],
             "gabarito": "E"
         },
         {
@@ -1002,7 +1032,10 @@
                 "D": "W.",
                 "E": "T."
             },
-            "imagens": [],
+            "imagens": [
+                "pag25_img0.png",
+                "pag25_img1.png"
+            ],
             "gabarito": "C"
         },
         {
@@ -1240,7 +1273,9 @@
                 "D": "5,83.",
                 "E": "6,26."
             },
-            "imagens": [],
+            "imagens": [
+                "pag31_img0.png"
+            ],
             "gabarito": "A"
         },
         {
@@ -1254,7 +1289,9 @@
                 "D": "52.",
                 "E": "60."
             },
-            "imagens": [],
+            "imagens": [
+                "pag31_img0.png"
+            ],
             "gabarito": "C"
         }
     ]

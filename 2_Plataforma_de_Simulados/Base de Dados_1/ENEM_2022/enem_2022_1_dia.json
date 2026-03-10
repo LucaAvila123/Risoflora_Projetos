@@ -12,7 +12,9 @@
                 "D": "D\t cenário da integração de cubanos nos Estados Unidos.",
                 "E": "E\t fortalecimento do elo familiar em comunidades  estadunidenses."
             },
-            "imagens": [],
+            "imagens": [
+                "pag2_img0.png"
+            ],
             "gabarito": "D"
         },
         {
@@ -26,7 +28,9 @@
                 "D": "D\t discutir o uso de aplicativos para proporcionar  encontros românticos.",
                 "E": "E\t valorizar a importância da aparência física na  seleção de pretendentes."
             },
-            "imagens": [],
+            "imagens": [
+                "pag2_img0.png"
+            ],
             "gabarito": "C"
         },
         {
@@ -40,7 +44,9 @@
                 "D": "D\t entusiasmo com os livros de terror.",
                 "E": "E\t rejeição ao novo tipo de residência. *010175AZ2*"
             },
-            "imagens": [],
+            "imagens": [
+                "pag2_img0.png"
+            ],
             "gabarito": "B"
         },
         {
@@ -54,7 +60,10 @@
                 "D": "D\t provocar ansiedade nos adolescentes.",
                 "E": "E\t aproximar pessoas ao redor do mundo."
             },
-            "imagens": [],
+            "imagens": [
+                "pag3_img0.png",
+                "pag3_img1.png"
+            ],
             "gabarito": "D"
         },
         {
@@ -68,7 +77,10 @@
                 "D": "D\t mágoa com o comportamento de alguém.",
                 "E": "E\t insatisfação com uma forma de comunicação. Questões de 01 a 05 (opção: espanhol)"
             },
-            "imagens": [],
+            "imagens": [
+                "pag3_img0.png",
+                "pag3_img1.png"
+            ],
             "gabarito": "E"
         },
         {
@@ -82,7 +94,10 @@
                 "D": "D\t destacar o papel dos órgãos governamentais na  conservação das línguas no México.",
                 "E": "E\t defender a preservação das línguas originárias  garantindo a diversidade linguística mexicana. *010175AZ3*"
             },
-            "imagens": [],
+            "imagens": [
+                "pag3_img0.png",
+                "pag3_img1.png"
+            ],
             "gabarito": "E"
         },
         {
@@ -138,7 +153,11 @@
                 "D": "D\t ratificar a romantização da dedicação das mães na  educação das crianças.",
                 "E": "E\t enfatizar a proteção aos filhos em razão do isolamento  social das famílias. LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS Questões de 06 a 45"
             },
-            "imagens": [],
+            "imagens": [
+                "pag5_img0.png",
+                "pag5_img1.png",
+                "pag5_img2.png"
+            ],
             "gabarito": "A"
         },
         {
@@ -152,7 +171,11 @@
                 "D": "D\t ênfase no emprego da hipérbole, como em: “uma  refeição que pode durar uma vida”.",
                 "E": "E\t emprego de metáforas, como em: “a vida engata  uma primeira e sai em disparada”. *010175AZ5*"
             },
-            "imagens": [],
+            "imagens": [
+                "pag5_img0.png",
+                "pag5_img1.png",
+                "pag5_img2.png"
+            ],
             "gabarito": "E"
         },
         {
@@ -166,7 +189,10 @@
                 "C": "C\t reforça a importância da campanha de adoção de  animais.",
                 "D": "D\t exalta a natureza amigável de cães e de gatos."
             },
-            "imagens": [],
+            "imagens": [
+                "pag6_img0.png",
+                "pag6_img1.png"
+            ],
             "gabarito": "A"
         },
         {
@@ -180,7 +206,10 @@
                 "D": "D\t exemplificar estratégias de arrecadação financeira  pela internet.",
                 "E": "E\t desenvolver conhecimentos lúdicos específicos dos  tempos atuais."
             },
-            "imagens": [],
+            "imagens": [
+                "pag6_img0.png",
+                "pag6_img1.png"
+            ],
             "gabarito": "A"
         },
         {
@@ -194,7 +223,10 @@
                 "D": "D\t necessidade de punição a motoristas alcoolizados  envolvidos em acidentes.",
                 "E": "E\t sofrimento decorrente da perda de entes queridos em  acidentes automobilísticos. *010175AZ6*"
             },
-            "imagens": [],
+            "imagens": [
+                "pag6_img0.png",
+                "pag6_img1.png"
+            ],
             "gabarito": "A"
         },
         {
@@ -438,7 +470,9 @@
                 "D": "D\t “Onde só vento se semeava outrora”.",
                 "E": "E\t “Ó Manuel, Miguilim”."
             },
-            "imagens": [],
+            "imagens": [
+                "pag13_img0.png"
+            ],
             "gabarito": "C"
         },
         {
@@ -452,7 +486,9 @@
                 "D": "D\t ratificação  de  comportamentos  femininos  e  masculinos.",
                 "E": "E\t retomada de opiniões a respeito da diversidade dos  papéis sociais."
             },
-            "imagens": [],
+            "imagens": [
+                "pag13_img0.png"
+            ],
             "gabarito": "B"
         },
         {
@@ -466,7 +502,9 @@
                 "D": "D\t estimula o retorno de povos indígenas a suas terras  de origem.",
                 "E": "E\t aumenta o número de línguas indígenas faladas  no Brasil. *010175AZ13*"
             },
-            "imagens": [],
+            "imagens": [
+                "pag13_img0.png"
+            ],
             "gabarito": "B"
         },
         {
@@ -592,7 +630,10 @@
                 "D": "D\t atitudes contraditórias de influenciadores digitais.",
                 "E": "E\t padrões idealizados e nocivos de beleza física."
             },
-            "imagens": [],
+            "imagens": [
+                "pag17_img0.png",
+                "pag17_img1.png"
+            ],
             "gabarito": "A"
         },
         {
@@ -606,7 +647,10 @@
                 "D": "D\t presença do tema da morte como punição da família.",
                 "E": "E\t utilização da perspectiva para integrar os diferentes  planos."
             },
-            "imagens": [],
+            "imagens": [
+                "pag17_img0.png",
+                "pag17_img1.png"
+            ],
             "gabarito": "B"
         },
         {
@@ -620,7 +664,10 @@
                 "D": "D\t utilização da complexidade dos elementos formais.",
                 "E": "E\t combinação de formas sintéticas no espaço utilizado. *010175AZ17*"
             },
-            "imagens": [],
+            "imagens": [
+                "pag17_img0.png",
+                "pag17_img1.png"
+            ],
             "gabarito": "E"
         },
         {
@@ -676,7 +723,9 @@
                 "D": "D\t descrição detalhada das pessoas do interior.",
                 "E": "E\t representação anedótica de atos de violência."
             },
-            "imagens": [],
+            "imagens": [
+                "pag19_img0.png"
+            ],
             "gabarito": "E"
         },
         {
@@ -690,7 +739,9 @@
                 "D": "D\t o distanciamento temporal permite a transformação  dos referenciais estéticos.",
                 "E": "E\t o objeto ausente sugere a degradação da forma  superando o modelo artístico."
             },
-            "imagens": [],
+            "imagens": [
+                "pag19_img0.png"
+            ],
             "gabarito": "C"
         },
         {
@@ -704,7 +755,9 @@
                 "D": "D\t recuperação de composições tradicionais folclóricas  e sua apresentação em grandes festivais.",
                 "E": "E\t integração de referenciais culturais de diferentes  origens, criando uma nova combinação estética. *010175AZ19*"
             },
-            "imagens": [],
+            "imagens": [
+                "pag19_img0.png"
+            ],
             "gabarito": "E"
         },
         {
@@ -1004,7 +1057,11 @@
                 "D": "D\t geração de oportunidade e restrição profissional.",
                 "E": "E\t exclusão de competências e participação política."
             },
-            "imagens": [],
+            "imagens": [
+                "pag26_img0.png",
+                "pag26_img1.png",
+                "pag26_img2.png"
+            ],
             "gabarito": "C"
         },
         {
@@ -1018,7 +1075,11 @@
                 "D": "D\t garantir o preceito constitucional.",
                 "E": "E\t incentivar a especulação imobiliária."
             },
-            "imagens": [],
+            "imagens": [
+                "pag26_img0.png",
+                "pag26_img1.png",
+                "pag26_img2.png"
+            ],
             "gabarito": "D"
         },
         {
@@ -1032,7 +1093,11 @@
                 "D": "D\t ampliação de influência econômica.",
                 "E": "E\t preservação de recursos naturais."
             },
-            "imagens": [],
+            "imagens": [
+                "pag26_img0.png",
+                "pag26_img1.png",
+                "pag26_img2.png"
+            ],
             "gabarito": "D"
         },
         {
@@ -1046,7 +1111,11 @@
                 "D": "D\t a integração regional supõe a livre circulação de  pessoas e mercadorias.",
                 "E": "E\t a expulsão das forças navais ocidentais garantiria a  soberania nacional. *010175AZ26*"
             },
-            "imagens": [],
+            "imagens": [
+                "pag26_img0.png",
+                "pag26_img1.png",
+                "pag26_img2.png"
+            ],
             "gabarito": "A"
         },
         {
@@ -1116,7 +1185,16 @@
                 "D": "D\t irregularidade pluviométrica.",
                 "E": "E\t influência da continentalidade."
             },
-            "imagens": [],
+            "imagens": [
+                "pag28_img0.png",
+                "pag28_img1.png",
+                "pag28_img2.png",
+                "pag28_img3.png",
+                "pag28_img4.png",
+                "pag28_img5.png",
+                "pag28_img6.png",
+                "pag28_img7.png"
+            ],
             "gabarito": "C"
         },
         {
@@ -1130,7 +1208,16 @@
                 "D": "D\t riqueza individual e efêmera.",
                 "E": "E\t patrimônio cultural e afetivo."
             },
-            "imagens": [],
+            "imagens": [
+                "pag28_img0.png",
+                "pag28_img1.png",
+                "pag28_img2.png",
+                "pag28_img3.png",
+                "pag28_img4.png",
+                "pag28_img5.png",
+                "pag28_img6.png",
+                "pag28_img7.png"
+            ],
             "gabarito": "E"
         },
         {
@@ -1144,7 +1231,16 @@
                 "D": "D\t trabalhadores na formação de novos espaços.",
                 "E": "E\t negociantes na organização de redes comerciais."
             },
-            "imagens": [],
+            "imagens": [
+                "pag28_img0.png",
+                "pag28_img1.png",
+                "pag28_img2.png",
+                "pag28_img3.png",
+                "pag28_img4.png",
+                "pag28_img5.png",
+                "pag28_img6.png",
+                "pag28_img7.png"
+            ],
             "gabarito": "D"
         },
         {
@@ -1158,7 +1254,16 @@
                 "D": "D\t tradicionalistas dos nativos.",
                 "E": "E\t emancipadores das metrópoles. *010175AZ28*"
             },
-            "imagens": [],
+            "imagens": [
+                "pag28_img0.png",
+                "pag28_img1.png",
+                "pag28_img2.png",
+                "pag28_img3.png",
+                "pag28_img4.png",
+                "pag28_img5.png",
+                "pag28_img6.png",
+                "pag28_img7.png"
+            ],
             "gabarito": "A"
         },
         {
@@ -1236,7 +1341,9 @@
                 "D": "D\t Aquíferos sedimentares profundos.",
                 "E": "E\t Estruturas geológicas metamórficas."
             },
-            "imagens": [],
+            "imagens": [
+                "pag30_img0.png"
+            ],
             "gabarito": "B"
         },
         {
@@ -1250,7 +1357,9 @@
                 "D": "D\t refugiadas.",
                 "E": "E\t clandestinas."
             },
-            "imagens": [],
+            "imagens": [
+                "pag30_img0.png"
+            ],
             "gabarito": "B"
         },
         {
@@ -1264,7 +1373,9 @@
                 "D": "D\t Apontando as formas de expressão como auxiliares  da razão.",
                 "E": "E\t Estabelecendo a inteligência como implicação das  representações."
             },
-            "imagens": [],
+            "imagens": [
+                "pag30_img0.png"
+            ],
             "gabarito": "C"
         },
         {
@@ -1278,7 +1389,9 @@
                 "D": "D\t produzir padrões de conduta.",
                 "E": "E\t ordenar cultos de heresia. *010175AZ30*"
             },
-            "imagens": [],
+            "imagens": [
+                "pag30_img0.png"
+            ],
             "gabarito": "D"
         },
         {

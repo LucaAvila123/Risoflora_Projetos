@@ -312,7 +312,9 @@
                 "D": "IV",
                 "E": "V"
             },
-            "imagens": [],
+            "imagens": [
+                "pag9_img0.png"
+            ],
             "gabarito": "B"
         },
         {
@@ -326,7 +328,9 @@
                 "D": "50",
                 "E": "70"
             },
-            "imagens": [],
+            "imagens": [
+                "pag9_img0.png"
+            ],
             "gabarito": "C"
         },
         {
@@ -340,7 +344,9 @@
                 "D": "OH− (aq).",
                 "E": "Zn(OH)4 2− (aq). I II III IV V *DO0525AM9*"
             },
-            "imagens": [],
+            "imagens": [
+                "pag9_img0.png"
+            ],
             "gabarito": "E"
         },
         {
@@ -528,7 +534,15 @@
                 "D": "ácido etanoico.",
                 "E": "anidrido etanoico."
             },
-            "imagens": [],
+            "imagens": [
+                "pag14_img0.png",
+                "pag14_img1.png",
+                "pag14_img2.png",
+                "pag14_img3.png",
+                "pag14_img4.png",
+                "pag14_img5.png",
+                "pag14_img6.png"
+            ],
             "gabarito": "B"
         },
         {
@@ -542,7 +556,15 @@
                 "D": "4.",
                 "E": "5. *DO0525AM14*"
             },
-            "imagens": [],
+            "imagens": [
+                "pag14_img0.png",
+                "pag14_img1.png",
+                "pag14_img2.png",
+                "pag14_img3.png",
+                "pag14_img4.png",
+                "pag14_img5.png",
+                "pag14_img6.png"
+            ],
             "gabarito": "C"
         },
         {

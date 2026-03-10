@@ -54,7 +54,9 @@
                 "D": "D\t Apresentação de antígeno específico.",
                 "E": "E\t Desencadeamento de processo anti-inflamatório."
             },
-            "imagens": [],
+            "imagens": [
+                "pag3_img0.png"
+            ],
             "gabarito": "D"
         },
         {
@@ -68,7 +70,9 @@
                 "D": "D\t 5 240.",
                 "E": "E\t 100."
             },
-            "imagens": [],
+            "imagens": [
+                "pag3_img0.png"
+            ],
             "gabarito": "D"
         },
         {
@@ -82,7 +86,9 @@
                 "D": "D\t Reflexão.",
                 "E": "E\t Refração. *020125AM3*"
             },
-            "imagens": [],
+            "imagens": [
+                "pag3_img0.png"
+            ],
             "gabarito": "E"
         },
         {
@@ -96,7 +102,9 @@
                 "D": "D\t Desinfecção.",
                 "E": "E\t Fluoretação."
             },
-            "imagens": [],
+            "imagens": [
+                "pag4_img0.png"
+            ],
             "gabarito": "B"
         },
         {
@@ -110,7 +118,9 @@
                 "D": "D\t Oxidação do piruvato.",
                 "E": "E\t Fosforilação oxidativa."
             },
-            "imagens": [],
+            "imagens": [
+                "pag4_img0.png"
+            ],
             "gabarito": "E"
         },
         {
@@ -124,7 +134,9 @@
                 "D": "D\t 3, 1, 2.",
                 "E": "E\t 3, 2, 1."
             },
-            "imagens": [],
+            "imagens": [
+                "pag4_img0.png"
+            ],
             "gabarito": "A"
         },
         {
@@ -138,7 +150,9 @@
                 "D": "D\t NO2 −",
                 "E": "E\t NO3 −"
             },
-            "imagens": [],
+            "imagens": [
+                "pag4_img0.png"
+            ],
             "gabarito": "C"
         },
         {
@@ -152,7 +166,9 @@
                 "D": "D\t necessitar de mais luminosidade para enxergar.",
                 "E": "E\t fazer uma pequena distinção de cores em ambientes  iluminados. *020125AM4*"
             },
-            "imagens": [],
+            "imagens": [
+                "pag4_img0.png"
+            ],
             "gabarito": "C"
         },
         {
@@ -334,7 +350,9 @@
                 "D": "D\t reduzir o inchaço dos linfonodos, parte da resposta  imunitária de diferentes infecções.",
                 "E": "E\t regular a oscilação da pressão arterial, característica  dos quadros de hipertensão."
             },
-            "imagens": [],
+            "imagens": [
+                "pag10_img0.png"
+            ],
             "gabarito": "A"
         },
         {
@@ -348,7 +366,9 @@
                 "D": "D\t Eles passariam a precessionar mais rapidamente.",
                 "E": "E\t Eles manteriam suas órbitas inalteradas."
             },
-            "imagens": [],
+            "imagens": [
+                "pag10_img0.png"
+            ],
             "gabarito": "E"
         },
         {
@@ -362,7 +382,9 @@
                 "D": "D\t ácido.",
                 "E": "E\t base."
             },
-            "imagens": [],
+            "imagens": [
+                "pag10_img0.png"
+            ],
             "gabarito": "B"
         },
         {
@@ -376,7 +398,9 @@
                 "D": "D\t penetrância incompleta.",
                 "E": "E\t expressividade variável. *020125AM10*"
             },
-            "imagens": [],
+            "imagens": [
+                "pag10_img0.png"
+            ],
             "gabarito": "E"
         },
         {
@@ -1156,7 +1180,9 @@
                 "C": "C\t LE = LF",
                 "D": "D\t LE = 4LF"
             },
-            "imagens": [],
+            "imagens": [
+                "pag29_img0.png"
+            ],
             "gabarito": "D"
         },
         {
@@ -1170,7 +1196,9 @@
                 "D": "D\t 2,1.",
                 "E": "E\t 2,5."
             },
-            "imagens": [],
+            "imagens": [
+                "pag29_img0.png"
+            ],
             "gabarito": "B"
         },
         {
@@ -1184,7 +1212,9 @@
                 "D": "D\t apenas nos ginásios I, II, III e IV.",
                 "E": "E\t em todos os ginásios. *020125AM29*"
             },
-            "imagens": [],
+            "imagens": [
+                "pag29_img0.png"
+            ],
             "gabarito": "D"
         },
         {
