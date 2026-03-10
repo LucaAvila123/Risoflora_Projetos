@@ -12,7 +12,8 @@
                 "D": "Permitir a liberação do princípio ativo pela ação das  amilases salivares.",
                 "E": "Facilitar a liberação do fármaco pela ação dos sais  biliares sobre o revestimento."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 92,
@@ -25,7 +26,8 @@
                 "D": "deformação da borracha de vedação.",
                 "E": "consumo de gás desnecessário."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 93,
@@ -38,7 +40,8 @@
                 "D": "maior superfície de contato.",
                 "E": "elevada energia de ativação."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 94,
@@ -51,7 +54,8 @@
                 "D": "Reflexão.",
                 "E": "Difração."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 95,
@@ -64,7 +68,8 @@
                 "D": "Aqueceria com secador de cabelos.",
                 "E": "Embrulharia em guardanapo de papel."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 96,
@@ -77,7 +82,8 @@
                 "B": "Entre B e E; 30 mA.",
                 "D": "Entre B e E; 0,9 mA."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 97,
@@ -90,7 +96,8 @@
                 "D": "Fotoimunoterapia.",
                 "E": "Terapia magnética."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 98,
@@ -103,7 +110,8 @@
                 "D": "circulação sanguínea aberta que impede a desidratação  dos tecidos corporais.",
                 "E": "sistema nervoso ganglionar que promove a coordenação  central do movimento corporal."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 99,
@@ -116,7 +124,8 @@
                 "D": "Associação em cadeia de chumbo, provocada por  pósitrons.",
                 "E": "Decaimento radioativo do carbono, provocado por  partículas beta."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 100,
@@ -129,7 +138,8 @@
                 "D": "elevação de temperatura.",
                 "E": "liberação de oxigênio."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 101,
@@ -142,7 +152,8 @@
                 "D": "0,6 °C",
                 "E": "0,3 °C"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 102,
@@ -155,7 +166,8 @@
                 "D": "IV",
                 "E": "V"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 103,
@@ -168,7 +180,8 @@
                 "D": "Extração.",
                 "E": "Destilação."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 104,
@@ -181,7 +194,8 @@
                 "D": "limitação de transferência de energia entre os seres vivos.",
                 "E": "retração dos oceanos pelo congelamento do gás nos polos."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 105,
@@ -194,7 +208,8 @@
                 "D": "restabelecer a capacidade de homeotermia.",
                 "E": "refazer a camada de cera impermeabilizante das penas."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 106,
@@ -207,7 +222,8 @@
                 "E": "12 A Bateria Amperímetro Circuito do veículo",
                 "C": "Bateria Amperímetro 2,5 A Circuito do veículo"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 107,
@@ -220,7 +236,8 @@
                 "D": "4",
                 "E": "5"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 108,
@@ -233,7 +250,8 @@
                 "D": "Mesa Solo V0",
                 "E": "Mesa Solo V0"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 109,
@@ -246,7 +264,8 @@
                 "D": "144 Hz.",
                 "E": "159 Hz."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 110,
@@ -259,7 +278,8 @@
                 "D": "terapia gênica.",
                 "E": "melhoramento genético."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 111,
@@ -272,7 +292,8 @@
                 "D": "os produtos da queima contêm metais pesados e  gases tóxicos que resultam em poluição atmosférica.",
                 "E": "o material particulado gerado se deposita na superfície  das folhas das plantas impedindo os processos de  respiração celular."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 112,
@@ -285,7 +306,8 @@
                 "D": "Escoamento da água pela lataria.",
                 "E": "Aterramento pelo fio terra da bateria."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 113,
@@ -298,7 +320,8 @@
                 "D": "B e D.",
                 "E": "C e D."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 114,
@@ -311,7 +334,8 @@
                 "D": "Falha na separação durante a meiose gamética em  ambas as plantas parentais.",
                 "E": "Deleções durante as primeiras mitoses zigóticas na  planta descendente C. arabica."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "*"
         },
         {
             "numero": 115,
@@ -324,7 +348,8 @@
                 "D": "4",
                 "E": "5"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 116,
@@ -337,7 +362,8 @@
                 "D": "99.",
                 "E": "120."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 117,
@@ -350,7 +376,8 @@
                 "D": "Amarelo.",
                 "E": "Vermelho."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 118,
@@ -363,7 +390,8 @@
                 "D": "T. saginata, S. mansoni e A. lumbricoides.",
                 "E": "A. lumbricoides, A. suum e T. saginata."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 119,
@@ -376,7 +404,8 @@
                 "D": "proceder a uma centrifugação da mistura para remover  o acetato de etila.",
                 "E": "decantar a mistura separando os dois componentes em  um funil adequado."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 120,
@@ -389,7 +418,8 @@
                 "D": "têm caráter hidrofóbico e baixa densidade, impedindo  as trocas gasosas entre o meio aquático e a atmosfera.",
                 "E": "têm  cadeia  pequena  e  elevada  volatilidade,  contaminando a atmosfera local e regional em função  dos ventos nas orlas marítimas."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 121,
@@ -402,7 +432,8 @@
                 "D": "36%.",
                 "E": "60%."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 122,
@@ -415,7 +446,8 @@
                 "D": "30 s, 55 s e 80 s.",
                 "E": "35 s, 60 s e 85 s."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 123,
@@ -428,7 +460,8 @@
                 "D": "CO2",
                 "E": "HCl"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 124,
@@ -441,7 +474,8 @@
                 "D": "D2 coexistem duas populações com características  fenotípicas distintas.",
                 "E": "D2 foram preservadas as mesmas características  fenotípicas da população original A."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 125,
@@ -454,7 +488,8 @@
                 "D": "Movimentação de elétrons entre a calça e os pelos do gato.",
                 "E": "Repulsão entre partículas elétricas da calça e dos pelos do gato."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 126,
@@ -467,7 +502,8 @@
                 "D": "são degradados em um tempo bastante menor que os convencionais.",
                 "E": "apresentam propriedades mecânicas semelhantes aos convencionais."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 127,
@@ -480,7 +516,8 @@
                 "D": "promoção da sucessão ecológica.",
                 "E": "introdução de novas espécies de animais e vegetais."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 128,
@@ -493,7 +530,8 @@
                 "D": "2,50 × 10−1 mol L−1",
                 "E": "4,27 × 10−1 mol L−1"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 129,
@@ -506,7 +544,8 @@
                 "D": "carbono, devido à liberação das cadeias carbônicas  aprisionadas abaixo dos sedimentos.",
                 "E": "fósforo, devido à liberação dos fosfatos acumulados  no ambiente marinho."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 130,
@@ -519,7 +558,8 @@
                 "D": "rapidez com que o fluxo magnético varia através das  bobinas, por meio de um aumento em sua velocidade  angular.",
                 "E": "resistência interna do condutor que constitui as bobinas,  por meio de um aumento na espessura dos terminais."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 131,
@@ -532,7 +572,8 @@
                 "B": "B",
                 "D": "D"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 132,
@@ -545,7 +586,8 @@
                 "D": "3A + 2B → 2C → 3D + 2E    (a reação ocorrre sob pressão atmosférica).",
                 "E": "A + 1−2B → C    (a reação ocorre com o uso de um catalisador contendo um metal não tóxico)."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 133,
@@ -558,7 +600,8 @@
                 "D": "a  liquefação  da  substância  refrigerante  no  condensador exige mais trabalho do compressor.",
                 "E": "as correntes de convecção nas proximidades do  condensador ocorrem com maior difi culdade."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 134,
@@ -571,7 +614,8 @@
                 "D": "40",
                 "E": "20"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 135,
@@ -584,7 +628,8 @@
                 "D": "104",
                 "E": "106"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 136,
@@ -597,7 +642,8 @@
                 "E": "R$ 5 −5 10 15 20 25 30 35 40 45 50 55 5 10 20 25 30 0 Quantidade de  itens produzidos 15",
                 "C": "R$ 5 −5 10 15 20 25 30 35 40 45 50 55 5 10 20 25 30 0 Quantidade de  itens produzidos 15"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 137,
@@ -608,7 +654,8 @@
                 "B": "E",
                 "C": ""
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 138,
@@ -621,7 +668,8 @@
                 "D": "18.",
                 "E": "20."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 139,
@@ -634,7 +682,8 @@
                 "D": "31,5 ≤ b ≤ 33",
                 "E": "b ≤ 33"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 140,
@@ -647,7 +696,8 @@
                 "D": "1 X",
                 "E": "1 ∙X"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 141,
@@ -660,7 +710,8 @@
                 "D": "1 90",
                 "E": "1 100"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "*"
         },
         {
             "numero": 142,
@@ -673,7 +724,8 @@
                 "D": "35.",
                 "E": "48."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 143,
@@ -686,7 +738,8 @@
                 "D": "D.",
                 "E": "E."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 144,
@@ -699,7 +752,8 @@
                 "D": "18.",
                 "E": "21."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 145,
@@ -712,7 +766,8 @@
                 "D": "y = 1,125x",
                 "E": "y = x"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 146,
@@ -725,7 +780,8 @@
                 "D": "Às terças, quartas e sextas-feiras.",
                 "E": "Às terças e quartas-feiras e aos sábados."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 147,
@@ -738,7 +794,8 @@
                 "D": "1,0 × 10 − 6",
                 "E": "1,0 × 10 − 7"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 148,
@@ -751,7 +808,8 @@
                 "D": "63",
                 "E": "90"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 149,
@@ -764,7 +822,8 @@
                 "D": "42 26",
                 "E": "42 16"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 150,
@@ -777,7 +836,8 @@
                 "D": "1 : 10 000",
                 "E": "1 : 100 000"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 151,
@@ -790,7 +850,8 @@
                 "D": "4",
                 "E": "5"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 152,
@@ -803,7 +864,8 @@
                 "D": "5 caixas do tipo A e 1 caixa do tipo B.",
                 "E": "6 caixas do tipo B."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 153,
@@ -816,7 +878,8 @@
                 "D": "120",
                 "E": "60"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 154,
@@ -829,7 +892,8 @@
                 "D": "92 000.",
                 "E": "87 000."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 155,
@@ -842,7 +906,8 @@
                 "D": "284 592.",
                 "E": "291 582."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 156,
@@ -855,7 +920,8 @@
                 "D": "Y =",
                 "E": "Y ="
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 157,
@@ -868,7 +934,8 @@
                 "D": "4.",
                 "E": "5."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 158,
@@ -881,7 +948,8 @@
                 "D": "1 quadrado, 3 retângulos e 2 trapézios retângulos.",
                 "E": "2 retângulos, 2 quadrados e 2 trapézios retângulos."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 159,
@@ -892,7 +960,8 @@
                 "B": "E",
                 "C": ""
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 160,
@@ -905,7 +974,8 @@
                 "D": "IV.",
                 "E": "V."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 161,
@@ -918,7 +988,8 @@
                 "D": "267",
                 "E": "93"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 162,
@@ -931,7 +1002,8 @@
                 "D": "W.",
                 "E": "T."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 163,
@@ -944,7 +1016,8 @@
                 "D": "5 6",
                 "E": "1 4"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 164,
@@ -957,7 +1030,8 @@
                 "D": "2035.",
                 "E": "2043."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 165,
@@ -970,7 +1044,8 @@
                 "D": "1 × 10−2",
                 "E": "1 × 10−3"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 166,
@@ -983,7 +1058,8 @@
                 "D": "1 2 98 \u001f \u001e\u001d \u001c \u001b\u001a \u0019",
                 "E": "1 2 99 \u001f \u001e\u001d \u001c \u001b\u001a \u0019"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 167,
@@ -996,7 +1072,8 @@
                 "D": "IV",
                 "E": "V"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 168,
@@ -1009,7 +1086,8 @@
                 "D": "5 R",
                 "E": "16 R"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 169,
@@ -1022,7 +1100,8 @@
                 "D": "4.",
                 "E": "5."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 170,
@@ -1035,7 +1114,8 @@
                 "D": "9! 2",
                 "E": "4! 5! 2"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 171,
@@ -1048,7 +1128,8 @@
                 "D": "11",
                 "E": "13"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 172,
@@ -1061,7 +1142,8 @@
                 "D": "2,06",
                 "E": "2,08"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 173,
@@ -1074,7 +1156,8 @@
                 "D": "altura tempo 0",
                 "E": "altura 0 tempo"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 174,
@@ -1087,7 +1170,8 @@
                 "D": "70,0",
                 "E": "76,5"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 175,
@@ -1100,7 +1184,8 @@
                 "D": "30.",
                 "E": "34."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 176,
@@ -1113,7 +1198,8 @@
                 "D": "90.",
                 "E": "100."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 177,
@@ -1126,7 +1212,8 @@
                 "D": "2 3",
                 "E": "4 3"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 178,
@@ -1139,7 +1226,8 @@
                 "D": "1 e 3.",
                 "E": "2 e 3."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 179,
@@ -1152,7 +1240,8 @@
                 "D": "5,83.",
                 "E": "6,26."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 180,
@@ -1165,7 +1254,8 @@
                 "D": "52.",
                 "E": "60."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         }
     ]
 }

@@ -12,7 +12,8 @@
                 "D": "4.",
                 "E": "5."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 92,
@@ -25,7 +26,8 @@
                 "D": "inibição da glicólise, resultando em maior absorção  celular da glicose sanguínea.",
                 "E": "redução da produção de ATP, resultando em maior  gasto celular de nutrientes."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 93,
@@ -38,7 +40,8 @@
                 "D": "4",
                 "E": "5 *DO0525AM2*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 94,
@@ -51,7 +54,8 @@
                 "C": "Cu(OH)2",
                 "D": "Fe(OH)2"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 95,
@@ -64,7 +68,8 @@
                 "D": "Instalar fusível de segurança na rede de alta tensão.",
                 "E": "Utilizar fios encapados com isolante na rede   de alta tensão."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 96,
@@ -77,7 +82,8 @@
                 "D": "eliminar o esquistossomo antes que ocorra contato  com o organismo.",
                 "E": "eliminar o esquistossomo dentro do organismo antes  da manifestação de sintomas. *DO0525AM3*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 97,
@@ -90,7 +96,8 @@
                 "D": "8,20 × 104",
                 "E": "1,23 × 105"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 98,
@@ -103,7 +110,8 @@
                 "D": "tensoativo.",
                 "E": "catalisador."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 99,
@@ -116,7 +124,8 @@
                 "D": "Nervoso.",
                 "E": "Ósseo. *DO0525AM4*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 100,
@@ -129,7 +138,8 @@
                 "D": "pA < pB e mA = mB",
                 "E": "pA > pB e mA > mB"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 101,
@@ -142,7 +152,8 @@
                 "D": "ligações duplas de configuração cis.",
                 "E": "átomos de carbonos de hibridação sp3. *DO0525AM5*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 102,
@@ -155,7 +166,8 @@
                 "D": "competição.",
                 "E": "comensalismo."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 103,
@@ -168,7 +180,8 @@
                 "D": "Branco.",
                 "E": "Azul."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 104,
@@ -181,7 +194,8 @@
                 "D": "eleva o pH do solo em função da degradação dos  componentes do resíduo.",
                 "E": "apresenta efeitos inibidores de crescimento para a  maioria das espécies vegetais pela cafeína."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 105,
@@ -194,7 +208,8 @@
                 "D": "utilização de predadores naturais.",
                 "E": "uso de sementes inoculadas com Rhizobium. *DO0525AM6*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 106,
@@ -207,7 +222,8 @@
                 "D": "Os genes localizados fisicamente próximos no mesmo cromossomo tendem a ser herdados juntos.",
                 "E": "O cromossomo que contém dois determinados genes pode não sofrer a disjunção na primeira fase da meiose."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 107,
@@ -220,7 +236,8 @@
                 "D": "20",
                 "E": "50"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 108,
@@ -233,7 +250,8 @@
                 "D": "as forças intermoleculares são mais intensas.",
                 "E": "a cadeia carbônica é mais difícil de ser quebrada. *DO0525AM7*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 109,
@@ -248,7 +266,8 @@
             },
             "imagens": [
                 "pag8_img0.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 110,
@@ -263,7 +282,8 @@
             },
             "imagens": [
                 "pag8_img0.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 111,
@@ -278,7 +298,8 @@
             },
             "imagens": [
                 "pag8_img0.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 112,
@@ -291,7 +312,8 @@
                 "D": "IV",
                 "E": "V"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 113,
@@ -304,7 +326,8 @@
                 "D": "50",
                 "E": "70"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 114,
@@ -317,7 +340,8 @@
                 "D": "OH− (aq).",
                 "E": "Zn(OH)4 2− (aq). I II III IV V *DO0525AM9*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 115,
@@ -330,7 +354,8 @@
                 "D": "Desenvolvimento de novos processos nas estações  de tratamento de efluentes.",
                 "E": "Reúso dos lodos provenientes das estações de  tratamento de esgoto na agricultura."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 116,
@@ -343,7 +368,8 @@
                 "D": "transição eletrônica de um nível mais externo para  outro mais interno na eletrosfera atômica.",
                 "E": "promoção dos elétrons que se encontram no  estado  fundamental  de  energia  para  níveis   mais energéticos."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 117,
@@ -356,7 +382,8 @@
                 "D": "2,4 × 103 N",
                 "E": "4,7 × 103 N *DO0525AM10*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 118,
@@ -371,7 +398,8 @@
             },
             "imagens": [
                 "pag11_img0.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 119,
@@ -386,7 +414,8 @@
             },
             "imagens": [
                 "pag11_img0.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 120,
@@ -401,7 +430,8 @@
             },
             "imagens": [
                 "pag11_img0.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 121,
@@ -414,7 +444,8 @@
                 "D": "proteínas, para aumento da massa muscular.",
                 "E": "vitamina  C,  para  aumento  da  integridade  dos vasos sanguíneos."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 122,
@@ -427,7 +458,8 @@
                 "D": "1,33.",
                 "E": "2,00."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 123,
@@ -440,7 +472,8 @@
                 "D": "complexação.",
                 "E": "ácido-base. *DO0525AM12*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 124,
@@ -453,7 +486,8 @@
                 "D": "Diminuir a entrada do frio na casa e aquecer os corpos.",
                 "E": "Aquecer a casa e reduzir a perda de calor pelos corpos."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 125,
@@ -466,7 +500,8 @@
                 "D": "absorve 1 344 kJ por mol de glicose.",
                 "E": "absorve 2 800 kJ por mol de glicose."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 126,
@@ -479,7 +514,8 @@
                 "D": "Estratégia 2, pois essas espécies estão adaptadas a hábitats mais estáveis, o que corresponde ao ambiente de  uma área desmatada.",
                 "E": "Estratégia 2, pois essas espécies apresentam um tamanho populacional constante, o que propicia uma  recolonização mais estável da área desmatada. *DO0525AM13*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 127,
@@ -492,7 +528,8 @@
                 "D": "ácido etanoico.",
                 "E": "anidrido etanoico."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 128,
@@ -505,7 +542,8 @@
                 "D": "4.",
                 "E": "5. *DO0525AM14*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 129,
@@ -518,7 +556,8 @@
                 "D": "do desvio dos feixes luminosos refratados no interior  do olho.",
                 "E": "das reflexões dos feixes luminosos no interior   do olho."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 130,
@@ -531,7 +570,8 @@
                 "D": "transformação de amônia.",
                 "E": "fabricação de aldosterona."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 131,
@@ -544,7 +584,8 @@
                 "D": "capilaridade nos poros do papel.",
                 "E": "resistência ao escoamento do líquido."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 132,
@@ -557,7 +598,8 @@
                 "D": "A crença na velocidade infinita da luz, defendida  pela maioria dos filósofos gregos.",
                 "E": "A ideia defendida pelos gregos de que a luz era  produzida pelos olhos. *DO0525AM15*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 133,
@@ -570,7 +612,8 @@
                 "D": "Acerola ou cupuaçu.",
                 "E": "Cupuaçu ou graviola."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 134,
@@ -583,7 +626,8 @@
                 "D": "pinocitose, porque o sal estava diluído na água  quando foi transportado.",
                 "E": "difusão, porque o transporte ocorreu a favor do  gradiente de concentração."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 135,
@@ -596,7 +640,8 @@
                 "D": "16 segundos.",
                 "E": "8 segundos. *DO0525AM16*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 136,
@@ -609,7 +654,8 @@
                 "D": "250.",
                 "E": "500."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 137,
@@ -620,7 +666,8 @@
                 "B": "C",
                 "D": "E"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 138,
@@ -633,7 +680,8 @@
                 "D": "abril.",
                 "E": "maio. Unidades vendidas 2 800 2 700 2 500 700 Jul Ago Set Out Nov Mês *DO0525AM17*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 139,
@@ -647,7 +695,8 @@
             "imagens": [
                 "pag18_img0.png",
                 "pag18_img1.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 140,
@@ -663,7 +712,8 @@
             "imagens": [
                 "pag18_img0.png",
                 "pag18_img1.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 141,
@@ -679,7 +729,8 @@
             "imagens": [
                 "pag18_img0.png",
                 "pag18_img1.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 142,
@@ -692,7 +743,8 @@
                 "D": "1 2 3 5 4 1 6 1 4 → → → → → → → →",
                 "E": "1 4 2 3 5 1 6 1 4 → → → → → → → →"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 143,
@@ -705,7 +757,8 @@
                 "D": "França.",
                 "E": "Reino Unido *DO0525AM19* ."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 144,
@@ -718,7 +771,8 @@
                 "D": "1,1 × 10-4",
                 "E": "1,1 × 10-5"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 145,
@@ -731,7 +785,8 @@
                 "D": "28.",
                 "E": "24."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 146,
@@ -744,7 +799,8 @@
                 "D": "não será suficiente, pois a área da nova região a ser  pavimentada mede 108 m2.",
                 "E": "não será suficiente, pois a área da nova região a ser  pavimentada mede 120 m2."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 147,
@@ -757,7 +813,8 @@
                 "D": "IV",
                 "E": "V *DO0525AM20*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 148,
@@ -770,7 +827,8 @@
                 "D": "quinta-feira.",
                 "E": "sexta-feira."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 149,
@@ -783,7 +841,8 @@
                 "D": "5,3.",
                 "E": "10,5."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 150,
@@ -796,7 +855,8 @@
                 "D": "1 e 13",
                 "E": "1, 12 e 13 3 3 2 3 0 2 2 2 2 2 0 4 2 4 0 1 1 3 1 4 2 2 2 0 4 *DO0525AM21*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 151,
@@ -809,7 +869,8 @@
                 "D": "41 120",
                 "E": "66 240"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 152,
@@ -822,7 +883,8 @@
                 "D": "112.",
                 "E": "134."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 153,
@@ -835,7 +897,8 @@
                 "D": "700.",
                 "E": "800."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 154,
@@ -848,7 +911,8 @@
                 "D": "404,00.",
                 "E": "PROIBIDO ESTACIONAR *DO0525AM22*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 155,
@@ -861,7 +925,8 @@
                 "D": "18,52 e 11,11.",
                 "E": "12,96 e 13,89."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 156,
@@ -874,7 +939,8 @@
                 "D": "R$ 15 000,00",
                 "E": "R$ 15 500,00"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 157,
@@ -887,7 +953,8 @@
                 "D": "R$ 1 465,00.",
                 "E": "R$ 1 474,00."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 158,
@@ -900,7 +967,8 @@
                 "D": "Grande.",
                 "E": "Extremo. *DO0525AM23*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 159,
@@ -913,7 +981,8 @@
                 "D": "pastilha de freio.",
                 "E": "caixa de direção."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 160,
@@ -926,7 +995,8 @@
                 "D": "104",
                 "E": "105"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 161,
@@ -939,7 +1009,8 @@
                 "D": "3 quadriláteros e 4 triângulos isósceles.",
                 "E": "3 hexágonos regulares e 4 triângulos equiláteros."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 162,
@@ -952,7 +1023,8 @@
                 "D": "6",
                 "E": "3 a 3 a *DO0525AM24*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 163,
@@ -965,7 +1037,8 @@
                 "E": "P (R$) V (m³) 15 0",
                 "C": "P (R$) V (m³) 15 0 *DO0525AM25*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 164,
@@ -978,7 +1051,8 @@
                 "D": "6.",
                 "E": "1."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 165,
@@ -991,7 +1065,8 @@
                 "D": "1,81",
                 "E": "1,82"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 166,
@@ -1004,7 +1079,8 @@
                 "D": "2,0.",
                 "E": "3,0."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 167,
@@ -1017,7 +1093,8 @@
                 "D": "12,0000.",
                 "E": "36,0000."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 168,
@@ -1030,7 +1107,8 @@
                 "D": "O quarto.",
                 "E": "O quinto. *DO0525AM26*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 169,
@@ -1043,7 +1121,8 @@
                 "D": "Dez caminhões com capacidade máxima de 2 m3.",
                 "E": "Um caminhão com capacidade máxima de 2 m3."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 170,
@@ -1056,7 +1135,8 @@
                 "D": "0 08 0 4 , , m q >",
                 "E": "q m 0 08 0 4 , , >"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 171,
@@ -1069,7 +1149,8 @@
                 "D": "12 cm *DO0525AM27*",
                 "E": "12 2 cm."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 172,
@@ -1082,7 +1163,8 @@
                 "D": "futebol, futebol, futebol, basquete.",
                 "E": "futebol, futebol, futebol, futebol."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 173,
@@ -1095,7 +1177,8 @@
                 "D": "Y = 160X + 840.",
                 "E": "Y = 160X + 1 000."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 174,
@@ -1108,7 +1191,8 @@
                 "D": "IV",
                 "E": "V *DO0525AM28*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 175,
@@ -1121,7 +1205,8 @@
                 "D": "55.",
                 "E": "71. Sábado Sexta Quinta Quarta Terça Segunda Domingo Vendas na última semana 10 Caldo de cana Refrigerante Pastel 8 6 4 2 0 *DO0525AM29*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 176,
@@ -1134,7 +1219,8 @@
                 "D": "0,3125",
                 "E": "0,5000"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 177,
@@ -1147,7 +1233,8 @@
                 "D": "IV",
                 "E": "V 14 000 12 000 10 000 8 000 6 000 4 000 2 000 0 16 000 18 000 20 000 População urbana 8 000 10 000 11 000 18 000 17 000 I II III IV V *DO0525AM30*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 178,
@@ -1160,7 +1247,8 @@
                 "D": "1,00.",
                 "E": "0,95."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 179,
@@ -1173,7 +1261,8 @@
                 "D": "87,5%",
                 "E": "100,0%"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 180,
@@ -1186,7 +1275,8 @@
                 "D": "5.",
                 "E": "8. *DO0525AM31*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         }
     ]
 }

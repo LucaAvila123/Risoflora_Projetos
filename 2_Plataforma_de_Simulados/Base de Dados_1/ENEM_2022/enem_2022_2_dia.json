@@ -12,7 +12,8 @@
                 "D": "D\t atividade anaeróbica da musculatura.",
                 "E": "E\t taxa de transporte de oxigênio pelo sangue."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 92,
@@ -25,7 +26,8 @@
                 "D": "D\t A força é maior na colisão com a barreira de pneus, e  a energia dissipada é maior na colisão com a barreira  de pneus.",
                 "E": "E\t A força é maior na colisão com a barreira de blocos, e  a energia dissipada é maior na colisão com a barreira  de blocos."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 93,
@@ -38,7 +40,8 @@
                 "D": "C",
                 "E": "S H"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 94,
@@ -51,7 +54,8 @@
                 "D": "D\t Apresentação de antígeno específico.",
                 "E": "E\t Desencadeamento de processo anti-inflamatório."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 95,
@@ -64,7 +68,8 @@
                 "D": "D\t 5 240.",
                 "E": "E\t 100."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 96,
@@ -77,7 +82,8 @@
                 "D": "D\t Reflexão.",
                 "E": "E\t Refração. *020125AM3*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 97,
@@ -90,7 +96,8 @@
                 "D": "D\t Desinfecção.",
                 "E": "E\t Fluoretação."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 98,
@@ -103,7 +110,8 @@
                 "D": "D\t Oxidação do piruvato.",
                 "E": "E\t Fosforilação oxidativa."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 99,
@@ -116,7 +124,8 @@
                 "D": "D\t 3, 1, 2.",
                 "E": "E\t 3, 2, 1."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 100,
@@ -129,7 +138,8 @@
                 "D": "D\t NO2 −",
                 "E": "E\t NO3 −"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 101,
@@ -142,7 +152,8 @@
                 "D": "D\t necessitar de mais luminosidade para enxergar.",
                 "E": "E\t fazer uma pequena distinção de cores em ambientes  iluminados. *020125AM4*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 102,
@@ -155,7 +166,8 @@
                 "D": "D\t átomos de oxigênio.",
                 "E": "E\t carbonos assimétricos."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 103,
@@ -168,7 +180,8 @@
                 "D": "D\t competição do vírus e da bactéria no hospedeiro.",
                 "E": "E\t inserção de material genético do vírus na bactéria. *020125AM5*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 104,
@@ -181,7 +194,8 @@
                 "D": "D\t apresentam alta taxa de reprodução e se mantêm  com um número de indivíduos superior à capacidade  suporte do ambiente.",
                 "E": "E\t diminuem a relação de competição entre os  polinizadores e facilitam a ação de dispersores de  sementes de espécies nativas."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 105,
@@ -194,7 +208,8 @@
                 "D": "D\t 4,50 m.",
                 "E": "E\t 5,00 m."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 106,
@@ -207,7 +222,8 @@
                 "D": "D\t SP79",
                 "E": "E\t SP80"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 107,
@@ -220,7 +236,8 @@
                 "D": "D\t purificar ácidos nucleicos virais, facilitando a ação da  enzima.",
                 "E": "E\t obter moléculas de cDNA viral por meio da transcrição  reversa. *020125AM6*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 108,
@@ -233,7 +250,8 @@
                 "D": "CM  F  P  f e  N",
                 "E": "CM  F  P  f e  N *020125AM7*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 109,
@@ -246,7 +264,8 @@
                 "D": "D\t mudar a constante de equilíbrio da reação.",
                 "E": "E\t formar ligações de hidrogênio com o polissacarídeo."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 110,
@@ -259,7 +278,8 @@
                 "D": "D\t 4,8 g L−1",
                 "E": "E\t 9,6 g L−1 *020125AM8*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 111,
@@ -272,7 +292,8 @@
                 "D": "D\t 10 A",
                 "E": "E\t 5 A"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 112,
@@ -285,7 +306,8 @@
                 "D": "D\t CO",
                 "E": "E\t Cl2"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 113,
@@ -298,7 +320,8 @@
                 "D": "D\t Somatotrofina.",
                 "E": "E\t Hormônio folículo estimulante. *020125AM9*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 114,
@@ -311,7 +334,8 @@
                 "D": "D\t reduzir o inchaço dos linfonodos, parte da resposta  imunitária de diferentes infecções.",
                 "E": "E\t regular a oscilação da pressão arterial, característica  dos quadros de hipertensão."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 115,
@@ -324,7 +348,8 @@
                 "D": "D\t Eles passariam a precessionar mais rapidamente.",
                 "E": "E\t Eles manteriam suas órbitas inalteradas."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 116,
@@ -337,7 +362,8 @@
                 "D": "D\t ácido.",
                 "E": "E\t base."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 117,
@@ -350,7 +376,8 @@
                 "D": "D\t penetrância incompleta.",
                 "E": "E\t expressividade variável. *020125AM10*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 118,
@@ -363,7 +390,8 @@
                 "B": "i",
                 "E": "i"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 119,
@@ -376,7 +404,8 @@
                 "D": "+",
                 "E": "A"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 120,
@@ -389,7 +418,8 @@
                 "D": "D\t Destilação fracionada.",
                 "E": "E\t Separação magnética."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 121,
@@ -402,7 +432,8 @@
                 "D": "D\t liberação imediata da proteína normal na região  ocular humana.",
                 "E": "E\t expressão do gene responsável pela produção da  enzima normal. *020125AM12*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 122,
@@ -415,7 +446,8 @@
                 "D": "D\t desidratação.",
                 "E": "E\t neutralização."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 123,
@@ -428,7 +460,8 @@
                 "D": "D\t controle das populações dos vetores.",
                 "E": "E\t consumo de carnes vermelhas bem cozidas."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 124,
@@ -441,7 +474,8 @@
                 "D": "D\t 100 000 m2",
                 "E": "E\t 20 000 m2"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 125,
@@ -454,7 +488,8 @@
                 "D": "D\t liberação de gás tóxico e liberação de gás oxidante.",
                 "E": "E\t formação de sais tóxicos e liberação de gás oxidante. *020125AM13*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 126,
@@ -467,7 +502,8 @@
                 "D": "D\t 450 N",
                 "E": "E\t 900 N"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 127,
@@ -480,7 +516,8 @@
                 "D": "D\t efeito de barreira, que impede o contato com o agente  oxidante.",
                 "E": "E\t galvanização, que usa outros metais de menor  potencial de redução."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 128,
@@ -493,7 +530,8 @@
                 "D": "D\t quebra da parede celular com extravasamento do  pigmento.",
                 "E": "E\t murchamento da célula com expulsão do pigmento  do vacúolo."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 129,
@@ -506,7 +544,8 @@
                 "D": "D\t 5,3.",
                 "E": "E\t 13,1. *020125AM14*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 130,
@@ -519,7 +558,8 @@
                 "D": "D\t 0,4 µg.",
                 "E": "E\t 0,2 µg."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 131,
@@ -532,7 +572,8 @@
                 "D": "D\t o sucesso reprodutivo pode ser garantido por  estratégias diferentes.",
                 "E": "E\t o ambiente induz modificação na produção do número  de gametas femininos."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 132,
@@ -545,7 +586,8 @@
                 "D": "D\t Polo Sul.",
                 "E": "E\t Equador. *020125AM15*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 133,
@@ -558,7 +600,8 @@
                 "D": "D\t 1,00 A",
                 "E": "E\t 1,33 A"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 134,
@@ -571,7 +614,8 @@
                 "D": "D\t diminuição da concentração do substrato.",
                 "E": "E\t modificação da estrutura tridimensional da enzima."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 135,
@@ -584,7 +628,8 @@
                 "D": "D\t 4",
                 "E": "E\t 5 *020125AM16*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 136,
@@ -597,7 +642,8 @@
                 "D": "D\t 30,0.",
                 "E": "E\t 37,5."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 137,
@@ -610,7 +656,8 @@
                 "D": "D\t 6,000.",
                 "E": "E\t 12,000."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 138,
@@ -623,7 +670,8 @@
                 "D": "D\t 13 322,5",
                 "E": "E\t 53 290,0"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 139,
@@ -636,7 +684,8 @@
                 "D": "D\t 3",
                 "E": "E\t 4"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 140,
@@ -649,7 +698,8 @@
                 "D": "D\t R$ 42,00 maior.",
                 "E": "E\t R$ 80,00 maior. *020125AM17*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 141,
@@ -662,7 +712,8 @@
                 "D": "D\t EFDFEEDDFFE.",
                 "E": "E\t EFDFEEEDFFE."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 142,
@@ -675,7 +726,8 @@
                 "D": "D\t IV.",
                 "E": "E\t V."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 143,
@@ -688,7 +740,8 @@
                 "D": "D\t 2011",
                 "E": "E\t 2013 *020125AM18*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 144,
@@ -701,7 +754,8 @@
                 "D": "D\t 135 000 000,00.",
                 "E": "E\t 1 350 000 000,00."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 145,
@@ -714,7 +768,8 @@
                 "D": "D\t IV",
                 "E": "E\t V"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 146,
@@ -727,7 +782,8 @@
                 "D": "D\t IV.",
                 "E": "E\t V."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 147,
@@ -740,7 +796,8 @@
                 "D": "D\t 12",
                 "E": "E\t 24   *020125AM19*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 148,
@@ -753,7 +810,8 @@
                 "D": "D\t 6,48.",
                 "E": "E\t 7,20."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 149,
@@ -766,7 +824,8 @@
                 "D": "D\t 441 343.",
                 "E": "E\t 448 568."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 150,
@@ -779,7 +838,8 @@
                 "D": "D\t 9 2 2 2 2 \u001f \u001e \u001f ! ! !",
                 "E": "E\t 9 8 8 2 2 1 \u001f \u001e \u001f \u001e ! ! ! \u001d \u001c \u001b \u001a \u0019\u0019 \u0018 \u0017 \u0016\u0016 *020125AM20*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 151,
@@ -792,7 +852,8 @@
                 "D": "D\t 4",
                 "E": "E\t 5"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 152,
@@ -805,7 +866,8 @@
                 "D": "D\t 44 64",
                 "E": "E\t 52 64"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 153,
@@ -818,7 +880,8 @@
                 "D": "D\t 3,0",
                 "E": "E\t 5,5 *020125AM21*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 154,
@@ -831,7 +894,8 @@
                 "D": "D\t 300 000.",
                 "E": "E\t 400 000."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 155,
@@ -844,7 +908,8 @@
                 "D": "D\t 15.",
                 "E": "E\t 16."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 156,
@@ -857,7 +922,8 @@
                 "D": "D\t muito bom.",
                 "E": "E\t excelente. *020125AM22*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 157,
@@ -870,7 +936,8 @@
                 "D": "D\t 18.",
                 "E": "E\t 24."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 158,
@@ -883,7 +950,8 @@
                 "D": "D",
                 "E": "E"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 159,
@@ -896,7 +964,8 @@
                 "D": "D\t 8",
                 "E": "E\t 9 *020125AM23*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 160,
@@ -909,7 +978,8 @@
                 "D": "D\t 2,00 e 0,90.",
                 "E": "E\t 2,00 e 1,00."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 161,
@@ -922,7 +992,8 @@
                 "D": "D\t 48.",
                 "E": "E\t 64."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 162,
@@ -935,7 +1006,8 @@
                 "D": "D\t 1 46 43 46 45",
                 "E": "E\t 1 46 49 46 45 \u001f \u001e *020125AM24*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 163,
@@ -946,7 +1018,8 @@
                 "C": "D",
                 "E": "*020125AM25*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 164,
@@ -966,7 +1039,8 @@
                 "pag26_img3.png",
                 "pag26_img4.png",
                 "pag26_img5.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 165,
@@ -984,7 +1058,8 @@
                 "pag26_img3.png",
                 "pag26_img4.png",
                 "pag26_img5.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 166,
@@ -997,7 +1072,8 @@
                 "D": "D\t IV.",
                 "E": "E\t V."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 167,
@@ -1010,7 +1086,8 @@
                 "D": "D\t IV.",
                 "E": "E\t V."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 168,
@@ -1023,7 +1100,8 @@
                 "D": "D\t 1 235",
                 "E": "E\t 7 200"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 169,
@@ -1036,7 +1114,8 @@
                 "D": "D\t 4 800",
                 "E": "E\t 6 400 *020125AM27*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 170,
@@ -1049,7 +1128,8 @@
                 "D": "D\t mais de 60 e menos de 70 minutos.",
                 "E": "E\t 70 minutos ou mais."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 171,
@@ -1062,7 +1142,8 @@
                 "C": "C\t 28",
                 "E": "E\t 35 *020125AM28*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 172,
@@ -1075,7 +1156,8 @@
                 "C": "C\t LE = LF",
                 "D": "D\t LE = 4LF"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 173,
@@ -1088,7 +1170,8 @@
                 "D": "D\t 2,1.",
                 "E": "E\t 2,5."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 174,
@@ -1101,7 +1184,8 @@
                 "D": "D\t apenas nos ginásios I, II, III e IV.",
                 "E": "E\t em todos os ginásios. *020125AM29*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 175,
@@ -1114,7 +1198,8 @@
                 "D": "D\t S q q q q q ( ) , , \u001f \u001e \u001e \u001d 625 5 50 925 7 50 se se \u001c \u001b \u001a \u0019",
                 "E": "E\t S q q q q q ( ) , , \u001f \u001e \u001e \u001d 625 5 50 575 7 50 se se \u001c \u001b \u001a \u0019"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "Anulado"
         },
         {
             "numero": 176,
@@ -1127,7 +1212,8 @@
                 "D": "D\t IV.",
                 "E": "E\t V."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 177,
@@ -1140,7 +1226,8 @@
                 "D": "D\t R  R  T5  R  T1  R  R.",
                 "E": "E\t R  T5  R  T1  R  R  T2. *020125AM30*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 178,
@@ -1151,7 +1238,8 @@
                 "C": "D",
                 "E": ""
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 179,
@@ -1164,7 +1252,8 @@
                 "D": "D\t 133,60.",
                 "E": "E\t 534,40."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 180,
@@ -1177,7 +1266,8 @@
                 "D": "D\t 18 000",
                 "E": "E\t 29 000 *020125AM31*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         }
     ]
 }

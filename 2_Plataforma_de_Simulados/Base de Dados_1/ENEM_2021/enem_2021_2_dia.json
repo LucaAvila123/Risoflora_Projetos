@@ -12,7 +12,8 @@
                 "D": "poligênico.",
                 "E": "polialélico."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 92,
@@ -25,7 +26,8 @@
                 "C": "III",
                 "D": "IV"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 93,
@@ -38,7 +40,8 @@
                 "D": "\b\f\u0010 \u0005\r\u0004\u0002\u000f\b\u0002\u001e\u0004\u0005\u001e \u0005\r\u0007\b'\u001d\u0004\u0002\u000f \u0002?2\u001e\u0004\u00042\u0002\u000f\f\u0007\b\u0005\r \u0002\b\u0002\u0010 \u000f\u000e\u000f\b(",
                 "E": "\b2\r \u0007\b'\u001d\u0004\u0002 \u000f\b\t\u0002 %\u0007\u0004%\u0007\u000e \u000f\b\u000f \t\u0002 \u000b\fG\u0010\u000e\u001e\b\t\u0002 \u000f\b\u0002 \u0010\u000e\t\r\f\u0007\b\u0002 álcool e água."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 94,
@@ -51,7 +54,8 @@
                 "B": "O n",
                 "C": "n"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 95,
@@ -64,7 +68,8 @@
                 "D": "da quantidade de sementes por fruto.",
                 "E": "dos hábitats disponíveis para as plantas."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 96,
@@ -77,7 +82,8 @@
                 "D": "5,0",
                 "E": "8,0"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 97,
@@ -90,7 +96,8 @@
                 "D": "%\u0007\u0004\r '\u001d\u0004\u0002%\b\u0007\b\u0002\u0004\u0002\u0010 J\bJ\b\u0010 \rB\u0006\r\u0004(",
                 "E": "#\b\t\u001e\f2\b\u0007\u000e\b'\u001d\u0004\u0002%\b\u0007\b\u0002\b\u0002%2\b\u0005\r\b\u0002\"\u0004# \u0010("
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 98,
@@ -103,7 +110,8 @@
                 "D": "rum.",
                 "E": "uva."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 99,
@@ -116,7 +124,8 @@
                 "D": "120",
                 "E": "180"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 100,
@@ -157,7 +166,8 @@
                 "pag4_img24.png",
                 "pag4_img25.png",
                 "pag4_img26.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 101,
@@ -198,7 +208,8 @@
                 "pag4_img24.png",
                 "pag4_img25.png",
                 "pag4_img26.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 102,
@@ -239,7 +250,8 @@
                 "pag4_img24.png",
                 "pag4_img25.png",
                 "pag4_img26.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 103,
@@ -259,7 +271,8 @@
                 "pag5_img3.png",
                 "pag5_img4.png",
                 "pag5_img5.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 104,
@@ -279,7 +292,8 @@
                 "pag5_img3.png",
                 "pag5_img4.png",
                 "pag5_img5.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 105,
@@ -292,7 +306,8 @@
                 "D": "VERDE VERMELHA AZUL",
                 "E": "VERDE VERMELHA AZUL"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 106,
@@ -307,7 +322,8 @@
             },
             "imagens": [
                 "pag7_img0.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 107,
@@ -322,7 +338,8 @@
             },
             "imagens": [
                 "pag7_img0.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 108,
@@ -335,7 +352,8 @@
                 "D": "IV.",
                 "E": "V."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 109,
@@ -348,7 +366,8 @@
                 "D": "metanol.",
                 "E": "biodiesel."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 110,
@@ -361,7 +380,8 @@
                 "D": "impedimento do desenvolvimento da larva.",
                 "E": "repelência da forma transmissora da doença."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 111,
@@ -374,7 +394,8 @@
                 "D": "\u0004\u0005# \u001e'\u001d\u0004\u0002 \u0002\u000e\u0007\u0007\b\u000f\u000e\b'\u001d\u0004(",
                 "E": "\u0004\u0005# \u001e'\u001d\u0004\u0002 \u0002\u001e\u0004\u0005# \u001e'\u001d\u0004("
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 112,
@@ -387,7 +408,8 @@
                 "D": "densidade dos corpos.",
                 "E": "\b\u001e 2 \u0007\b'\u001d\u0004\u0002\u000f\b\u0002J\u0007\b#\u000e\u000f\b\u000f ("
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 113,
@@ -400,7 +422,8 @@
                 "D": "64.",
                 "E": "100."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 114,
@@ -413,7 +436,8 @@
                 "D": "4",
                 "E": "5"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 115,
@@ -426,7 +450,8 @@
                 "D": "Entre o amarelo e o laranja.",
                 "E": "Entre o laranja e o vermelho."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 116,
@@ -439,7 +464,8 @@
                 "C": "Urano.",
                 "D": "Saturno."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 117,
@@ -452,7 +478,8 @@
                 "D": "R4 \t R1 \t R3 \t R2.",
                 "E": "R4 \t R3 \t R2 \t R1."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 118,
@@ -465,7 +492,8 @@
                 "D": "\u0007 \t%\u000e\u0007\b'\u001d\u0004\u0002\b \u0007B!\u000e\u001e\b(",
                 "E": "P\u0004\tP\u0004\u0007\u000e2\b'\u001d\u0004\u0002\u0004@\u000e\u000f\b\r\u000e#\b("
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 119,
@@ -478,7 +506,8 @@
                 "D": "4.",
                 "E": "5."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 120,
@@ -491,7 +520,8 @@
                 "D": "peixes herbívoros.",
                 "E": "algas macroscópicas."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 121,
@@ -502,7 +532,8 @@
                 "C": "D",
                 "E": ""
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 122,
@@ -515,7 +546,8 @@
                 "D": "Divulgar na rádio local, no jornal impresso e nas redes  sociais que a escola está realizando a coleta seletiva.",
                 "E": "Colocar recipientes coletores de lixo reciclável fora da   \t\u001e\u00042\b\u0002%\b\u0007\b\u0002 \u0005\r\u0007 J\b\u0002#\u00042\f\u0005\r?\u0007\u000e\b\u0002% 2\b\u0002%\u0004%\f2\b'\u001d\u0004("
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 123,
@@ -528,7 +560,8 @@
                 "D": "Clonagem terapêutica.",
                 "E": "Mapeamento genético."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 124,
@@ -541,7 +574,8 @@
                 "D": "IV.",
                 "E": "V."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 125,
@@ -554,7 +588,8 @@
                 "D": "Hipotálamo.",
                 "E": "\u0016 \f\u0007\u0004/+\u000e%B\u0006\t ("
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 126,
@@ -567,7 +602,8 @@
                 "D": "\b2\f\u0010G\u0005\u000e\u0004$\u0002P \u0007\u0007\u0004\u0002 \u0002\u001e\u0004!\u0007 /\b'\u0004(",
                 "E": "P \u0007\u0007\u0004$\u0002\b2\f\u0010G\u0005\u000e\u0004\u0002 \u0002\u001e\u0004!\u0007 /\b'\u0004("
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 127,
@@ -580,7 +616,8 @@
                 "E": "v",
                 "C": "v"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 128,
@@ -593,7 +630,8 @@
                 "D": "45 m/s.",
                 "E": "50 m/s."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 129,
@@ -606,7 +644,8 @@
                 "D": "125,0 g.",
                 "E": "250,0 g."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 130,
@@ -619,7 +658,8 @@
                 "D": "\u001a\f!\t\r\u000e\r\f\u000e'\u001d\u0004\u0002\u000f \u0002\u0012\u0002%\u0004\u0007\u0002\u0002\u0005\u0004\u0002\u001eB\u000f\u0004\u0005\u0002¼(",
                 "E": "\u0013 2 '\u001d\u0004\u0002\u000f\u0004\t\u0002\u000f\u0004\u000e\t\u0002%\u0007\u000e\u0010 \u000e\u0007\u0004\t\u0002\u0005\f\u001e2 \u0004\rG\u000f \u0004\t\u0002\u0005\u0004\u0002\u001eB\u000f\u0004\u0005\u0002&("
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 131,
@@ -632,7 +672,8 @@
                 "D": "\u0007\u000e\u0006\u001e\b'\u001d\u0004(",
                 "E": "\b%\u0004\u0005\u000e\u0006\u001e\b'\u001d\u0004("
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 132,
@@ -645,7 +686,8 @@
                 "D": "% \u000e@ \t$\u0002 %\u0004\u0007\u000b\f \u0002 \b\u0002 \u001e\u000e\u0007\u001e\f2\b'\u001d\u0004\u0002 Z\u0002 \t\u000e\u0010%2 \t$\u0002 \u0004\u001e\u0004\u0007\u0007 \u0005\u000f\u0004\u0002 \f\u0010\b\u0002%\b\t\t\bJ \u0010\u0002K\u0005\u000e\u001e\b\u0002% 2\u0004\u0002\u001e\u0004\u0007\b'\u001d\u0004(",
                 "E": "anfíbios,  porque  pressões  diferenciais  isolam  temporalmente o sangue venoso do arterial."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 133,
@@ -667,7 +709,8 @@
                 "pag16_img5.png",
                 "pag16_img6.png",
                 "pag16_img7.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 134,
@@ -689,7 +732,8 @@
                 "pag16_img5.png",
                 "pag16_img6.png",
                 "pag16_img7.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 135,
@@ -711,7 +755,8 @@
                 "pag16_img5.png",
                 "pag16_img6.png",
                 "pag16_img7.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 136,
@@ -724,7 +769,8 @@
                 "D": "581",
                 "E": "601"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 137,
@@ -737,7 +783,8 @@
                 "D": "10101.",
                 "E": "11001."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 138,
@@ -750,7 +797,8 @@
                 "D": "2 200 000.",
                 "E": "2 800 000."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 139,
@@ -763,7 +811,8 @@
                 "D": "6!   15! __  \r ___  2!    5!",
                 "E": "21! ____  7!14!"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 140,
@@ -776,7 +825,8 @@
                 "D": "2,36 mil reais.",
                 "E": "2,95 mil reais."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 141,
@@ -789,7 +839,8 @@
                 "D": "forte no plano e subida moderada.",
                 "E": "leve no plano e subida forte."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 142,
@@ -802,7 +853,8 @@
                 "D": "15.",
                 "E": "20."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 143,
@@ -815,7 +867,8 @@
                 "D": "X na Farmácia 2, e Y e Z na Farmácia 3.",
                 "E": "X, Y e Z na Farmácia 3."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 144,
@@ -828,7 +881,8 @@
                 "D": "8 trapézios isósceles e 12 quadrados.",
                 "E": "12 trapézios escalenos e 12 retângulos."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 145,
@@ -841,7 +895,8 @@
                 "D": "2",
                 "E": "4"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 146,
@@ -854,7 +909,8 @@
                 "D": "27,18.",
                 "E": "36,24."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 147,
@@ -867,7 +923,8 @@
                 "C": "732",
                 "E": "2 928"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 148,
@@ -880,7 +937,8 @@
                 "D": "hexágono.",
                 "E": "círculo."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 149,
@@ -893,7 +951,8 @@
                 "D": "kg{\rm1\rs2",
                 "E": "kg{\rm5\rs~"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 150,
@@ -906,7 +965,8 @@
                 "D": "33",
                 "E": "39"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 151,
@@ -919,7 +979,8 @@
                 "D": "17,4.",
                 "E": "18,0."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 152,
@@ -932,7 +993,8 @@
                 "D": "IV",
                 "E": "V"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 153,
@@ -945,7 +1007,8 @@
                 "D": "4,48.",
                 "E": "5,60."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 154,
@@ -958,7 +1021,8 @@
                 "E": "R I 1 000 500 0 5 000 10 000 15 000",
                 "C": "R I 1 000 500 0 5 000 10 000 15 000"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 155,
@@ -971,7 +1035,8 @@
                 "E": "Arrecadação 500 7 000 6 500 6 000 5 500 5 000 4 500 4 000 3 500 3 000 2 500 2 000 1 500 1 000 0 1 2 3 4 5 6 7 8 9 1011121314151617181920212223 Desconto",
                 "C": "Arrecadação Desconto 500 7 000 6 500 6 000 5 500 5 000 4 500 4 000 3 500 3 000 2 500 2 000 1 500 1 000 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 156,
@@ -984,7 +1049,8 @@
                 "D": "4",
                 "E": "5"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 157,
@@ -997,7 +1063,8 @@
                 "D": "1% maior.",
                 "E": "11% maior."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 158,
@@ -1010,7 +1077,8 @@
                 "D": "4,5",
                 "E": "4,4"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 159,
@@ -1023,7 +1091,8 @@
                 "D": "IV.",
                 "E": "V."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 160,
@@ -1036,7 +1105,8 @@
                 "D": "50,0",
                 "E": "70,0"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 161,
@@ -1049,7 +1119,8 @@
                 "D": "\u00046 cos (2t)",
                 "E": "6 sen (2t)"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 162,
@@ -1064,7 +1135,8 @@
             },
             "imagens": [
                 "pag25_img0.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 163,
@@ -1079,7 +1151,8 @@
             },
             "imagens": [
                 "pag25_img0.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 164,
@@ -1094,7 +1167,8 @@
             },
             "imagens": [
                 "pag25_img0.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 165,
@@ -1107,7 +1181,8 @@
                 "D": "abril.",
                 "E": "maio."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 166,
@@ -1120,7 +1195,8 @@
                 "D": "220.",
                 "E": "283,2."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 167,
@@ -1133,7 +1209,8 @@
                 "D": "900.",
                 "E": "1 000."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 168,
@@ -1146,7 +1223,8 @@
                 "D": "R, L, B e X.",
                 "B": "D, E, F e G."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 169,
@@ -1159,7 +1237,8 @@
                 "D": "15,7.",
                 "E": "17,5."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 170,
@@ -1172,7 +1251,8 @@
                 "D": "IV.",
                 "E": "V."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 171,
@@ -1185,7 +1265,8 @@
                 "D": "19",
                 "E": "27"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 172,
@@ -1198,7 +1279,8 @@
                 "D": "20 e 80.",
                 "E": "25 e 50."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 173,
@@ -1211,7 +1293,8 @@
                 "D": "10,5.",
                 "E": "15,0."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 174,
@@ -1224,7 +1307,8 @@
                 "D": "IV.",
                 "E": "V."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 175,
@@ -1237,7 +1321,8 @@
                 "D": "IV.",
                 "E": "V."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 176,
@@ -1250,7 +1335,8 @@
                 "D": "P = d\rn\rs + L",
                 "E": "P = d\rn + L + s"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 177,
@@ -1263,7 +1349,8 @@
                 "D": "9.",
                 "E": "10."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 178,
@@ -1276,7 +1363,8 @@
                 "D": "7 5 5 7 5 2 9 5 4 ! ! ! ! ! ! ! ! !",
                 "E": "9 3 5 7 2 9 4 10 ! ! ! ! ! ! ! !"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "anulada"
         },
         {
             "numero": 179,
@@ -1291,7 +1379,8 @@
             },
             "imagens": [
                 "pag31_img0.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 180,
@@ -1304,7 +1393,8 @@
             },
             "imagens": [
                 "pag31_img0.png"
-            ]
+            ],
+            "gabarito": "E"
         }
     ]
 }

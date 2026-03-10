@@ -3,15 +3,17 @@ import shutil
 import json
 import re
 import os
+import pandas as pd
 
-def processar_enem(caminho_pdf, endereco_imagens, ano):
+def processar_enem(caminho_pdf, endereco_imagens, caminho_gabarito, ano):
     doc = fitz.open(caminho_pdf)
     resultado = {"prova": f"ENEM {ano}", "questoes": []}
     if os.path.exists(endereco_imagens):
         shutil.rmtree(endereco_imagens)
     
     os.makedirs(endereco_imagens)
-
+    df = pd.read_csv(caminho_gabarito)
+    this_id = 1
     for num_pag in range(len(doc)):
         pagina = doc.load_page(num_pag)
         
@@ -35,7 +37,6 @@ def processar_enem(caminho_pdf, endereco_imagens, ano):
 
         # 2. Extração de Texto com Regex melhorado
         texto = pagina.get_text("text")
-        
         # Procura por "QUESTÃO" seguido de números, ignorando maiúsculas/minúsculas
         blocos = re.split(r'(?i)QUESTÃO\s+(\d+)', texto)
         
@@ -43,7 +44,8 @@ def processar_enem(caminho_pdf, endereco_imagens, ano):
             for i in range(1, len(blocos), 2):
                 num_q = blocos[i]
                 conteudo = blocos[i+1]
-                
+                gabarito_letra = df.loc[df['ID'] == this_id]['Gabarito'].values[0]
+
                 # Identificar alternativas A, B, C, D, E no final das questões
                 alternativas = {}
                 regex_alt = r'\n\s*([A-E])\s+(.*?)(?=\n\s*[A-E]\s+|$)'
@@ -60,8 +62,10 @@ def processar_enem(caminho_pdf, endereco_imagens, ano):
                     "pagina": num_pag + 1,
                     "enunciado": enunciado,
                     "alternativas": alternativas,
-                    "imagens": imagens_da_pagina if len(alternativas) > 0 else []
+                    "imagens": imagens_da_pagina if len(alternativas) > 0 else [],
+                    "gabarito": gabarito_letra
                 })
+                this_id += 1
                 
     return resultado
 
@@ -69,12 +73,12 @@ def processar_enem(caminho_pdf, endereco_imagens, ano):
 lista_pastas = ['2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025']
 for ano in lista_pastas:
     try:
-        dados_1_dia = processar_enem(f"./ENEM_{ano}/{ano}_PV_impresso_D1_CD1.pdf", f"./ENEM_{ano}/imagens_extraidas_1", ano)
+        dados_1_dia = processar_enem(f"./ENEM_{ano}/{ano}_PV_impresso_D1_CD1.pdf", f"./ENEM_{ano}/imagens_extraidas_1", f"./ENEM_{ano}/gabarito_{ano}_dia_1.csv", ano)
         with open(f"./ENEM_{ano}/enem_{ano}_1_dia.json", "w", encoding="utf-8") as f:
             json.dump(dados_1_dia, f, ensure_ascii=False, indent=4)
         print(f"Sucesso! {len(dados_1_dia['questoes'])} questões extraídas para o JSON.")
 
-        dados_2_dia = processar_enem(f"./ENEM_{ano}/{ano}_PV_impresso_D2_CD5.pdf", f"./ENEM_{ano}/imagens_extraidas_2", ano)
+        dados_2_dia = processar_enem(f"./ENEM_{ano}/{ano}_PV_impresso_D2_CD5.pdf", f"./ENEM_{ano}/imagens_extraidas_2", f"./ENEM_{ano}/gabarito_{ano}_dia_2.csv", ano)
         with open(f"./ENEM_{ano}/enem_{ano}_2_dia.json", "w", encoding="utf-8") as f:
             json.dump(dados_2_dia, f, ensure_ascii=False, indent=4)
         print(f"Sucesso! {len(dados_2_dia['questoes'])} questões extraídas para o JSON.")

@@ -14,7 +14,8 @@
             },
             "imagens": [
                 "pag2_img0.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 92,
@@ -29,7 +30,8 @@
             },
             "imagens": [
                 "pag2_img0.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 93,
@@ -44,7 +46,8 @@
             },
             "imagens": [
                 "pag2_img0.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 94,
@@ -57,7 +60,8 @@
                 "D": "D\t zinco.",
                 "E": "E\t ferro."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 95,
@@ -70,7 +74,8 @@
                 "D": "D\t do calor sensível e do calor latente de condensação.",
                 "E": "E\t do calor latente de condensação e do calor latente de vaporização. *020125AM3*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 96,
@@ -83,7 +88,8 @@
                 "D": "D\t IV.",
                 "E": "E\t V."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 97,
@@ -96,7 +102,8 @@
                 "D": "D\t 53.",
                 "E": "E\t 13."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 98,
@@ -109,7 +116,8 @@
                 "D": "D\t menos intenso para L 1 e o mesmo para L3.",
                 "E": "E\t mais intenso para L 1 e menos intenso para L3.   *020125AM4*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 99,
@@ -122,7 +130,8 @@
                 "D": "D\t competição entre o RNAm vacinal e o RNA viral pelos  sítios dos ribossomos.",
                 "E": "E\t incorporação do RNAm viral ao genoma do hospedeiro,  gerando novo fenótipo."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 100,
@@ -135,7 +144,8 @@
                 "D": "D\t passagem do espermatozoide pela corona radiata e  zona pelúcida.",
                 "E": "E\t fusão das membranas plasmáticas do ovócito e do  espermatozoide."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 101,
@@ -148,7 +158,8 @@
                 "D": "D\t campo magnético variável.",
                 "E": "E\t ressonância eletromagnética."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 102,
@@ -161,7 +172,8 @@
                 "D": "D\t 2",
                 "E": "E\t 4 *020125AM5*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 103,
@@ -174,7 +186,8 @@
                 "D": "D\t diminuição da intensidade luminosa.",
                 "E": "E\t isolamento do contato com O2 atmosférico."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 104,
@@ -187,7 +200,8 @@
                 "D": "D\t vitaminas.",
                 "E": "E\t lipídios."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 105,
@@ -200,7 +214,8 @@
                 "D": "D\t Sangue.",
                 "E": "E\t Secreção ocular."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 106,
@@ -213,7 +228,8 @@
                 "D": "D\t v ≠ 0 para cima e a ≠ 0 para cima.",
                 "E": "E\t v ≠ 0 para baixo e a ≠ 0 para baixo. *020125AM6*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 107,
@@ -226,7 +242,8 @@
                 "D": "D\t aumento nos níveis dos hormônios LH e FSH.",
                 "E": "E\t elevação nos níveis sorológicos de adrenalina."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 108,
@@ -239,7 +256,8 @@
                 "D": "D\t hex-1-en-1-ol.",
                 "E": "E\t ácido hexanoico."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 109,
@@ -252,7 +270,8 @@
                 "D": "D\t Tubo polínico.",
                 "E": "E\t Vaso condutor."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 110,
@@ -265,7 +284,8 @@
                 "D": "D\t vidro for previamente esterilizado em altas  temperaturas.",
                 "E": "E\t reação do alumínio com gluconato de cálcio for  endotérmica."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 111,
@@ -278,7 +298,8 @@
                 "D": "D\t formação de brotos.",
                 "E": "E\t nutrição das raízes.   *020125AM7*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 112,
@@ -294,7 +315,8 @@
             "imagens": [
                 "pag8_img0.png",
                 "pag8_img1.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 113,
@@ -310,7 +332,8 @@
             "imagens": [
                 "pag8_img0.png",
                 "pag8_img1.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 114,
@@ -326,7 +349,8 @@
             "imagens": [
                 "pag8_img0.png",
                 "pag8_img1.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 115,
@@ -339,7 +363,8 @@
                 "D": "D\t tiverem a mesma intensidade.",
                 "E": "E\t propagarem-se com velocidades diferentes."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 116,
@@ -352,7 +377,8 @@
                 "D": "D\t Urina, pela presença de moléculas de ureia.",
                 "E": "E\t Leite, por causa do alto teor de gorduras."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 117,
@@ -365,7 +391,8 @@
                 "D": "D\t Ter baixa condutividade térmica e reduzir o resíduo  não biodegradável na natureza.",
                 "E": "E\t Ter alta condutividade térmica e possibilitar a  degradação do material no meio ambiente."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 118,
@@ -378,7 +405,8 @@
                 "D": "D\t menor massa de solutos dissolvidos.",
                 "E": "E\t maior temperatura de congelamento.   *020125AM9*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 119,
@@ -391,7 +419,8 @@
                 "D": "T0 T T (K) P (Pa) P0",
                 "E": "P0 T0 T T (K) P (Pa) *020125AM10*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 120,
@@ -404,7 +433,8 @@
                 "D": "D\t apenas trissômicos ou tetrassômicos.",
                 "E": "E\t normais, trissômicos ou tetrassômicos."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 121,
@@ -417,7 +447,8 @@
                 "D": "D\t cadeia carbônica.",
                 "E": "E\t estado de oxidação."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 122,
@@ -430,7 +461,8 @@
                 "D": "D\t dióxido de carbono.",
                 "E": "E\t citocromo c oxidase. *020125AM11*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 123,
@@ -443,7 +475,8 @@
                 "D": "D\t aumenta a oferta de alimento.",
                 "E": "E\t aumenta os locais de reprodução."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 124,
@@ -456,7 +489,8 @@
                 "D": "D\t remediar o raquitismo.",
                 "E": "E\t combater a febre amarela."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 125,
@@ -469,7 +503,8 @@
                 "D": "D\t Emitir gases tóxicos que são lançados no ambiente.",
                 "E": "E\t Produzir calor sem o consumo de combustíveis fósseis."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 126,
@@ -482,7 +517,8 @@
                 "D": "D\t 4",
                 "E": "E\t 5"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 127,
@@ -495,7 +531,8 @@
                 "D": "D\t deslocamento a grandes velocidades.",
                 "E": "E\t capacidade de voo em grandes altitudes."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 128,
@@ -508,7 +545,8 @@
                 "D": "D\t 32%",
                 "E": "E\t 75% *020125AM12*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 129,
@@ -521,7 +559,8 @@
                 "D": "D  5 6 7 4 3 2 1 0 0,0 0,2 0,4 0,6 0,8 1,0 1,2 1,4 Massa de Hg2Cl2 (g) Massa de NaCI (g)",
                 "E": "5 6 7 4 3 2 1 0 0,0 0,2 0,4 0,6 0,8 1,0 1,2 1,4 Massa de Hg2Cl2 (g) Massa de NaCI (g) *020125AM13*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 130,
@@ -534,7 +573,8 @@
                 "D": "D\t aceleração: T1 = 560 e T2 = 0; frenagem: T1 = 0 e  T2 = 960.",
                 "E": "E\t aceleração: T1 = 640 e T2 = 0; frenagem: T1 = 0 e  T2 = 1 040."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 131,
@@ -547,7 +587,8 @@
                 "D": "D\t metabolizados por glândulas.",
                 "E": "E\t utilizados como fonte energética."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 132,
@@ -560,7 +601,8 @@
                 "D": "D\t 4",
                 "E": "E\t 5"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 133,
@@ -573,7 +615,8 @@
                 "D": "D\t 100",
                 "E": "E\t 1 000 *020125AM14*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 134,
@@ -586,7 +629,8 @@
                 "D": "D\t diclofenaco sódico.",
                 "E": "E\t butilbrometo de escopolamina."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 135,
@@ -599,7 +643,8 @@
                 "D": "D\t 288",
                 "E": "E\t 360 *020125AM15*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 136,
@@ -612,7 +657,8 @@
                 "D": "D\t 7.",
                 "E": "E\t 8."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 137,
@@ -625,7 +671,8 @@
                 "D": "D\t  12 3",
                 "E": "E\t  22"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 138,
@@ -638,7 +685,8 @@
                 "D": "D\t 1 : 5 000.",
                 "E": "E\t 1 : 500 000. *020125AM16*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 139,
@@ -651,7 +699,8 @@
                 "D": "D\t quinta-feira.",
                 "E": "E\t sexta-feira."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 140,
@@ -664,7 +713,8 @@
                 "D": "D\t (19,5 ; 20,5).",
                 "E": "E\t (3,5 ; 4,0). *020125AM17*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 141,
@@ -677,7 +727,8 @@
                 "D": "D\t 2 100",
                 "E": "E\t 5 200"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 142,
@@ -690,7 +741,8 @@
                 "D": "D\t a = 180°",
                 "E": "E\t 180° < a < 360°"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 143,
@@ -703,7 +755,8 @@
                 "D": "D\t  min kg mL ⋅",
                 "E": "E\t  mL kg min ⋅ *020125AM18*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 144,
@@ -716,7 +769,8 @@
                 "D": "D\t Setembro.",
                 "E": "E\t Outubro."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 145,
@@ -729,7 +783,8 @@
                 "D": "D\t moda < média < mediana.",
                 "E": "E\t moda < mediana < média. *020125AM19*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 148,
@@ -744,7 +799,8 @@
             },
             "imagens": [
                 "pag20_img0.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 146,
@@ -759,14 +815,16 @@
             },
             "imagens": [
                 "pag20_img0.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 147,
             "pagina": 20,
             "enunciado": "Num certo momento de um jogo digital, a tela \napresenta a imagem representada na figura. O ponto Q1 \nrepresenta a posição de um jogador que está com a bola, \nos pontos Q2, Q3, Q4, Q5 e Q6 também indicam posições \nde jogadores da mesma equipe, e os pontos A e B indicam \nos dois pés da trave mais próxima deles. No momento da \npartida retratado, o jogador Q1 tem a posse da bola, que \nserá passada para um dos outros jogadores das posições \nQn, n ∈ {2, 3, 4, 5, 6}, cujo ângulo AQ B\nn\n tenha a mesma \nmedida do ângulo \nAQ B\n1 .\n*020125AM20*",
             "alternativas": {},
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 149,
@@ -779,7 +837,8 @@
                 "D": "D\t  2 9",
                 "E": "E\t  3 8"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 150,
@@ -792,7 +851,8 @@
                 "D": "D\t 140",
                 "E": "E\t 150"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 151,
@@ -805,7 +865,8 @@
                 "D": "D\t 30.",
                 "E": "E\t 33. *020125AM21*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 152,
@@ -818,7 +879,8 @@
                 "D": "D\t 89.",
                 "E": "E\t 92."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 153,
@@ -827,7 +889,8 @@
             "alternativas": {
                 "A": "figura ilustra uma roda-gigante no exato instante em  que a cadeira onde se encontra a pessoa P está no ponto  mais alto dessa roda-gigante. P Solo Com o passar do tempo, à medida que a roda-gigante  gira, com velocidade angular constante e no sentido  horário, a altura da cadeira onde se encontra a pessoa P,  em relação ao solo, vai se alterando. *020125AM22*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 154,
@@ -840,7 +903,8 @@
                 "D": "D\t 50",
                 "E": "E\t 70"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 155,
@@ -853,7 +917,8 @@
                 "D": "D\t 4.",
                 "E": "E\t 5."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 156,
@@ -866,7 +931,8 @@
                 "D": "D\t 12",
                 "E": "E\t 18"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 157,
@@ -879,7 +945,8 @@
                 "D": "D\t tipo III, pois p3 < p2 < p1.",
                 "E": "E\t tipo III, pois tem maior quantidade de caracteres. *020125AM23*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 158,
@@ -892,7 +959,8 @@
                 "D": "D\t  1 55 1 54 e",
                 "E": "E\t   1 100 1 100 e"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 159,
@@ -905,7 +973,8 @@
                 "D": "D\t  64 729 L 0",
                 "E": "E\t  128 2187   0 L"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 160,
@@ -918,7 +987,8 @@
                 "D": "D\t Ruim.",
                 "E": "E\t Péssimo. *020125AM24*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 161,
@@ -931,7 +1001,8 @@
                 "D": "D\t C = 1 − 0,9q",
                 "E": "E\t C = q − 10"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 162,
@@ -944,7 +1015,8 @@
                 "D": "D\t 7",
                 "E": "E\t 9"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 163,
@@ -957,7 +1029,8 @@
                 "D": "D\t IV.",
                 "E": "E\t V. *020125AM25*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 164,
@@ -970,7 +1043,8 @@
                 "D": "D\t 4 665,6",
                 "E": "E\t 4 860,0"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 165,
@@ -983,7 +1057,8 @@
                 "D": "D\t 4 500,00.",
                 "E": "E\t 9 000,00."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 166,
@@ -996,7 +1071,8 @@
                 "D": "D\t 68",
                 "E": "E\t 80 *020125AM26*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 167,
@@ -1011,7 +1087,8 @@
             },
             "imagens": [
                 "pag27_img0.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 168,
@@ -1026,7 +1103,8 @@
             },
             "imagens": [
                 "pag27_img0.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 169,
@@ -1041,7 +1119,8 @@
             },
             "imagens": [
                 "pag27_img0.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 170,
@@ -1054,7 +1133,8 @@
                 "D": "D\t 21,5%",
                 "E": "E\t 23,3%"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 171,
@@ -1067,7 +1147,8 @@
                 "D": "D\t y = 250x + 500",
                 "E": "E\t y = 500x + 250"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 172,
@@ -1080,7 +1161,8 @@
                 "D": "D",
                 "E": "E\t   *020125AM28*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 173,
@@ -1093,7 +1175,8 @@
                 "D": "D\t IV.",
                 "E": "E\t V."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 174,
@@ -1106,7 +1189,8 @@
                 "D": "D\t triângulo isósceles.",
                 "E": "E\t arco de circunferência."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 175,
@@ -1119,7 +1203,8 @@
                 "D": "D\t 500",
                 "E": "E\t 400"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 176,
@@ -1132,7 +1217,8 @@
                 "D": "D\t 14",
                 "E": "E\t 24 *020125AM29*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 177,
@@ -1147,7 +1233,8 @@
             },
             "imagens": [
                 "pag30_img0.png"
-            ]
+            ],
+            "gabarito": "Anulado"
         },
         {
             "numero": 178,
@@ -1162,7 +1249,8 @@
             },
             "imagens": [
                 "pag30_img0.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 179,
@@ -1175,7 +1263,8 @@
                 "B": "B\t H1.",
                 "D": "D\t I1."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 180,
@@ -1188,7 +1277,8 @@
                 "D": "D\t 10,50",
                 "E": "E\t 10,65  *020125AM31*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         }
     ]
 }

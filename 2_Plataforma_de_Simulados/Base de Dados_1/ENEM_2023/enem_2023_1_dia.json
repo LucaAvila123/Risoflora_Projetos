@@ -29,7 +29,8 @@
                 "pag2_img13.png",
                 "pag2_img14.png",
                 "pag2_img15.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 2,
@@ -59,7 +60,8 @@
                 "pag2_img13.png",
                 "pag2_img14.png",
                 "pag2_img15.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 3,
@@ -89,7 +91,8 @@
                 "pag2_img13.png",
                 "pag2_img14.png",
                 "pag2_img15.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 4,
@@ -104,7 +107,8 @@
             },
             "imagens": [
                 "pag3_img0.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 5,
@@ -119,7 +123,8 @@
             },
             "imagens": [
                 "pag3_img0.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 1,
@@ -135,7 +140,8 @@
             "imagens": [
                 "pag4_img0.png",
                 "pag4_img1.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 2,
@@ -151,7 +157,8 @@
             "imagens": [
                 "pag4_img0.png",
                 "pag4_img1.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 3,
@@ -164,7 +171,8 @@
                 "D": "D\t relação entre os sentidos do paladar e do olfato na  gastronomia.",
                 "E": "E\t gastronomia como representação da identidade  cultural de um povo."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 4,
@@ -177,7 +185,8 @@
                 "D": "D\t aproxima-se de pessoas indefesas.",
                 "E": "E\t faz-se presente de forma controladora."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 5,
@@ -190,7 +199,8 @@
                 "D": "D\t descuido da população com os sonhos dos imigrantes.",
                 "E": "E\t falta de segurança existente no transporte público  urbano. *010175AZ5*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 6,
@@ -203,7 +213,8 @@
                 "D": "D\t associação entre o lema olímpico e a cooperatividade.",
                 "E": "E\t vinculação entre o lema olímpico e os eventos atléticos."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 7,
@@ -216,7 +227,8 @@
                 "D": "D\t sugerem uma atmosfera onírica alinhada ao desejo  de resgate da espiritualidade.",
                 "E": "E\t mimetizam, na paisagem, os corpos transformados  pela violência da escravidão."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 8,
@@ -229,7 +241,8 @@
                 "D": "D\t ao intercâmbio cultural que ocorre entre os povos dos  diferentes países de língua portuguesa.",
                 "E": "E\t à distância territorial entre os falantes do português  que vivem em Portugal e no Brasil. *010175AZ6*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 9,
@@ -242,7 +255,8 @@
                 "D": "D\t legitimidade da voz dos representantes da nobreza.",
                 "E": "E\t diversidade dos meios disponíveis em uma época  histórica."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 10,
@@ -255,7 +269,8 @@
                 "D": "D\t necessidade de regulamentação do funcionamento  dos “bots”.",
                 "E": "E\t identificação de padrões de disseminação de  informações inverídicas."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 11,
@@ -268,7 +283,8 @@
                 "D": "D\t sensibilizar o público para a importância de uma  direção responsável.",
                 "E": "E\t restringir os problemas da violência no trânsito a  aspectos emocionais. *010175AZ7*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 12,
@@ -281,7 +297,8 @@
                 "D": "D\t presença de um foco narrativo de caráter impreciso.",
                 "E": "E\t ambiência de mistério das relações entre familiares."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 13,
@@ -294,7 +311,8 @@
                 "D": "D\t frustração causada pela vontade de retorno ao  passado.",
                 "E": "E\t disponibilidade para a exploração do prazer efêmero. *010175AZ8*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 14,
@@ -307,7 +325,8 @@
                 "D": "D\t jeito singular de falar aos ouvintes.",
                 "E": "E\t dificuldade de compreensão da história."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 15,
@@ -320,7 +339,8 @@
                 "D": "D\t resulta na extinção da cultura de povos originários.",
                 "E": "E\t inviabiliza o estudo da língua do povo Tikuna. *010175AZ9*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 16,
@@ -333,7 +353,8 @@
                 "D": "D\t diferencia-se em todo o Brasil, desenvolvendo cada  região a sua própria língua de sinais.",
                 "E": "E\t é ininteligível para parte dos usuários em razão das  mudanças de sinais motivadas geograficamente."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 17,
@@ -346,7 +367,8 @@
                 "D": "D\t identidade da revista, voltada para a recepção e a  promoção de ideias circulantes em livros.",
                 "E": "E\t padrão editorial dos artigos, organizados em torno de  uma proposta de design inovador."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 18,
@@ -359,7 +381,8 @@
                 "C": "C\t contraposição entre os vícios e as virtudes da vida  moderna.",
                 "D": "D\t busca constante pela liberdade de expressão individual."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 19,
@@ -372,7 +395,8 @@
                 "D": "D\t evidenciar argumentos que reforçam a ideia de que os  negros são vítimas em potencial da violência.",
                 "E": "E\t salientar o aumento da participação de jovens nos  movimentos de resistência na área da cultura."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 20,
@@ -385,7 +409,8 @@
                 "D": "D\t apresentar as consequências do esfacelamento da  linguagem.",
                 "E": "E\t criticar o obstáculo promovido pelos usos especializados  da linguagem."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 21,
@@ -398,7 +423,8 @@
                 "D": "D\t propiciaram melhor compreensão dos sintomas dos  pacientes.",
                 "E": "E\t divulgaram um novo rol de doenças características  da localidade. *010175AZ11*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 22,
@@ -413,7 +439,8 @@
             },
             "imagens": [
                 "pag12_img0.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 23,
@@ -428,7 +455,8 @@
             },
             "imagens": [
                 "pag12_img0.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 24,
@@ -443,7 +471,8 @@
             },
             "imagens": [
                 "pag12_img0.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 25,
@@ -456,7 +485,8 @@
                 "D": "D\t confirma a frustração da narradora com relação à terra.",
                 "E": "E\t sugere, na ausência da linguagem, a estagnação do  tempo."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 26,
@@ -469,7 +499,8 @@
                 "D": "D\t criticar a atenuação da violência contra os povos  escravizados nas memórias retratadas pelos museus.",
                 "E": "E\t imaginar a reação de indiferença de seus  contemporâneos com os escravizados libertos."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 27,
@@ -482,7 +513,8 @@
                 "C": "C\t retomada do antecedente pelo pronome “isso”.",
                 "D": "D\t contraposição de ideias marcada pela conjunção “mas”."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 28,
@@ -495,7 +527,8 @@
                 "D": "D\t ressaltar a existência de pressões externas.",
                 "E": "E\t manifestar as dores do processo de criação. *010175AZ13*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 29,
@@ -508,7 +541,8 @@
                 "D": "D\t questionamento sutil quanto à sanidade dos inconfidentes.",
                 "E": "E\t contraste entre austeridade pomposa e imagem  repugnante."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 30,
@@ -521,7 +555,8 @@
                 "D": "D\t incentivo ao desenvolvimento econômico com  a iniciativa privada.",
                 "E": "E\t espaço urbano marcado por uma política de isolamento  das crianças."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 31,
@@ -534,7 +569,8 @@
                 "D": "D\t transformar em paz as emoções conflituosas do casal.",
                 "E": "E\t condicionar a existência da paixão a espaços idealizados. *010175AZ14*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 32,
@@ -550,7 +586,8 @@
             "imagens": [
                 "pag15_img0.png",
                 "pag15_img1.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 33,
@@ -566,7 +603,8 @@
             "imagens": [
                 "pag15_img0.png",
                 "pag15_img1.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 34,
@@ -582,7 +620,8 @@
             "imagens": [
                 "pag15_img0.png",
                 "pag15_img1.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 35,
@@ -595,7 +634,8 @@
                 "D": "D\t favorecimento de fabricantes dos jogos.",
                 "E": "E\t modificação da audiência televisiva."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 36,
@@ -608,7 +648,8 @@
                 "D": "D\t perpetuar uma narrativa de apagamento dos fatos  históricos traumáticos.",
                 "E": "E\t ritualizar a passagem de atos fúnebres nas produções  coletivas com espírito festivo."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 37,
@@ -621,7 +662,8 @@
                 "D": "D\t enfatizar o caráter original e inovador de suas criações  artísticas, diferenciando-se das artes tradicionais.",
                 "E": "E\t trazer um sentido tecnológico às suas colagens, uma  vez que as imagens artísticas são recorrentes nas  redes sociais."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 38,
@@ -634,7 +676,8 @@
                 "D": "D\t distanciamento da realidade social indígena.",
                 "E": "E\t estímulo ao estudo da poesia indígena. *010175AZ16*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 39,
@@ -647,7 +690,8 @@
                 "D": "D\t rapidez na disseminação digital do verbete.",
                 "E": "E\t divulgação de plataformas para a criação de petição."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 40,
@@ -660,7 +704,8 @@
                 "D": "D\t necessidade de afastamento temporário das  competições.",
                 "E": "E\t impossibilidade de uso controlado de substâncias  exógenas."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 41,
@@ -673,7 +718,8 @@
                 "D": "D\t as instituições de inteligência.",
                 "E": "E\t as federações esportivas."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 42,
@@ -686,7 +732,8 @@
                 "D": "D\t variação de condição étnica.",
                 "E": "E\t desigualdade entre classes sociais. *010175AZ17*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 43,
@@ -701,7 +748,8 @@
             },
             "imagens": [
                 "pag18_img0.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 44,
@@ -716,7 +764,8 @@
             },
             "imagens": [
                 "pag18_img0.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 45,
@@ -731,7 +780,8 @@
             },
             "imagens": [
                 "pag18_img0.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 46,
@@ -746,7 +796,8 @@
             },
             "imagens": [
                 "pag20_img0.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 47,
@@ -761,7 +812,8 @@
             },
             "imagens": [
                 "pag20_img0.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 48,
@@ -776,7 +828,8 @@
             },
             "imagens": [
                 "pag20_img0.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 49,
@@ -791,7 +844,8 @@
             },
             "imagens": [
                 "pag20_img0.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 50,
@@ -804,7 +858,8 @@
                 "D": "D\t resgate do teocentrismo.",
                 "E": "E\t crítica ao eurocentrismo."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 51,
@@ -817,7 +872,8 @@
                 "D": "D\t estimular a cooperação regional.",
                 "E": "E\t combater os governos autocráticos."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 52,
@@ -830,7 +886,8 @@
                 "D": "D\t manutenção do sistema escolar.",
                 "E": "E\t capacitação de mobilidade individual."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 53,
@@ -843,7 +900,8 @@
                 "D": "D\t Sedimentação de erosão eólica.",
                 "E": "E\t Derretimento de geleiras glaciais."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 54,
@@ -856,7 +914,8 @@
                 "D": "D\t sustentar um argumento idealista.",
                 "E": "E\t defender uma posição intencionalista. *010175AZ21*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 55,
@@ -871,7 +930,8 @@
             },
             "imagens": [
                 "pag22_img0.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 56,
@@ -886,7 +946,8 @@
             },
             "imagens": [
                 "pag22_img0.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 57,
@@ -901,7 +962,8 @@
             },
             "imagens": [
                 "pag22_img0.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 58,
@@ -914,7 +976,8 @@
                 "D": "D\t práticas corporais e esportivas em decorrência de uma  imposição eclesiástica.",
                 "E": "E\t discursos filosóficos e antropológicos em resultado de  uma determinação paroquial."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 59,
@@ -927,7 +990,8 @@
                 "D": "D\t consagração de tradições medievais.",
                 "E": "E\t disseminação de produtos manufaturados."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 60,
@@ -940,7 +1004,8 @@
                 "D": "D\t violência patrimonial.",
                 "E": "E\t desentendimento matrimonial."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 61,
@@ -953,7 +1018,8 @@
                 "D": "D\t Concentração da produção.",
                 "E": "E\t Invisibilidade do profissional. *010175AZ23*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 62,
@@ -968,7 +1034,8 @@
             },
             "imagens": [
                 "pag24_img0.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 63,
@@ -983,7 +1050,8 @@
             },
             "imagens": [
                 "pag24_img0.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 64,
@@ -998,7 +1066,8 @@
             },
             "imagens": [
                 "pag24_img0.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 65,
@@ -1013,7 +1082,8 @@
             },
             "imagens": [
                 "pag24_img0.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 66,
@@ -1026,7 +1096,8 @@
                 "D": "D\t constância da economia.",
                 "E": "E\t romantização da carência."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 67,
@@ -1039,7 +1110,8 @@
                 "D": "D\t padronização alimentar dos povos tradicionais.",
                 "E": "E\t modernização logística de plantios convencionais."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 68,
@@ -1052,7 +1124,8 @@
                 "D": "D\t equilíbrio do ambiente das cidades.",
                 "E": "E\t controle da proliferação dos animais."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 69,
@@ -1065,7 +1138,8 @@
                 "D": "D\t desrespeito à dignidade humana.",
                 "E": "E\t oposição aos princípios hierárquicos.   *010175AZ25*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 70,
@@ -1080,7 +1154,8 @@
             },
             "imagens": [
                 "pag26_img0.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 71,
@@ -1095,7 +1170,8 @@
             },
             "imagens": [
                 "pag26_img0.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 72,
@@ -1110,7 +1186,8 @@
             },
             "imagens": [
                 "pag26_img0.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 73,
@@ -1123,7 +1200,8 @@
                 "D": "D\t O movimento de reformas religiosas.",
                 "E": "E\t A manutenção do sistema feudal."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 74,
@@ -1136,7 +1214,8 @@
                 "D": "D\t flexível no que diz respeito aos costumes religiosos.",
                 "E": "E\t compreensível no que concerne às normas laborais."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 75,
@@ -1149,7 +1228,8 @@
                 "D": "D\t Criminalização de práticas homofóbicas.",
                 "E": "E\t Contestação do comportamento machista."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 76,
@@ -1162,7 +1242,8 @@
                 "D": "D\t Participação feminina no mercado de trabalho.",
                 "E": "E\t Diminuição dos benefícios na licença-maternidade. *010175AZ27*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 77,
@@ -1175,7 +1256,8 @@
                 "D": "D\t A produção da terra garante a riqueza das nações.",
                 "E": "E\t A responsabilidade dos governantes assegura a saúde  dos povos."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 78,
@@ -1188,7 +1270,8 @@
                 "D": "D\t priorização de insumos químicos.",
                 "E": "E\t mecanização de técnicas de cultivo."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 79,
@@ -1201,7 +1284,8 @@
                 "D": "D\t sustenta a fugacidade da vida.",
                 "E": "E\t refuta a evolução biológica."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 80,
@@ -1214,7 +1298,8 @@
                 "D": "D\t regularizar a propriedade da terra.",
                 "E": "E\t estimular a oferta de mão de obra. *010175AZ28*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 81,
@@ -1227,7 +1312,8 @@
                 "D": "D\t regulamentação dos privilégios pela justiça social.",
                 "E": "E\t repartição de vantagens pela hierarquização cultural."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 82,
@@ -1240,7 +1326,8 @@
                 "D": "D\t fiscalização política dos fluxos de populações do Novo  e do Velho Mundo.",
                 "E": "E\t monitoramento social dos grupos de trabalhadores da  cidade e do campo."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 83,
@@ -1253,7 +1340,8 @@
                 "D": "D\t ampliação da microfauna.",
                 "E": "E\t decomposição do substrato."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "C"
         },
         {
             "numero": 84,
@@ -1266,7 +1354,8 @@
                 "D": "D\t ampliação dos momentos de socialização.",
                 "E": "E\t afastamento das atividades especializadas.   *010175AZ29*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 85,
@@ -1279,7 +1368,8 @@
                 "D": "D\t manutenção das barreiras fitossanitárias e a livre  circulação de mercadorias.",
                 "E": "E\t remoção dos entraves alfandegários e a melhor  remuneração de empregados."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "D"
         },
         {
             "numero": 86,
@@ -1292,7 +1382,8 @@
                 "D": "D\t consolidação da estratificação social.",
                 "E": "E\t ruptura de valores institucionalizados."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "E"
         },
         {
             "numero": 87,
@@ -1305,7 +1396,8 @@
                 "D": "D\t orientações constitucionais e estatutárias.",
                 "E": "E\t decretos legislativos e internacionais."
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "B"
         },
         {
             "numero": 88,
@@ -1318,7 +1410,8 @@
                 "D": "D\t Limitação do mercado monopolista.",
                 "E": "E\t Modernização da produção industrial. *010175AZ30*"
             },
-            "imagens": []
+            "imagens": [],
+            "gabarito": "A"
         },
         {
             "numero": 89,
@@ -1333,7 +1426,8 @@
             },
             "imagens": [
                 "pag31_img0.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 90,
@@ -1348,7 +1442,8 @@
             },
             "imagens": [
                 "pag31_img0.png"
-            ]
+            ],
+            "gabarito": "B"
         }
     ]
 }

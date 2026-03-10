@@ -15,7 +15,8 @@
             "imagens": [
                 "pag2_img0.png",
                 "pag2_img1.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 92,
@@ -31,7 +32,8 @@
             "imagens": [
                 "pag2_img0.png",
                 "pag2_img1.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 93,
@@ -47,7 +49,8 @@
             "imagens": [
                 "pag2_img0.png",
                 "pag2_img1.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 94,
@@ -63,7 +66,8 @@
             "imagens": [
                 "pag2_img0.png",
                 "pag2_img1.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 95,
@@ -81,7 +85,8 @@
                 "pag3_img1.png",
                 "pag3_img2.png",
                 "pag3_img3.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 96,
@@ -99,7 +104,8 @@
                 "pag3_img1.png",
                 "pag3_img2.png",
                 "pag3_img3.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 97,
@@ -117,7 +123,8 @@
                 "pag3_img1.png",
                 "pag3_img2.png",
                 "pag3_img3.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 98,
@@ -139,7 +146,8 @@
                 "pag4_img5.png",
                 "pag4_img6.png",
                 "pag4_img7.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 99,
@@ -161,7 +169,8 @@
                 "pag4_img5.png",
                 "pag4_img6.png",
                 "pag4_img7.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 100,
@@ -181,7 +190,8 @@
                 "pag4_img5.png",
                 "pag4_img6.png",
                 "pag4_img7.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 101,
@@ -198,7 +208,8 @@
                 "pag5_img0.png",
                 "pag5_img1.png",
                 "pag5_img2.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 102,
@@ -215,7 +226,8 @@
                 "pag5_img0.png",
                 "pag5_img1.png",
                 "pag5_img2.png"
-            ]
+            ],
+            "gabarito": "Anulado"
         },
         {
             "numero": 103,
@@ -232,7 +244,8 @@
                 "pag5_img0.png",
                 "pag5_img1.png",
                 "pag5_img2.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 104,
@@ -254,7 +267,8 @@
                 "pag6_img5.png",
                 "pag6_img6.png",
                 "pag6_img7.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 105,
@@ -276,7 +290,8 @@
                 "pag6_img5.png",
                 "pag6_img6.png",
                 "pag6_img7.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 106,
@@ -296,7 +311,8 @@
                 "pag6_img5.png",
                 "pag6_img6.png",
                 "pag6_img7.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 107,
@@ -312,7 +328,8 @@
             "imagens": [
                 "pag7_img0.png",
                 "pag7_img1.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 108,
@@ -328,7 +345,8 @@
             "imagens": [
                 "pag7_img0.png",
                 "pag7_img1.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 109,
@@ -348,7 +366,8 @@
                 "pag8_img5.png",
                 "pag8_img6.png",
                 "pag8_img7.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 110,
@@ -370,7 +389,8 @@
                 "pag8_img5.png",
                 "pag8_img6.png",
                 "pag8_img7.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 111,
@@ -392,7 +412,8 @@
                 "pag8_img5.png",
                 "pag8_img6.png",
                 "pag8_img7.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 112,
@@ -409,7 +430,8 @@
                 "pag9_img0.png",
                 "pag9_img1.png",
                 "pag9_img2.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 113,
@@ -426,7 +448,8 @@
                 "pag9_img0.png",
                 "pag9_img1.png",
                 "pag9_img2.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 114,
@@ -443,7 +466,8 @@
                 "pag9_img0.png",
                 "pag9_img1.png",
                 "pag9_img2.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 115,
@@ -460,7 +484,8 @@
                 "pag9_img0.png",
                 "pag9_img1.png",
                 "pag9_img2.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 116,
@@ -477,7 +502,8 @@
                 "pag10_img0.png",
                 "pag10_img1.png",
                 "pag10_img2.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 117,
@@ -494,7 +520,8 @@
                 "pag10_img0.png",
                 "pag10_img1.png",
                 "pag10_img2.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 118,
@@ -511,7 +538,8 @@
                 "pag10_img0.png",
                 "pag10_img1.png",
                 "pag10_img2.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 119,
@@ -528,7 +556,8 @@
                 "pag11_img0.png",
                 "pag11_img1.png",
                 "pag11_img2.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 120,
@@ -545,7 +574,8 @@
                 "pag11_img0.png",
                 "pag11_img1.png",
                 "pag11_img2.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 121,
@@ -562,7 +592,8 @@
                 "pag11_img0.png",
                 "pag11_img1.png",
                 "pag11_img2.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 122,
@@ -580,7 +611,8 @@
                 "pag12_img1.png",
                 "pag12_img2.png",
                 "pag12_img3.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 123,
@@ -598,7 +630,8 @@
                 "pag12_img1.png",
                 "pag12_img2.png",
                 "pag12_img3.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 124,
@@ -616,7 +649,8 @@
                 "pag13_img1.png",
                 "pag13_img2.png",
                 "pag13_img3.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 125,
@@ -634,7 +668,8 @@
                 "pag13_img1.png",
                 "pag13_img2.png",
                 "pag13_img3.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 126,
@@ -652,7 +687,8 @@
                 "pag13_img1.png",
                 "pag13_img2.png",
                 "pag13_img3.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 127,
@@ -670,7 +706,8 @@
                 "pag13_img1.png",
                 "pag13_img2.png",
                 "pag13_img3.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 128,
@@ -685,7 +722,8 @@
             },
             "imagens": [
                 "pag14_img0.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 129,
@@ -700,7 +738,8 @@
             },
             "imagens": [
                 "pag14_img0.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 130,
@@ -715,7 +754,8 @@
             },
             "imagens": [
                 "pag14_img0.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 131,
@@ -730,7 +770,8 @@
             },
             "imagens": [
                 "pag14_img0.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 132,
@@ -745,7 +786,8 @@
             },
             "imagens": [
                 "pag14_img0.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 133,
@@ -761,7 +803,8 @@
             "imagens": [
                 "pag15_img0.png",
                 "pag15_img1.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 134,
@@ -777,7 +820,8 @@
             "imagens": [
                 "pag15_img0.png",
                 "pag15_img1.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 135,
@@ -791,7 +835,8 @@
             "imagens": [
                 "pag15_img0.png",
                 "pag15_img1.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 136,
@@ -806,7 +851,8 @@
             },
             "imagens": [
                 "pag16_img0.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 137,
@@ -821,7 +867,8 @@
             },
             "imagens": [
                 "pag16_img0.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 138,
@@ -836,7 +883,8 @@
             },
             "imagens": [
                 "pag16_img0.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 139,
@@ -851,7 +899,8 @@
             },
             "imagens": [
                 "pag16_img0.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 140,
@@ -867,7 +916,8 @@
             "imagens": [
                 "pag17_img0.png",
                 "pag17_img1.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 141,
@@ -883,7 +933,8 @@
             "imagens": [
                 "pag17_img0.png",
                 "pag17_img1.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 142,
@@ -899,7 +950,8 @@
             "imagens": [
                 "pag17_img0.png",
                 "pag17_img1.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 143,
@@ -916,7 +968,8 @@
                 "pag18_img0.png",
                 "pag18_img1.png",
                 "pag18_img2.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 144,
@@ -933,7 +986,8 @@
                 "pag18_img0.png",
                 "pag18_img1.png",
                 "pag18_img2.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 145,
@@ -950,7 +1004,8 @@
                 "pag18_img0.png",
                 "pag18_img1.png",
                 "pag18_img2.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 146,
@@ -968,7 +1023,8 @@
                 "pag19_img3.png",
                 "pag19_img4.png",
                 "pag19_img5.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 147,
@@ -984,7 +1040,8 @@
             "imagens": [
                 "pag20_img0.png",
                 "pag20_img1.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 148,
@@ -1000,7 +1057,8 @@
             "imagens": [
                 "pag20_img0.png",
                 "pag20_img1.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 149,
@@ -1015,7 +1073,8 @@
             },
             "imagens": [
                 "pag21_img0.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 150,
@@ -1030,7 +1089,8 @@
             },
             "imagens": [
                 "pag21_img0.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 151,
@@ -1047,7 +1107,8 @@
                 "pag22_img0.png",
                 "pag22_img1.png",
                 "pag22_img2.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 152,
@@ -1064,7 +1125,8 @@
                 "pag22_img0.png",
                 "pag22_img1.png",
                 "pag22_img2.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 153,
@@ -1083,7 +1145,8 @@
                 "pag23_img4.png",
                 "pag23_img5.png",
                 "pag23_img6.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 154,
@@ -1099,7 +1162,8 @@
             "imagens": [
                 "pag24_img0.png",
                 "pag24_img1.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 155,
@@ -1115,7 +1179,8 @@
             "imagens": [
                 "pag24_img0.png",
                 "pag24_img1.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 156,
@@ -1131,7 +1196,8 @@
             "imagens": [
                 "pag24_img0.png",
                 "pag24_img1.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 157,
@@ -1147,7 +1213,8 @@
             "imagens": [
                 "pag25_img0.png",
                 "pag25_img1.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 158,
@@ -1163,7 +1230,8 @@
             "imagens": [
                 "pag25_img0.png",
                 "pag25_img1.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 159,
@@ -1179,7 +1247,8 @@
             "imagens": [
                 "pag25_img0.png",
                 "pag25_img1.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 160,
@@ -1195,7 +1264,8 @@
             "imagens": [
                 "pag25_img0.png",
                 "pag25_img1.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 161,
@@ -1217,7 +1287,8 @@
                 "pag26_img5.png",
                 "pag26_img6.png",
                 "pag26_img7.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 162,
@@ -1237,7 +1308,8 @@
                 "pag26_img5.png",
                 "pag26_img6.png",
                 "pag26_img7.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 163,
@@ -1254,7 +1326,8 @@
                 "pag27_img0.png",
                 "pag27_img1.png",
                 "pag27_img2.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 164,
@@ -1271,7 +1344,8 @@
                 "pag27_img0.png",
                 "pag27_img1.png",
                 "pag27_img2.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 165,
@@ -1288,7 +1362,8 @@
                 "pag27_img0.png",
                 "pag27_img1.png",
                 "pag27_img2.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 166,
@@ -1305,7 +1380,8 @@
                 "pag28_img0.png",
                 "pag28_img1.png",
                 "pag28_img2.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 167,
@@ -1322,7 +1398,8 @@
                 "pag28_img0.png",
                 "pag28_img1.png",
                 "pag28_img2.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 168,
@@ -1339,7 +1416,8 @@
                 "pag28_img0.png",
                 "pag28_img1.png",
                 "pag28_img2.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 169,
@@ -1355,7 +1433,8 @@
             "imagens": [
                 "pag29_img0.png",
                 "pag29_img1.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 170,
@@ -1371,7 +1450,8 @@
             "imagens": [
                 "pag29_img0.png",
                 "pag29_img1.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 171,
@@ -1387,7 +1467,8 @@
             "imagens": [
                 "pag29_img0.png",
                 "pag29_img1.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 172,
@@ -1403,7 +1484,8 @@
             "imagens": [
                 "pag29_img0.png",
                 "pag29_img1.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 173,
@@ -1420,7 +1502,8 @@
                 "pag30_img0.png",
                 "pag30_img1.png",
                 "pag30_img2.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 174,
@@ -1437,7 +1520,8 @@
                 "pag30_img0.png",
                 "pag30_img1.png",
                 "pag30_img2.png"
-            ]
+            ],
+            "gabarito": "E"
         },
         {
             "numero": 175,
@@ -1454,7 +1538,8 @@
                 "pag30_img0.png",
                 "pag30_img1.png",
                 "pag30_img2.png"
-            ]
+            ],
+            "gabarito": "A"
         },
         {
             "numero": 176,
@@ -1471,7 +1556,8 @@
                 "pag30_img0.png",
                 "pag30_img1.png",
                 "pag30_img2.png"
-            ]
+            ],
+            "gabarito": "D"
         },
         {
             "numero": 177,
@@ -1488,7 +1574,8 @@
                 "pag31_img0.png",
                 "pag31_img1.png",
                 "pag31_img2.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 178,
@@ -1505,7 +1592,8 @@
                 "pag31_img0.png",
                 "pag31_img1.png",
                 "pag31_img2.png"
-            ]
+            ],
+            "gabarito": "B"
         },
         {
             "numero": 179,
@@ -1522,7 +1610,8 @@
                 "pag31_img0.png",
                 "pag31_img1.png",
                 "pag31_img2.png"
-            ]
+            ],
+            "gabarito": "C"
         },
         {
             "numero": 180,
@@ -1539,7 +1628,8 @@
                 "pag31_img0.png",
                 "pag31_img1.png",
                 "pag31_img2.png"
-            ]
+            ],
+            "gabarito": "E"
         }
     ]
 }
