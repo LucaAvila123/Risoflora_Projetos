@@ -14,3 +14,4 @@
 
 1- Obtenção da base de dados
   - Arquivos JSON extraídos das provas do ENEM de 2018 a 2025; extração de imagens ainda está com problema; tempo gasto: 1h30 em 28/02/2026
+  - Atualização do código de extração e formulação inicial do classificador de questões: 3h em 10/03/2026
