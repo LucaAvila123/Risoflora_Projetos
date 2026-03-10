@@ -11,4 +11,4 @@
 **Carga horária prevista**: 40h
 
 ***Acompanhamento***
-Planejamento de uso do Moodle como plataforma para o fórum de dúvidas: 2h
+Planejamento de uso do Moodle como plataforma para o fórum de dúvidas: 2h em 10/03/2026
