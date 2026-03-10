@@ -1,3 +1,5 @@
+# TODO: alterar os arquivos JSON para não colocar a imagem como imperante das questões inteiras
+
 import fitz  # PyMuPDF
 import shutil
 import json
